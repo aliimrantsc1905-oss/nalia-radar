@@ -1,0 +1,48 @@
+name: İçtihat Radarı — günlük güncelleme
+
+on:
+  schedule:
+    # Her gün 06:40 ve 12:40 (Türkiye saati). Resmî Gazete gece yarısı yayımlanır,
+    # AYM kararları gün içinde eklenir; öğlen çalışması günün kararlarını yakalar.
+    - cron: "40 3 * * *"
+    - cron: "40 9 * * *"
+  workflow_dispatch: {}        # "Run workflow" düğmesiyle elle çalıştırma
+  push:
+    paths:
+      - "yorumlar.txt"         # büro notu eklendiğinde hemen yayımla
+
+permissions:
+  contents: write
+
+concurrency:
+  group: radar
+  cancel-in-progress: false
+
+jobs:
+  guncelle:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Testler
+        run: python -m unittest discover tests
+
+      - name: Kaynakları tara
+        run: python topla.py
+
+      - name: Değişiklik varsa kaydet
+        run: |
+          git config user.name  "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add data/radar.json
+          if git diff --cached --quiet; then
+            echo "Yeni kayıt yok."
+          else
+            git commit -m "Radar güncellemesi $(TZ=Europe/Istanbul date +'%d.%m.%Y %H:%M')"
+            git push
+          fi
