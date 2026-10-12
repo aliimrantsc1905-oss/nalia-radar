@@ -44,5 +44,6 @@ jobs:
             echo "Yeni kayıt yok."
           else
             git commit -m "Radar güncellemesi $(TZ=Europe/Istanbul date +'%d.%m.%Y %H:%M')"
+            git pull --rebase origin main
             git push
           fi
