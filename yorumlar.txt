@@ -18,11 +18,4 @@
 # kendi notlarınızı ekleyebilirsiniz.
 
 ---
-tarih: 2026-10-12
-baslik: AYM — Ön alım bedelinin nemalandırılmaması (T. İri, B. No: 2021/1240)
-kaynak: https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjNkMjUxZDg4LWI5MTItNDBlOC04MmFjLTE2ZWE0ODU1NmJlOA&type=BireyselBasvuru
-alan: Gayrimenkul, Anayasa
-yazar: Nalia Hukuk
-yorum: ÖRNEK NOT — bu metni kendi değerlendirmenizle değiştirin.
-Ön alım davalarında mahkeme veznesine yatırılan bedelin uzun yargılama
-boyunca nemalandırılmaması mülkiyet hakkı ihlali olarak değerlendirilmiştir.
+
