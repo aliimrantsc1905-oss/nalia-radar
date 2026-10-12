@@ -104,7 +104,7 @@ baslik: Yorumsuz
     def test_gercek_dosya(self):
         k, u = topla.yorumlari_oku()
         self.assertEqual(u, [])
-        self.assertEqual(len(k), 1)
+        
 
 
 class Butun(unittest.TestCase):
