@@ -1,12 +1,13 @@
 {
  "surum": 1,
- "guncelleme": "2026-10-12T19:33+03:00",
+ "guncelleme": "2026-10-12T20:04+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
-   "gun": 13,
+   "gun": 12,
    "hata": [
-    "2026-09-29: <urlopen error timed out>"
+    "2026-10-07: <urlopen error timed out>",
+    "2026-10-02: <urlopen error timed out>"
    ]
   },
   "aym": {
@@ -175,21 +176,6 @@
    "esasNo": null,
    "kararNo": null,
    "basvuruNo": "2021/58337"
-  },
-  {
-   "id": "buro-2026-10-12-1",
-   "kaynak": "buro",
-   "tur": "Büro notu",
-   "baslik": "AYM — Ön alım bedelinin nemalandırılmaması (T. İri, B. No: 2021/1240)",
-   "ozet": "ÖRNEK NOT — bu metni kendi değerlendirmenizle değiştirin. Ön alım davalarında mahkeme veznesine yatırılan bedelin uzun yargılama boyunca nemalandırılmaması mülkiyet hakkı ihlali olarak değerlendirilmiştir.",
-   "yazar": "Nalia Hukuk",
-   "tarih": "2026-10-12",
-   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjNkMjUxZDg4LWI5MTItNDBlOC04MmFjLTE2ZWE0ODU1NmJlOA&type=BireyselBasvuru",
-   "alanlar": [
-    "Gayrimenkul",
-    "Anayasa"
-   ],
-   "onem": 3
   },
   {
    "id": "aym-389ee367-ae1f-4c84-99c4-cec46b98872c",
@@ -1519,9 +1505,7 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2022/81264",
-   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261002-8.pdf",
-   "rgSayi": "33388"
+   "basvuruNo": "2022/81264"
   },
   {
    "id": "rg-20261002-20261002-1htm",
@@ -2007,7 +1991,9 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2022/104137"
+   "basvuruNo": "2022/104137",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/09/20260929-4.pdf",
+   "rgSayi": "33385"
   },
   {
    "id": "aym-2e7e43a8-0b05-447b-802e-e4ab9ba6a31b",
@@ -2026,7 +2012,9 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2022/90210"
+   "basvuruNo": "2022/90210",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/09/20260929-3.pdf",
+   "rgSayi": "33385"
   },
   {
    "id": "aym-067aa7b1-5912-4975-abec-5161d72f63d9",
@@ -2045,7 +2033,37 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2022/44330"
+   "basvuruNo": "2022/44330",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/09/20260929-5.pdf",
+   "rgSayi": "33385"
+  },
+  {
+   "id": "rg-20260929-20260929-1htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Giresun Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-09-29",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/09/20260929-1.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33385"
+  },
+  {
+   "id": "rg-20260929-20260929-2htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Karabük Üniversitesi Çocuk Gelişimi Uygulama ve Araştırma Merkezi Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-09-29",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/09/20260929-2.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33385"
   },
   {
    "id": "aym-65b8f7e4-d2e7-495a-b1a9-57d6a87ba6fe",
