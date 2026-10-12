@@ -1,0 +1,28 @@
+# BÜRO YORUMLARI
+#
+# Radarda "Büro notu" olarak en üstte görünecek kayıtları buraya yazın.
+# Her kayıt üç tire (---) ile başlar. "yorum:" satırından sonra
+# istediğiniz kadar satır yazabilirsiniz; bir sonraki --- satırına kadar
+# hepsi yorumun parçası sayılır.
+#
+# Alanlar:
+#   tarih  : YYYY-AA-GG biçiminde (zorunlu)
+#   baslik : Kararın veya düzenlemenin kısa adı (zorunlu)
+#   kaynak : Karara / düzenlemeye bağlantı (isteğe bağlı)
+#   alan   : Ceza, Aile, İş, İdare, İcra, Ticaret, Gayrimenkul, Borçlar,
+#            Vergi, Tüketici, Bilişim, Anayasa (virgülle birden fazla yazılabilir)
+#   yazar  : Notu yazan avukat (isteğe bağlı)
+#   yorum  : Büronun kısa değerlendirmesi (zorunlu)
+#
+# "#" ile başlayan satırlar dikkate alınmaz. Aşağıdaki örneği silip
+# kendi notlarınızı ekleyebilirsiniz.
+
+---
+tarih: 2026-10-12
+baslik: AYM — Ön alım bedelinin nemalandırılmaması (T. İri, B. No: 2021/1240)
+kaynak: https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjNkMjUxZDg4LWI5MTItNDBlOC04MmFjLTE2ZWE0ODU1NmJlOA&type=BireyselBasvuru
+alan: Gayrimenkul, Anayasa
+yazar: Nalia Hukuk
+yorum: ÖRNEK NOT — bu metni kendi değerlendirmenizle değiştirin.
+Ön alım davalarında mahkeme veznesine yatırılan bedelin uzun yargılama
+boyunca nemalandırılmaması mülkiyet hakkı ihlali olarak değerlendirilmiştir.

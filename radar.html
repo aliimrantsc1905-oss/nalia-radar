@@ -1,0 +1,333 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>İçtihat Radarı</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Spectral:wght@400;500&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --forest:#1E2A23; --forest-3:#2F4136;
+  --brass:#B8935A; --brass-ink:#7A5B2C; --brass-wash:#F3EBDD;
+  --paper:#EDEFEA; --card:#FAFBF8; --ink:#1A211C; --stone:#5E695F; --stone-2:#7D877E;
+  --rule:rgba(26,33,28,.13); --rule-2:rgba(26,33,28,.22);
+  --rg:#2F4136; --aym:#6B3A2E; --buro:#7A5B2C;
+  --ok:#2F5D45; --warn:#8A3B2B;
+  --serif:"Spectral",Georgia,serif; --sans:"Manrope",system-ui,-apple-system,"Segoe UI",sans-serif;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{-webkit-text-size-adjust:100%}
+body{background:var(--paper);color:var(--ink);font:16px/1.55 var(--sans);-webkit-font-smoothing:antialiased}
+a{color:inherit}
+button{font:inherit;color:inherit;cursor:pointer}
+:focus-visible{outline:2px solid var(--brass);outline-offset:2px;border-radius:3px}
+.wrap{max-width:980px;margin:0 auto;padding:28px 20px 40px}
+@media (max-width:560px){.wrap{padding:20px 14px 32px}}
+
+/* başlık */
+.top{display:flex;justify-content:space-between;align-items:flex-end;gap:16px;flex-wrap:wrap;padding-bottom:20px;border-bottom:1px solid var(--rule-2)}
+h1{font:400 clamp(30px,4.4vw,42px)/1.05 var(--serif);letter-spacing:-.01em}
+.sub{color:var(--stone);font-size:15px;margin-top:8px;max-width:56ch}
+.stamp{font-size:13px;color:var(--stone);text-align:right}
+.stamp b{color:var(--ink);font-weight:600}
+.stamp .warn{color:var(--warn);display:block;margin-top:2px}
+
+/* kontroller */
+.controls{position:sticky;top:0;z-index:5;background:var(--paper);padding:16px 0 12px;display:grid;gap:12px}
+.row{display:flex;gap:12px;align-items:center;flex-wrap:wrap;min-width:0}
+.row>*{min-width:0}
+.tabs{display:flex;background:#E2E6DF;border-radius:999px;padding:4px;gap:2px;flex-wrap:wrap}
+.tab{border:0;background:none;padding:8px 14px;border-radius:999px;font-size:14px;font-weight:600;color:var(--stone);white-space:nowrap}
+.tab .n{font-weight:500;color:var(--stone-2);margin-left:4px;font-size:13px}
+.tab[aria-selected="true"]{background:var(--forest);color:#EEF0EA}
+.tab[aria-selected="true"] .n{color:#B9C2B9}
+.search{flex:1 1 220px;position:relative}
+.search input{width:100%;font:inherit;font-size:15px;padding:10px 14px 10px 38px;border:1px solid var(--rule-2);border-radius:999px;background:var(--card);color:var(--ink)}
+.search input:focus{outline:none;border-color:var(--forest);box-shadow:0 0 0 3px rgba(184,147,90,.28)}
+.search svg{position:absolute;left:13px;top:50%;transform:translateY(-50%);width:17px;height:17px;color:var(--stone)}
+.chips{display:flex;gap:6px;overflow-x:auto;min-width:0;scrollbar-width:none;padding-bottom:2px;flex:1 1 auto}
+.chips::-webkit-scrollbar{display:none}
+.chip{border:1px solid var(--rule-2);background:transparent;padding:5px 12px;border-radius:999px;font-size:13px;font-weight:500;color:var(--ink);white-space:nowrap}
+.chip:hover{border-color:var(--forest)}
+.chip[aria-pressed="true"]{background:var(--brass-wash);border-color:var(--brass);color:var(--brass-ink);font-weight:600}
+.toggle{display:flex;align-items:center;gap:8px;font-size:13px;color:var(--stone);white-space:nowrap;cursor:pointer;user-select:none}
+.toggle input{accent-color:var(--forest);width:16px;height:16px}
+
+/* büro notları */
+.notes{margin:8px 0 6px;display:grid;gap:12px}
+.note{background:var(--card);border:1px solid var(--rule);border-left:3px solid var(--brass);border-radius:4px;padding:18px 20px}
+.note .lbl{font-size:12px;font-weight:700;color:var(--buro);letter-spacing:.02em}
+.note h3{font:500 21px/1.25 var(--serif);margin:4px 0 8px}
+.note p{color:#2E372F;max-width:72ch}
+.note .by{font-size:13px;color:var(--stone);margin-top:10px}
+
+/* günler */
+.day{margin-top:26px}
+.dayhead{display:flex;justify-content:space-between;align-items:baseline;gap:12px;flex-wrap:wrap;padding-bottom:8px;border-bottom:1px solid var(--rule-2)}
+.dayhead h2{font:500 19px/1.2 var(--serif)}
+.dayhead a{font-size:13px;color:var(--stone);text-decoration:none;border-bottom:1px solid var(--rule-2)}
+.dayhead a:hover{color:var(--ink);border-color:var(--brass)}
+.item{padding:16px 0;border-bottom:1px solid var(--rule);display:grid;gap:6px}
+.meta{display:flex;gap:8px;align-items:center;flex-wrap:wrap;font-size:12.5px;color:var(--stone)}
+.src{font-weight:700;letter-spacing:.01em}
+.src.rg{color:var(--rg)} .src.aym{color:var(--aym)} .src.buro{color:var(--buro)}
+.pill{padding:1px 8px;border-radius:999px;font-weight:600;font-size:12px;border:1px solid currentColor}
+.pill.ihlal{color:var(--warn)} .pill.yok{color:var(--stone)} .pill.iptal{color:var(--ok)}
+.item h3{font:500 18px/1.3 var(--serif)}
+.item h3 a{text-decoration:none}
+.item h3 a:hover{text-decoration:underline;text-decoration-color:var(--brass);text-underline-offset:3px}
+.item.low h3{font-size:16px;color:#3A443B}
+.ozet{color:#3A443B;font-size:15px;max-width:76ch;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.ozet.open{-webkit-line-clamp:unset;display:block}
+.more{border:0;background:none;color:var(--brass-ink);font-size:13px;font-weight:600;justify-self:start;padding:0}
+.foot{display:flex;gap:6px 14px;align-items:center;flex-wrap:wrap}
+.tag{font-size:12px;color:var(--stone);background:#E2E6DF;padding:1px 8px;border-radius:3px}
+.links{display:flex;gap:14px;margin-left:auto;font-size:13px;font-weight:600}
+.links a{color:var(--forest);text-decoration:none;border-bottom:1px solid var(--brass)}
+.links a:hover{color:var(--brass-ink)}
+@media (max-width:560px){.links{margin-left:0;width:100%}}
+
+mark{background:var(--brass-wash);color:inherit;padding:0 1px;border-radius:2px}
+
+.state{text-align:center;padding:56px 16px;color:var(--stone)}
+.state h3{font:500 20px var(--serif);color:var(--ink);margin-bottom:6px}
+.state a,.state button{color:var(--forest);font-weight:600}
+.state button{border:0;background:none;text-decoration:underline;text-decoration-color:var(--brass);text-underline-offset:3px}
+.loadmore{display:block;margin:28px auto 0;border:1px solid var(--rule-2);background:var(--card);padding:11px 22px;border-radius:999px;font-weight:600;font-size:14px}
+.loadmore:hover{border-color:var(--forest)}
+.skel{height:14px;background:linear-gradient(90deg,#E2E6DF,#ECEFE9,#E2E6DF);background-size:200% 100%;border-radius:3px;margin:22px 0 10px}
+@media (prefers-reduced-motion:no-preference){.skel{animation:sh 1.4s linear infinite}@keyframes sh{to{background-position:-200% 0}}}
+.disclaimer{margin-top:36px;padding-top:16px;border-top:1px solid var(--rule-2);font-size:12.5px;color:var(--stone-2);max-width:80ch}
+.disclaimer a{color:var(--stone)}
+@media (max-width:560px){.tabs{width:100%;flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none}.tabs::-webkit-scrollbar{display:none}.tab{padding:7px 11px}.chips{flex-basis:100%}.stamp{text-align:left}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div>
+      <h1>İçtihat Radarı</h1>
+      <p class="sub">Resmî Gazete ve Anayasa Mahkemesi'nden her gün derlenen yeni düzenlemeler ve kararlar, büromuzun notlarıyla.</p>
+    </div>
+    <div class="stamp" id="stamp" aria-live="polite"></div>
+  </header>
+
+  <div class="controls" role="search">
+    <div class="row">
+      <div class="tabs" role="tablist" aria-label="Kaynak" id="tabs"></div>
+      <label class="search">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input id="q" type="search" placeholder="Kanun no, konu veya başvurucu ara" aria-label="Radarda ara" autocomplete="off">
+      </label>
+    </div>
+    <div class="row">
+      <div class="chips" id="chips" aria-label="Hukuk alanı"></div>
+      <label class="toggle"><input type="checkbox" id="rutin"> Rutin düzenlemeleri göster</label>
+    </div>
+  </div>
+
+  <main id="out" aria-live="polite">
+    <div class="skel" style="width:30%"></div><div class="skel"></div><div class="skel" style="width:80%"></div>
+    <div class="skel" style="width:24%;margin-top:34px"></div><div class="skel"></div><div class="skel" style="width:70%"></div>
+  </main>
+
+  <p class="disclaimer">
+    Kaynaklar: <a href="https://www.resmigazete.gov.tr" target="_blank" rel="noopener">resmigazete.gov.tr</a> ve
+    <a href="https://kararlarbilgibankasi.anayasa.gov.tr" target="_blank" rel="noopener">AYM Kararlar Bilgi Bankası</a>.
+    Kayıtlar otomatik derlenir ve günde iki kez güncellenir; hukuk alanı etiketleri anahtar kelimeyle atanır, hatalı olabilir.
+    Bu sayfa genel bilgilendirme amaçlıdır, hukuki görüş niteliği taşımaz.
+  </p>
+</div>
+
+<script>
+/* ======= AYAR =======
+   GitHub kurulumundan sonra KULLANICI kısmını kendi GitHub adınızla değiştirin. */
+var DATA_URL = "https://raw.githubusercontent.com/KULLANICI/nalia-radar/main/data/radar.json";
+var ORNEK = /*__ORNEK_VERI__*/null;
+/* ==================== */
+
+(function(){
+"use strict";
+var SAYFA = 25;
+var ALANLAR = ["Ceza","Aile","İş","İdare","İcra","Ticaret","Gayrimenkul","Borçlar","Vergi","Tüketici","Bilişim","Anayasa"];
+var KAYNAKLAR = [["tum","Tümü"],["buro","Büro notları"],["rg","Resmî Gazete"],["aym","Anayasa Mahkemesi"]];
+var AYLAR = ["Ocak","Şubat","Mart","Nisan","Mayıs","Haziran","Temmuz","Ağustos","Eylül","Ekim","Kasım","Aralık"];
+var GUNLER = ["Pazar","Pazartesi","Salı","Çarşamba","Perşembe","Cuma","Cumartesi"];
+
+var S = {veri:null, kaynak:"tum", alan:null, q:"", rutin:false, goster:SAYFA, acik:{}};
+var $ = function(id){ return document.getElementById(id); };
+
+function esc(s){ return String(s==null?"":s).replace(/[&<>"']/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c];}); }
+function trLower(s){ return String(s||"").replace(/I/g,"ı").replace(/İ/g,"i").toLocaleLowerCase("tr"); }
+function fold(s){ return trLower(s).replace(/[çğıöşüâîû]/g,function(c){return {"ç":"c","ğ":"g","ı":"i","ö":"o","ş":"s","ü":"u","â":"a","î":"i","û":"u"}[c];}); }
+function vurgula(metin){
+  var t = esc(metin); if(!S.q) return t;
+  var kelimeler = S.q.trim().split(/\s+/).filter(function(k){return k.length>1;});
+  if(!kelimeler.length) return t;
+  var f = fold(t), out = "", i = 0, aralik = [];
+  kelimeler.forEach(function(k){ var fk=fold(esc(k)), j=0; while((j=f.indexOf(fk,j))>=0){ aralik.push([j,j+fk.length]); j+=fk.length; } });
+  if(!aralik.length) return t;
+  aralik.sort(function(a,b){return a[0]-b[0];});
+  aralik.forEach(function(r){ if(r[0]<i) return; out += t.slice(i,r[0])+"<mark>"+t.slice(r[0],r[1])+"</mark>"; i=r[1]; });
+  return out + t.slice(i);
+}
+function tarihYaz(iso, gunlu){
+  if(!iso) return "";
+  var p = iso.slice(0,10).split("-"), d = new Date(Date.UTC(+p[0],+p[1]-1,+p[2]));
+  return (+p[2])+" "+AYLAR[+p[1]-1]+" "+p[0]+(gunlu? ", "+GUNLER[d.getUTCDay()] : "");
+}
+function kisaTarih(iso){ var p=(iso||"").slice(0,10).split("-"); return p.length===3? p[2]+"."+p[1]+"."+p[0] : ""; }
+
+function eslesir(k){
+  if(S.kaynak!=="tum" && k.kaynak!==S.kaynak) return false;
+  if(S.alan && (k.alanlar||[]).indexOf(S.alan)<0) return false;
+  if(!S.rutin && k.onem<2 && !S.q) return false;
+  if(S.q){
+    var hay = fold([k.baslik,k.ozet,k.tur,k.etiket,k.sonuc,(k.alanlar||[]).join(" "),k.yazar].join(" "));
+    var ok = S.q.trim().split(/\s+/).every(function(w){ return hay.indexOf(fold(w))>=0; });
+    if(!ok) return false;
+  }
+  return true;
+}
+
+function sonucPill(k){
+  if(!k.sonuc) return "";
+  var s = k.sonuc, c = "yok";
+  if(/İhlal\)/.test(s) && !/Olmadığı/.test(s)) c="ihlal";
+  if(/İptal/.test(s)) c="iptal";
+  var etiket = s.replace(/^Esas\s*[-–]?\s*/,"").replace(/[()]/g,"");
+  return '<span class="pill '+c+'">'+esc(etiket)+'</span>';
+}
+var KAYNAK_AD = {rg:"Resmî Gazete", aym:"Anayasa Mahkemesi", buro:"Büro notu"};
+
+function kayitHTML(k){
+  var acik = S.acik[k.id];
+  var h = '<article class="item'+(k.onem<2?' low':'')+'">';
+  h += '<div class="meta"><span class="src '+k.kaynak+'">'+esc(k.tur)+'</span>';
+  if(k.etiket) h += '<span>'+esc(k.etiket)+'</span>';
+  if(k.kararTarihi) h += '<span>Karar: '+kisaTarih(k.kararTarihi)+'</span>';
+  h += sonucPill(k)+'</div>';
+  h += '<h3>'+(k.url? '<a href="'+esc(k.url)+'" target="_blank" rel="noopener">'+vurgula(k.baslik)+'</a>' : vurgula(k.baslik))+'</h3>';
+  if(k.ozet){
+    h += '<p class="ozet'+(acik?' open':'')+'" id="oz-'+esc(k.id)+'">'+vurgula(k.ozet)+'</p>';
+    if(k.ozet.length>260) h += '<button class="more" data-ac="'+esc(k.id)+'" aria-expanded="'+(acik?'true':'false')+'" aria-controls="oz-'+esc(k.id)+'">'+(acik?'Daha az':'Devamını oku')+'</button>';
+  }
+  h += '<div class="foot">';
+  (k.alanlar||[]).forEach(function(a){ h += '<span class="tag">'+esc(a)+'</span>'; });
+  h += '<span class="links">';
+  if(k.url) h += '<a href="'+esc(k.url)+'" target="_blank" rel="noopener">'+(k.kaynak==="aym"?"Kararı aç":"Metni aç")+'</a>';
+  if(k.rgUrl) h += '<a href="'+esc(k.rgUrl)+'" target="_blank" rel="noopener">Resmî Gazete'+(k.rgSayi?' '+esc(k.rgSayi):'')+'</a>';
+  h += '</span></div></article>';
+  return h;
+}
+
+function notHTML(k){
+  return '<article class="note"><p class="lbl">Büro notu · '+esc(tarihYaz(k.tarih))+'</p>'+
+    '<h3>'+(k.url?'<a href="'+esc(k.url)+'" target="_blank" rel="noopener" style="text-decoration:none">'+vurgula(k.baslik)+'</a>':vurgula(k.baslik))+'</h3>'+
+    '<p>'+vurgula(k.ozet)+'</p><p class="by">'+esc(k.yazar||"Nalia Hukuk")+
+    ((k.alanlar||[]).length? ' · '+k.alanlar.map(esc).join(", ") : '')+'</p></article>';
+}
+
+function ciz(){
+  var v = S.veri; if(!v) return;
+  var tum = v.kayitlar||[];
+  var liste = tum.filter(eslesir);
+
+  // sekme sayıları (seçili kaynak hariç diğer filtrelere göre)
+  var kaynakSay = {tum:0,buro:0,rg:0,aym:0};
+  var k0 = S.kaynak;
+  tum.forEach(function(k){ S.kaynak="tum"; if(eslesir(k)){ kaynakSay.tum++; kaynakSay[k.kaynak]++; } });
+  S.kaynak = k0;
+  $("tabs").innerHTML = KAYNAKLAR.map(function(x){
+    return '<button class="tab" role="tab" data-k="'+x[0]+'" aria-selected="'+(S.kaynak===x[0])+'">'+x[1]+'<span class="n">'+kaynakSay[x[0]]+'</span></button>';
+  }).join("");
+
+  var out = "";
+  var notlar = liste.filter(function(k){return k.kaynak==="buro";});
+  var digerleri = liste.filter(function(k){return k.kaynak!=="buro";});
+  if(notlar.length && S.kaynak!=="rg" && S.kaynak!=="aym"){
+    out += '<section class="notes" aria-label="Büro notları">'+notlar.map(notHTML).join("")+'</section>';
+  }
+  var gosterilen = digerleri.slice(0, S.goster), gun = null, acikGun = false;
+  gosterilen.forEach(function(k){
+    if(k.tarih!==gun){
+      if(acikGun) out += '</section>';
+      gun = k.tarih; acikGun = true;
+      var rgS = tum.filter(function(x){return x.kaynak==="rg" && x.tarih===gun && x.rgSayi;})[0];
+      out += '<section class="day"><div class="dayhead"><h2>'+tarihYaz(gun,true)+'</h2>'+
+        (rgS? '<a href="https://www.resmigazete.gov.tr/eskiler/'+gun.slice(0,4)+'/'+gun.slice(5,7)+'/'+gun.replace(/-/g,"")+'.htm" target="_blank" rel="noopener">'+rgS.rgSayi+' sayılı Resmî Gazete</a>' : '')+
+        '</div>';
+    }
+    out += kayitHTML(k);
+  });
+  if(acikGun) out += '</section>';
+
+  if(!liste.length){
+    out = '<div class="state"><h3>Bu filtrelerle eşleşen kayıt yok</h3><p>'+
+      (!S.rutin && !S.q ? 'Rutin düzenlemeler (üniversite yönetmelikleri, acele kamulaştırma kararları vb.) gizli. ' : '')+
+      '<button data-temizle>Filtreleri temizleyin</button></p></div>';
+  } else if(digerleri.length > S.goster){
+    out += '<button class="loadmore" data-dahafazla>Daha fazla göster ('+(digerleri.length-S.goster)+' kayıt daha)</button>';
+  }
+  $("out").innerHTML = out;
+}
+
+function chipsCiz(){
+  var say = {};
+  (S.veri.kayitlar||[]).forEach(function(k){ (k.alanlar||[]).forEach(function(a){ say[a]=(say[a]||0)+1; }); });
+  $("chips").innerHTML = '<button class="chip" data-alan="" aria-pressed="'+(!S.alan)+'">Tüm alanlar</button>' +
+    ALANLAR.filter(function(a){return say[a];}).map(function(a){
+      return '<button class="chip" data-alan="'+a+'" aria-pressed="'+(S.alan===a)+'">'+a+'</button>';
+    }).join("");
+}
+
+function damga(v, ornek){
+  var g = v.guncelleme ? new Date(v.guncelleme) : null;
+  var h = g && !isNaN(g) ? 'Son güncelleme <b>'+g.toLocaleDateString("tr-TR")+' '+g.toLocaleTimeString("tr-TR",{hour:"2-digit",minute:"2-digit"})+'</b>' : '';
+  var ks = v.kaynaklar||{}, uyari = [];
+  if(ks.rg && ks.rg.ok===false) uyari.push("Resmî Gazete bugün taranamadı");
+  if(ks.aym && ks.aym.ok===false) uyari.push("AYM bugün taranamadı");
+  if(ornek) uyari.push("Örnek veri gösteriliyor");
+  if(uyari.length) h += '<span class="warn">'+uyari.join(" · ")+'</span>';
+  $("stamp").innerHTML = h;
+}
+
+function hata(){
+  $("out").innerHTML = '<div class="state"><h3>Radar şu anda yüklenemedi</h3><p>Bağlantınızı kontrol edip sayfayı yenileyin. Bu sırada kaynaklara doğrudan ulaşabilirsiniz: '+
+    '<a href="https://www.resmigazete.gov.tr" target="_blank" rel="noopener">Resmî Gazete</a>, '+
+    '<a href="https://kararlarbilgibankasi.anayasa.gov.tr" target="_blank" rel="noopener">AYM Kararlar Bilgi Bankası</a>.</p></div>';
+}
+
+function basla(v, ornek){
+  S.veri = v; damga(v, ornek); chipsCiz(); ciz();
+}
+
+/* olaylar */
+document.addEventListener("click", function(e){
+  var t = e.target.closest("button"); if(!t) return;
+  if(t.dataset.k){ S.kaynak=t.dataset.k; S.goster=SAYFA; ciz(); }
+  else if(t.hasAttribute("data-alan")){ S.alan=t.dataset.alan||null; S.goster=SAYFA; chipsCiz(); ciz(); }
+  else if(t.dataset.ac){ S.acik[t.dataset.ac]=!S.acik[t.dataset.ac]; ciz(); var b=document.querySelector('[data-ac="'+t.dataset.ac+'"]'); if(b) b.focus(); }
+  else if(t.hasAttribute("data-dahafazla")){ S.goster+=SAYFA; ciz(); }
+  else if(t.hasAttribute("data-temizle")){ S.kaynak="tum"; S.alan=null; S.q=""; $("q").value=""; S.rutin=true; $("rutin").checked=true; S.goster=SAYFA; chipsCiz(); ciz(); }
+});
+var zt; $("q").addEventListener("input", function(){ clearTimeout(zt); var v=this.value; zt=setTimeout(function(){ S.q=v; S.goster=SAYFA; ciz(); },150); });
+$("rutin").addEventListener("change", function(){ S.rutin=this.checked; S.goster=SAYFA; ciz(); });
+
+/* veri */
+if(DATA_URL.indexOf("KULLANICI")>=0){
+  if(ORNEK) basla(ORNEK, true); else hata();
+} else {
+  var ctl = ("AbortController" in window) ? new AbortController() : null;
+  var zaman = setTimeout(function(){ if(ctl) ctl.abort(); }, 15000);
+  fetch(DATA_URL+"?t="+Math.floor(Date.now()/600000), ctl?{signal:ctl.signal}:{})
+    .then(function(r){ if(!r.ok) throw new Error(r.status); return r.json(); })
+    .then(function(v){ clearTimeout(zaman); basla(v,false); })
+    .catch(function(){ clearTimeout(zaman); if(ORNEK) basla(ORNEK,true); else hata(); });
+}
+})();
+</script>
+</body>
+</html>
