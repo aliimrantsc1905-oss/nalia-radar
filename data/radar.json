@@ -1,12 +1,12 @@
 {
  "surum": 1,
- "guncelleme": "2026-10-13T13:00+03:00",
+ "guncelleme": "2026-10-14T07:11+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
    "gun": 13,
    "hata": [
-    "2026-10-09: <urlopen error timed out>"
+    "2026-10-05: <urlopen error timed out>"
    ]
   },
   "aym": {
@@ -19,6 +19,75 @@
   }
  },
  "kayitlar": [
+  {
+   "id": "rg-20261014-20261014-1htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Coğrafi Veri İzinleri Yönetmeliği",
+   "ozet": "",
+   "tarih": "2026-10-14",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261014-1.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33400"
+  },
+  {
+   "id": "rg-20261014-20261014-2htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Hayvancılık İşletmelerinin Sınıflandırılmasına İlişkin Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-14",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261014-2.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33400"
+  },
+  {
+   "id": "rg-20261014-20261014-3htm",
+   "kaynak": "rg",
+   "tur": "Tebliğ",
+   "baslik": "Çiğ Süt Desteği ve Süt Piyasasının Düzenlenmesi Uygulama Tebliği (Tebliğ No: 2024/53)’nde Değişiklik Yapılmasına Dair Tebliğ (No: 2026/28)",
+   "ozet": "",
+   "tarih": "2026-10-14",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261014-3.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33400"
+  },
+  {
+   "id": "rg-20261014-20261014-4htm",
+   "kaynak": "rg",
+   "tur": "Tebliğ",
+   "baslik": "İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (No: 2026/31)",
+   "ozet": "",
+   "tarih": "2026-10-14",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261014-4.htm",
+   "alanlar": [
+    "Ticaret"
+   ],
+   "onem": 2,
+   "rgSayi": "33400"
+  },
+  {
+   "id": "aym-7fa798c2-4ad3-4fda-9d60-6ec950b2c011",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Mine Özen başvurusu",
+   "ozet": "Başvuru; boşanma davasının uzun sürmesi ve kanunda öngörülen bekleme süresi nedeniyle evlenme hakkının, yapılan yargılamada davanın sonucuna etkili iddiaların kararda karşılanmaması nedeniyle de gerekçeli karar hakkının ihlal edildiği iddialarına ilişkindir.",
+   "sonuc": "Esas (İhlal)",
+   "etiket": "B. No: 2021/24140",
+   "tarih": "2026-10-13",
+   "kararTarihi": "2026-06-18",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjdmYTc5OGMyLTRhZDMtNGZkYS05ZDYwLTZlYzk1MGIyYzAxMQ&type=BireyselBasvuru",
+   "alanlar": [
+    "Aile"
+   ],
+   "onem": 3,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2021/24140"
+  },
   {
    "id": "rg-20261013-20261013-1htm",
    "kaynak": "rg",
@@ -68,6 +137,44 @@
    ],
    "onem": 2,
    "rgSayi": "33399"
+  },
+  {
+   "id": "aym-09d8251e-6bb2-4a9a-9c41-df01e50b77df",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Süleyman Koç başvurusu",
+   "ozet": "Başvuru, karar sonucunu değiştirebilecek nitelikteki esaslı iddiaların karşılanmaması nedeniyle gerekçeli karar hakkının ihlal edildiği iddiasına ilişkindir.",
+   "sonuc": "Esas (İhlal Olmadığı)",
+   "etiket": "B. No: 2023/11234",
+   "tarih": "2026-10-13",
+   "kararTarihi": "2026-09-03",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjA5ZDgyNTFlLTZiYjItNGE5YS05YzQxLWRmMDFlNTBiNzdkZg&type=BireyselBasvuru",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 2,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2023/11234"
+  },
+  {
+   "id": "aym-c33a0416-6552-4a0a-9b79-d184dce91810",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "L.D. başvurusu",
+   "ozet": "Başvuru; devletin millî güvenliğine karşı faaliyette bulunduğuna karar verilen Fetullahçı Terör Örgütü ve/veya Paralel Devlet Yapılanmasıyla iltisakının ve irtibatının olduğu değerlendirilen yargı mensubunun meslekten çıkarılması nedeniyle özel hayata saygı hakkının, kesinleşmiş bir ceza mahkemesi kararı olmadan kamu görevinden çıkarma kararı verilmesi nedeniyle masumiyet karinesinin, açılan iptal davasının uzun sürmesi nedeniyle de makul sürede yargılanma hakkının ihlal edildiği iddialarına ilişkindir.",
+   "sonuc": "Esas (İhlal Olmadığı)",
+   "etiket": "B. No: 2021/40612",
+   "tarih": "2026-10-13",
+   "kararTarihi": "2026-06-18",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmMzM2EwNDE2LTY1NTItNGEwYS05Yjc5LWQxODRkY2U5MTgxMA&type=BireyselBasvuru",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 2,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2021/40612"
   },
   {
    "id": "aym-3d251d88-b912-40e8-82ac-16ea48556be8",
@@ -1959,9 +2066,7 @@
    "onem": 3,
    "esasNo": "2025/156",
    "kararNo": "2026/131",
-   "basvuruNo": null,
-   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/09/20260930-4.pdf",
-   "rgSayi": "33386"
+   "basvuruNo": null
   },
   {
    "id": "aym-ffd49d31-aabd-443b-a85e-002e3803f914",
@@ -1981,9 +2086,7 @@
    "onem": 3,
    "esasNo": "2026/57",
    "kararNo": "2026/198",
-   "basvuruNo": null,
-   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/09/20260930-5.pdf",
-   "rgSayi": "33386"
+   "basvuruNo": null
   },
   {
    "id": "rg-20260930-20260930-3htm",
