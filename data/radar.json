@@ -1,13 +1,11 @@
 {
  "surum": 1,
- "guncelleme": "2026-10-15T13:13+03:00",
+ "guncelleme": "2026-10-16T07:10+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
-   "gun": 13,
-   "hata": [
-    "2026-10-03: <urlopen error timed out>"
-   ]
+   "gun": 14,
+   "hata": null
   },
   "aym": {
    "ok": true,
@@ -19,6 +17,740 @@
   }
  },
  "kayitlar": [
+  {
+   "id": "rg-20261016-20261016-20pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2025/110 (Siyasi Parti Mali Denetimi), K: 2026/31 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-20.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-21pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2025/122 (Siyasi Parti Mali Denetimi), K: 2026/32 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-21.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-22pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2025/126 (Siyasi Parti Mali Denetimi), K: 2026/33 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-22.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-23pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2020/69 (Siyasi Parti Mali Denetimi), K: 2026/34 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-23.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-24pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2022/24 (Siyasi Parti Mali Denetimi), K: 2026/35 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-24.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-25pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2020/74 (Siyasi Parti Mali Denetimi), K: 2026/36 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-25.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-26pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2021/13 (Siyasi Parti Mali Denetimi), K: 2026/37 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-26.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-27pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2023/14 (Siyasi Parti Mali Denetimi), K: 2026/38 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-27.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-28pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2021/54 (Siyasi Parti Mali Denetimi), K: 2026/39 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-28.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-29pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2022/12 (Siyasi Parti Mali Denetimi), K: 2026/40 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-29.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-30pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2023/79 (Siyasi Parti Mali Denetimi), K: 2026/41 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-30.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-31pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2021/58 (Siyasi Parti Mali Denetimi), K: 2026/42 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-31.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-32pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2021/67 (Siyasi Parti Mali Denetimi), K: 2026/43 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-32.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-33pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2022/55 (Siyasi Parti Mali Denetimi), K: 2026/44 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-33.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-34pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2021/69 (Siyasi Parti Mali Denetimi), K: 2026/45 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-34.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-35pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2022/77 (Siyasi Parti Mali Denetimi), K: 2026/46 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-35.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-36pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2022/17 (Siyasi Parti Mali Denetimi), K: 2026/47 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-36.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-37pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2022/21 (Siyasi Parti Mali Denetimi), K: 2026/48 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-37.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-38pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2022/39 (Siyasi Parti Mali Denetimi), K: 2026/49 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-38.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-39pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2022/40 (Siyasi Parti Mali Denetimi), K: 2026/50 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-39.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-40pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2022/44 (Siyasi Parti Mali Denetimi), K: 2026/51 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-40.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-41pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2022/51 (Siyasi Parti Mali Denetimi), K: 2026/52 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-41.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-42pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2023/65 (Siyasi Parti Mali Denetimi), K: 2026/53 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-42.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-43pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2022/67 (Siyasi Parti Mali Denetimi), K: 2026/54 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-43.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-44pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2022/79 (Siyasi Parti Mali Denetimi), K: 2026/55 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-44.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-45pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2022/82 (Siyasi Parti Mali Denetimi), K: 2026/56 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-45.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-46pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2022/86 (Siyasi Parti Mali Denetimi), K: 2026/57 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-46.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-47pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2023/1 (Siyasi Parti Mali Denetimi), K: 2026/58 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-47.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-48pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2023/6 (Siyasi Parti Mali Denetimi), K: 2026/59 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-48.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-49pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2023/9 (Siyasi Parti Mali Denetimi), K: 2026/60 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-49.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-50pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2023/38 (Siyasi Parti Mali Denetimi), K: 2026/61 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-50.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-51pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2023/45 (Siyasi Parti Mali Denetimi), K: 2026/62 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-51.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-52pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2023/87 (Siyasi Parti Mali Denetimi), K: 2026/63 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-52.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-53pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 4/3/2026 Tarihli ve 2024/31038 Başvuru Numaralı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-53.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33402",
+   "basvuruNo": "2024/31038"
+  },
+  {
+   "id": "rg-20261016-20261016-54pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 6/5/2026 Tarihli ve 2021/24689 Başvuru Numaralı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-54.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33402",
+   "basvuruNo": "2021/24689"
+  },
+  {
+   "id": "rg-20261016-20261016-55pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 6/5/2026 Tarihli ve 2022/11105 Başvuru Numaralı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-55.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33402",
+   "basvuruNo": "2022/11105"
+  },
+  {
+   "id": "rg-20261016-20261016-3pdf",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanı Kararı",
+   "baslik": "Kamu Kurum ve Kuruluşlarının Ürettikleri Bazı Mal ve Hizmetlerden Ücretsiz veya İndirimli Olarak Faydalanacakların Tespitine İlişkin Karar (Karar Sayısı: 11877)",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-3.pdf",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-4pdf",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanı Kararı",
+   "baslik": "Bingöl İli, Adaklı İlçesi, Hasbağlar Köyünün Aynı İlin Kiğı İlçesine Bağlanması Hakkında Karar (Karar Sayısı: 11878)",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-4.pdf",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-8pdf",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanı Kararı",
+   "baslik": "Hatay İli, Antakya ve Reyhanlı İlçelerinde Bulunan Bazı Yerlerde Arazi Toplulaştırması ve Tarla İçi Geliştirme Hizmetleri Yapılması Hakkında Karar (Karar Sayısı: 11882)",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-8.pdf",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-9pdf",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanı Kararı",
+   "baslik": "Özelleştirme İdaresi Başkanlığı ile İlgili Kararlar (Karar Sayısı: 11883, 11884, 11885, 11886)",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-9.pdf",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-11pdf",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Polis Bakım ve Yardım Sandığı Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik (Karar Sayısı: 11887)",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-11.pdf",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-12htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Makine Emniyeti Yönetmeliği (2023/1230/AB)",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-12.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-13htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "KOSGEB Destekleyiciler Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-13.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-14htm",
+   "kaynak": "rg",
+   "tur": "Tebliğ",
+   "baslik": "Harici Güç Kaynakları, Kablosuz Şarj Cihazları, Kablosuz Şarj Pedleri, Genel Kullanım Amaçlı Taşınabilir Bataryalar İçin Batarya Şarj Cihazları ve USB Tip-C Kabloları ile İlgili Çevreye Duyarlı Tasarım Gerekliliklerine Dair Tebliğ (2025/2052/AB) (SGM-2026/7)",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-14.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-15htm",
+   "kaynak": "rg",
+   "tur": "Tebliğ",
+   "baslik": "Ev ve Büro Tipi Elektrik-Elektronik Cihazların Hazırda Bekleme, Kapalı ve Ağ Bağlantılı Hazırda Bekleme Konumlarının Elektrik Enerjisi Tüketimi ile İlgili Çevreye Duyarlı Tasarım Gerekliliklerine Dair Tebliğ (2023/826/AB) (SGM-2024/5)’de Değişiklik Yapılması Hakkında Tebliğ (SGM-2026/8)",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-15.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-16htm",
+   "kaynak": "rg",
+   "tur": "Tebliğ",
+   "baslik": "Ev Tipi Çamaşır Kurutma Makineleri ile İlgili Çevreye Duyarlı Tasarım Gerekliliklerine Dair Tebliğ (2023/2533/AB) (SGM-2024/3)’de Değişiklik Yapılması Hakkında Tebliğ (SGM-2026/9)",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-16.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-17pdf",
+   "kaynak": "rg",
+   "tur": "Tebliğ",
+   "baslik": "Ev Tipi Çamaşır Kurutma Makinelerinin Enerji Etiketlemesine Dair Tebliğ (2023/2534/AB) (SGM-2024/4)’de Değişiklik Yapılması Hakkında Tebliğ (SGM-2026/10)",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-17.pdf",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-18htm",
+   "kaynak": "rg",
+   "tur": "Tebliğ",
+   "baslik": "Kamu İhale Genel Tebliğinde Değişiklik Yapılmasına Dair Tebliğ",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-18.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 2,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-2pdf",
+   "kaynak": "rg",
+   "tur": "Düzenleme",
+   "baslik": "Türkiye Cumhuriyeti Hükümeti ile Kuzey Kıbrıs Türk Cumhuriyeti Hükümeti Arasında 24 Eylül 2025 Tarihinde İmzalanan KKTC Fiber Optik Altyapısının Geliştirilmesi ve Fiber Optik Kablolar Üzerinden Sunulan Hizmetlerin Hanelere ve İşletmelere Götürülmesi Kapsamında Yapılacak Çalışmalara İlişkin İşbirliği Protokolünde Değişiklik Yapılmasına İlişkin Ek Protokolün Onaylanması Hakkında Karar (Karar Sayısı: 11876)",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-2.pdf",
+   "alanlar": [],
+   "onem": 1,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-5pdf",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanı Kararı",
+   "baslik": "Sivas İli, Merkez İlçesi, Yenişehir Mahallesi Sınırları İçerisinde Bulunan Bazı Taşınmazlar ile Üzerlerindeki Muhdesatın, Cumhuriyet Üniversitesi Yeni Hastanesi Bağlantı Yolunun Yapımı Amacıyla Sivas Belediye Başkanlığı Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 11879)",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-5.pdf",
+   "alanlar": [
+    "İdare",
+    "Gayrimenkul"
+   ],
+   "onem": 1,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-6pdf",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanı Kararı",
+   "baslik": "154 kV Türkoğlu OSB TM-Kipaş Kağıt TM Enerji İletim Hattı Projesi Kapsamında Bazı Taşınmazların Türkiye Elektrik İletim Anonim Şirketi Genel Müdürlüğü Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 11880)",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-6.pdf",
+   "alanlar": [
+    "Ticaret",
+    "Gayrimenkul"
+   ],
+   "onem": 1,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-7pdf",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanı Kararı",
+   "baslik": "400/154 kV Likya Havza Transformatör Merkezi Sahası Projesi Kapsamında Bazı Taşınmazların Türkiye Elektrik İletim Anonim Şirketi Genel Müdürlüğü Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 11881)",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-7.pdf",
+   "alanlar": [
+    "Ticaret",
+    "Gayrimenkul"
+   ],
+   "onem": 1,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-10pdf",
+   "kaynak": "rg",
+   "tur": "Atama Kararı",
+   "baslik": "Cumhurbaşkanlığı Tarafından Yapılan Atamalar Hakkında Kararlar (Karar: 2026/323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335)",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-10.pdf",
+   "alanlar": [],
+   "onem": 1,
+   "rgSayi": "33402"
+  },
+  {
+   "id": "rg-20261016-20261016-19pdf",
+   "kaynak": "rg",
+   "tur": "İlke Karari",
+   "baslik": "Kültür Varlıklarını Koruma Yüksek Kurulunun 23/09/2026 Tarihli ve 4390 Sayılı İlke Kararı",
+   "ozet": "",
+   "tarih": "2026-10-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-19.pdf",
+   "alanlar": [],
+   "onem": 1,
+   "rgSayi": "33402"
+  },
   {
    "id": "rg-20261015-20261015-3pdf",
    "kaynak": "rg",
@@ -2984,9 +3716,7 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2022/81264",
-   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261002-8.pdf",
-   "rgSayi": "33388"
+   "basvuruNo": "2022/81264"
   },
   {
    "id": "rg-20261002-20261002-1htm",
