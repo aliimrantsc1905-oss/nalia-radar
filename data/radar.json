@@ -1,12 +1,12 @@
 {
  "surum": 1,
- "guncelleme": "2026-10-16T13:14+03:00",
+ "guncelleme": "2026-10-17T07:10+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
    "gun": 13,
    "hata": [
-    "2026-10-11: <urlopen error timed out>"
+    "2026-10-06: <urlopen error timed out>"
    ]
   },
   "aym": {
@@ -19,6 +19,154 @@
   }
  },
  "kayitlar": [
+  {
+   "id": "rg-20261017-20261017-1pdf",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanı Kararı",
+   "baslik": "Eleman Temininde Güçlük Çekilen Yerlerde ve Hizmet Dallarında Sağlık Hizmetlerinin Etkili ve Verimli Bir Şekilde Yürütülebilmesi Amacıyla Sözleşmeli Sağlık Personeli İstihdam Edilecek Hizmet Birimlerinin, 2027 Yılında Uygulanmak Üzere Tespit Edilmesi Hakkında Karar (Karar Sayısı: 2026/339)",
+   "ozet": "",
+   "tarih": "2026-10-17",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261017-1.pdf",
+   "alanlar": [
+    "Borçlar"
+   ],
+   "onem": 2,
+   "rgSayi": "33403"
+  },
+  {
+   "id": "rg-20261017-20261017-2htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Bozulabilir Gıda Maddelerinin Taşımacılığında Kullanılacak Özel Ekipmanlar Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-17",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261017-2.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33403"
+  },
+  {
+   "id": "rg-20261017-20261017-3htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Demiryolu Altyapı Erişim ve Kapasite Tahsis Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-17",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261017-3.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33403"
+  },
+  {
+   "id": "rg-20261017-20261017-4htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Demiryolu Araçları Tescil ve Sicil Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-17",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261017-4.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33403"
+  },
+  {
+   "id": "rg-20261017-20261017-5htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Demiryolu İşletmeciliği Yetkilendirme Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-17",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261017-5.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33403"
+  },
+  {
+   "id": "rg-20261017-20261017-6htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Demiryolu Uygunluk Değerlendirme Kuruluşları Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-17",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261017-6.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33403"
+  },
+  {
+   "id": "rg-20261017-20261017-7htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Tehlikeli Madde Güvenlik Danışmanlığı Hizmetleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-17",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261017-7.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33403"
+  },
+  {
+   "id": "rg-20261017-20261017-8htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Tehlikeli Madde Taşıyan Araç ve Üstyapıların Teknik Muayeneleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-17",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261017-8.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33403"
+  },
+  {
+   "id": "rg-20261017-20261017-9htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Tehlikeli Maddelerin Karayoluyla Taşınması Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-17",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261017-9.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33403"
+  },
+  {
+   "id": "rg-20261017-20261017-10htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Tren Makinist Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-17",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261017-10.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33403"
+  },
+  {
+   "id": "rg-20261017-20261017-12htm",
+   "kaynak": "rg",
+   "tur": "Tebliğ",
+   "baslik": "Anonim ve Limited Şirketlerin Sermayelerini Yeni Asgari Tutarlara Yükseltme Süresinin Uzatılmasına İlişkin Tebliğ",
+   "ozet": "",
+   "tarih": "2026-10-17",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261017-12.htm",
+   "alanlar": [
+    "Ticaret"
+   ],
+   "onem": 2,
+   "rgSayi": "33403"
+  },
+  {
+   "id": "rg-20261017-20261017-11htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Türkiye Halk Sağlığı ve Kronik Hastalıklar Enstitüsünün Yapılanması ve Faaliyetlerine Dair Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-17",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261017-11.htm",
+   "alanlar": [],
+   "onem": 1,
+   "rgSayi": "33403"
+  },
   {
    "id": "rg-20261016-20261016-20pdf",
    "kaynak": "rg",
@@ -3372,9 +3520,7 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2019/789",
-   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261006-7.pdf",
-   "rgSayi": "33392"
+   "basvuruNo": "2019/789"
   },
   {
    "id": "aym-8b1ae4a1-556a-4549-9ed0-8f12a631fe07",
@@ -3393,9 +3539,7 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2025/57667",
-   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261006-10.pdf",
-   "rgSayi": "33392"
+   "basvuruNo": "2025/57667"
   },
   {
    "id": "aym-bfec5a40-3f8f-48f2-816e-c083bedde53e",
@@ -3414,9 +3558,7 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2023/91027",
-   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261006-6.pdf",
-   "rgSayi": "33392"
+   "basvuruNo": "2023/91027"
   },
   {
    "id": "aym-f68ecb38-4536-4a65-99d3-2343fa3f117b",
@@ -3435,9 +3577,7 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2021/56755",
-   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261006-5.pdf",
-   "rgSayi": "33392"
+   "basvuruNo": "2021/56755"
   },
   {
    "id": "aym-e8e8f621-eea3-44cc-86a5-a4092d64bf40",
@@ -3456,9 +3596,7 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2020/9501",
-   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261006-8.pdf",
-   "rgSayi": "33392"
+   "basvuruNo": "2020/9501"
   },
   {
    "id": "aym-846f17f9-eeac-48e8-84d6-5c4f9e4e17bb",
@@ -3478,9 +3616,7 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2021/24997",
-   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261006-9.pdf",
-   "rgSayi": "33392"
+   "basvuruNo": "2021/24997"
   },
   {
    "id": "rg-20261006-20261006-1htm",
@@ -3547,9 +3683,7 @@
    "onem": 2,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2022/102726",
-   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261006-11.pdf",
-   "rgSayi": "33392"
+   "basvuruNo": "2022/102726"
   },
   {
    "id": "aym-4113ebcd-2176-48db-9a9b-5ebcfa385c16",
