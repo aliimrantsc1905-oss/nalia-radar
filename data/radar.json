@@ -1,12 +1,13 @@
 {
  "surum": 1,
- "guncelleme": "2026-10-17T07:10+03:00",
+ "guncelleme": "2026-10-17T13:09+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
-   "gun": 13,
+   "gun": 12,
    "hata": [
-    "2026-10-06: <urlopen error timed out>"
+    "2026-10-11: <urlopen error timed out>",
+    "2026-10-04: <urlopen error timed out>"
    ]
   },
   "aym": {
@@ -3520,7 +3521,9 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2019/789"
+   "basvuruNo": "2019/789",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261006-7.pdf",
+   "rgSayi": "33392"
   },
   {
    "id": "aym-8b1ae4a1-556a-4549-9ed0-8f12a631fe07",
@@ -3539,7 +3542,9 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2025/57667"
+   "basvuruNo": "2025/57667",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261006-10.pdf",
+   "rgSayi": "33392"
   },
   {
    "id": "aym-bfec5a40-3f8f-48f2-816e-c083bedde53e",
@@ -3558,7 +3563,9 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2023/91027"
+   "basvuruNo": "2023/91027",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261006-6.pdf",
+   "rgSayi": "33392"
   },
   {
    "id": "aym-f68ecb38-4536-4a65-99d3-2343fa3f117b",
@@ -3577,7 +3584,9 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2021/56755"
+   "basvuruNo": "2021/56755",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261006-5.pdf",
+   "rgSayi": "33392"
   },
   {
    "id": "aym-e8e8f621-eea3-44cc-86a5-a4092d64bf40",
@@ -3596,7 +3605,9 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2020/9501"
+   "basvuruNo": "2020/9501",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261006-8.pdf",
+   "rgSayi": "33392"
   },
   {
    "id": "aym-846f17f9-eeac-48e8-84d6-5c4f9e4e17bb",
@@ -3616,7 +3627,9 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2021/24997"
+   "basvuruNo": "2021/24997",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261006-9.pdf",
+   "rgSayi": "33392"
   },
   {
    "id": "rg-20261006-20261006-1htm",
@@ -3683,7 +3696,9 @@
    "onem": 2,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2022/102726"
+   "basvuruNo": "2022/102726",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261006-11.pdf",
+   "rgSayi": "33392"
   },
   {
    "id": "aym-4113ebcd-2176-48db-9a9b-5ebcfa385c16",
