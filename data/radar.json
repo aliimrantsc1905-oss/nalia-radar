@@ -1,14 +1,11 @@
 {
  "surum": 1,
- "guncelleme": "2026-10-17T13:09+03:00",
+ "guncelleme": "2026-10-18T07:09+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
-   "gun": 12,
-   "hata": [
-    "2026-10-11: <urlopen error timed out>",
-    "2026-10-04: <urlopen error timed out>"
-   ]
+   "gun": 14,
+   "hata": null
   },
   "aym": {
    "ok": true,
@@ -20,6 +17,70 @@
   }
  },
  "kayitlar": [
+  {
+   "id": "rg-20261018-20261018-1htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Ataşehir Adıgüzel Meslek Yüksekokulu Gıda ve Bitkisel Üretim Uygulama ve Araştırma Merkezi Yönetmeliği",
+   "ozet": "",
+   "tarih": "2026-10-18",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261018-1.htm",
+   "alanlar": [],
+   "onem": 1,
+   "rgSayi": "33404"
+  },
+  {
+   "id": "rg-20261018-20261018-2htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Ataşehir Adıgüzel Meslek Yüksekokulu Projeler, Girişimcilik, Kuluçka ve Hızlandırma Uygulama ve Araştırma Merkezi Yönetmeliği",
+   "ozet": "",
+   "tarih": "2026-10-18",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261018-2.htm",
+   "alanlar": [],
+   "onem": 1,
+   "rgSayi": "33404"
+  },
+  {
+   "id": "rg-20261018-20261018-3htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Ataşehir Adıgüzel Meslek Yüksekokulu Türkçe Öğretimi Uygulama ve Araştırma Merkezi Yönetmeliği",
+   "ozet": "",
+   "tarih": "2026-10-18",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261018-3.htm",
+   "alanlar": [],
+   "onem": 1,
+   "rgSayi": "33404"
+  },
+  {
+   "id": "rg-20261018-20261018-4htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Ege Üniversitesi Lisansüstü Eğitim-Öğretim Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-18",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261018-4.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33404"
+  },
+  {
+   "id": "rg-20261018-20261018-5htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "İstanbul Üniversitesi Lisansüstü Eğitim ve Öğretim Yönetmeliği",
+   "ozet": "",
+   "tarih": "2026-10-18",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261018-5.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33404"
+  },
   {
    "id": "rg-20261017-20261017-1pdf",
    "kaynak": "rg",
