@@ -1,12 +1,12 @@
 {
  "surum": 1,
- "guncelleme": "2026-10-18T13:08+03:00",
+ "guncelleme": "2026-10-19T07:15+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
    "gun": 13,
    "hata": [
-    "2026-10-07: <urlopen error timed out>"
+    "2026-10-15: <urlopen error timed out>"
    ]
   },
   "aym": {
@@ -19,6 +19,114 @@
   }
  },
  "kayitlar": [
+  {
+   "id": "rg-20261019-20261019-1htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Elektrik Piyasası Bağlantı ve Sistem Kullanım Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-19",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261019-1.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33405"
+  },
+  {
+   "id": "rg-20261019-20261019-2pdf",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Elektrik Piyasası Dengeleme ve Uzlaştırma Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-19",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261019-2.pdf",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33405"
+  },
+  {
+   "id": "rg-20261019-20261019-3htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Elektrik Piyasası Lisans Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-19",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261019-3.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33405"
+  },
+  {
+   "id": "rg-20261019-20261019-4htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Elektrik Piyasası Yan Hizmetler Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-19",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261019-4.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33405"
+  },
+  {
+   "id": "rg-20261019-20261019-5htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Elektrik Piyasasında Depolama Faaliyetleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-19",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261019-5.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33405"
+  },
+  {
+   "id": "rg-20261019-20261019-6htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Elektrik Piyasasında Lisanssız Elektrik Üretim Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-19",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261019-6.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33405"
+  },
+  {
+   "id": "rg-20261019-20261019-7htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Organize Sanayi Bölgelerinin ve Endüstri Bölgelerinin Elektrik Piyasası Faaliyetlerine İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-19",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261019-7.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33405"
+  },
+  {
+   "id": "rg-20261019-20261019-8pdf",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Yenilenebilir Enerji Kaynaklarının Belgelendirilmesi ve Desteklenmesine İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-19",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261019-8.pdf",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33405"
+  },
+  {
+   "id": "rg-20261019-20261019-9pdf",
+   "kaynak": "rg",
+   "tur": "Kurul Kararı",
+   "baslik": "Enerji Piyasası Düzenleme Kurulunun 24/09/2026 Tarihli ve 14907, 14908, 14909, 14910, 14911, 14912 ve 14913 Sayılı Kararları",
+   "ozet": "",
+   "tarih": "2026-10-19",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261019-9.pdf",
+   "alanlar": [],
+   "onem": 1,
+   "rgSayi": "33405"
+  },
   {
    "id": "rg-20261018-20261018-1htm",
    "kaynak": "rg",
