@@ -1,13 +1,11 @@
 {
  "surum": 1,
- "guncelleme": "2026-10-20T07:13+03:00",
+ "guncelleme": "2026-10-20T13:12+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
-   "gun": 13,
-   "hata": [
-    "2026-10-16: <urlopen error timed out>"
-   ]
+   "gun": 14,
+   "hata": null
   },
   "aym": {
    "ok": true,
@@ -35,49 +33,148 @@
    "basvuruNo": "2021/18349"
   },
   {
-   "id": "rg-20261020-20261020-14pdf",
-   "kaynak": "rg",
-   "tur": "AYM Kararı",
-   "baslik": "Anayasa Mahkemesinin 5/5/2026 Tarihli ve 2021/29809 Başvuru Numaralı Kararı",
-   "ozet": "",
+   "id": "aym-44509a41-a72e-4aa5-9a66-b2b03865759a",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Durmuş Çelik başvurusu",
+   "ozet": "Başvuru; işçilik alacaklarına ilişkin açılan davanın ara bulucuya başvurulmadığı gerekçesiyle dava şartı yokluğundan reddedilmesi nedeniyle mahkemeye erişim hakkının, yargılamanın uzun sürmesi nedeniyle de makul sürede yargılanma hakkının ihlal edildiği iddialarına ilişkindir.",
+   "sonuc": "Esas (İhlal)",
+   "etiket": "B. No: 2023/33449",
    "tarih": "2026-10-20",
-   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261020-14.pdf",
+   "kararTarihi": "2026-05-18",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjQ0NTA5YTQxLWE3MmUtNGFhNS05YTY2LWIyYjAzODY1NzU5YQ&type=BireyselBasvuru",
    "alanlar": [
-    "Anayasa"
+    "Borçlar"
    ],
    "onem": 3,
-   "rgSayi": "33406",
-   "basvuruNo": "2021/29809"
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2023/33449",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261020-16.pdf",
+   "rgSayi": "33406"
   },
   {
-   "id": "rg-20261020-20261020-15pdf",
-   "kaynak": "rg",
-   "tur": "AYM Kararı",
-   "baslik": "Anayasa Mahkemesinin 18/5/2026 Tarihli ve 2021/22274 Başvuru Numaralı Kararı",
-   "ozet": "",
+   "id": "aym-04ef8734-a91a-4ee8-8a1d-d29670f4e387",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Nurhan Yılmaz başvurusu",
+   "ozet": "Başvuru, eğitim kurulu kararına karşı infaz hâkimliğine yapılan şikâyetin süre yönünden reddedilmesi nedeniyle ifade özgürlüğü ile bağlantılı olarak etkili başvuru hakkının ihlal edildiği iddiasına ilişkindir.",
+   "sonuc": "Esas (İhlal)",
+   "etiket": "B. No: 2021/29809",
    "tarih": "2026-10-20",
-   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261020-15.pdf",
+   "kararTarihi": "2026-05-05",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjA0ZWY4NzM0LWE5MWEtNGVlOC04YTFkLWQyOTY3MGY0ZTM4Nw&type=BireyselBasvuru",
    "alanlar": [
+    "Ceza",
     "Anayasa"
    ],
    "onem": 3,
-   "rgSayi": "33406",
-   "basvuruNo": "2021/22274"
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2021/29809",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261020-14.pdf",
+   "rgSayi": "33406"
   },
   {
-   "id": "rg-20261020-20261020-16pdf",
-   "kaynak": "rg",
-   "tur": "AYM Kararı",
-   "baslik": "Anayasa Mahkemesinin 18/5/2026 Tarihli ve 2023/33449 Başvuru Numaralı Kararı",
-   "ozet": "",
+   "id": "aym-ec0258ce-8812-4953-a35b-4e424692b949",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Nuri Onal başvurusu",
+   "ozet": "Başvuru, dükkân niteliğindeki taşınmazın bulunduğu ve adliye lojmanı olarak da kullanılan bina önüne güvenlik sebebiyle beton bariyerler konulduğu için taşınmazın kullanılamaması nedeniyle mülkiyet hakkının ihlal edildiği iddiasına ilişkindir.",
+   "sonuc": "Esas (İhlal)",
+   "etiket": "B. No: 2021/22274",
    "tarih": "2026-10-20",
-   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261020-16.pdf",
+   "kararTarihi": "2026-05-18",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmVjMDI1OGNlLTg4MTItNDk1My1hMzViLTRlNDI0NjkyYjk0OQ&type=BireyselBasvuru",
+   "alanlar": [
+    "Gayrimenkul",
+    "Anayasa"
+   ],
+   "onem": 3,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2021/22274",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261020-15.pdf",
+   "rgSayi": "33406"
+  },
+  {
+   "id": "aym-41b1d586-32ff-46b8-8e65-66bdc8ce61fb",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Yücel Özdurmaz Baran Ticaret başvurusu",
+   "ozet": "Başvuru, idari para cezasının iptal edilmesi talebiyle sulh ceza hâkimliğine yapılan başvuruda karar sonucunu değiştirebilecek nitelikteki esaslı iddiaların karşılanmaması nedeniyle gerekçeli karar hakkının ihlal edildiği iddiasına ilişkindir.",
+   "sonuc": "Esas (İhlal)",
+   "etiket": "B. No: 2023/9700",
+   "tarih": "2026-10-20",
+   "kararTarihi": "2026-09-02",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjQxYjFkNTg2LTMyZmYtNDZiOC04ZTY1LTY2YmRjOGNlNjFmYg&type=BireyselBasvuru",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 3,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2023/9700"
+  },
+  {
+   "id": "aym-a50dddd3-935a-401f-b6a1-588967ab9379",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Cet Turizm Taş. Oto. İnş. San. Tic. Ltd. Şti. başvurusu",
+   "ozet": "Başvuru, kanunda kabahat olarak sayılmayan bir fiilden dolayı idari yaptırım uygulanması nedeniyle suçta ve cezada kanunilik ilkesinin ihlal edildiği iddiasına ilişkindir.",
+   "sonuc": "Esas (İhlal)",
+   "etiket": "B. No: 2020/3311",
+   "tarih": "2026-10-20",
+   "kararTarihi": "2026-09-02",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmE1MGRkZGQzLTkzNWEtNDAxZi1iNmExLTU4ODk2N2FiOTM3OQ&type=BireyselBasvuru",
    "alanlar": [
     "Anayasa"
    ],
    "onem": 3,
-   "rgSayi": "33406",
-   "basvuruNo": "2023/33449"
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2020/3311"
+  },
+  {
+   "id": "aym-88824aad-29ac-4d63-8442-b3c89abadbd9",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Musa Farisoğulları ve Remziye Tosun başvurusu",
+   "ozet": "Başvuru, idarenin yasaklama kararı bulunduğu gerekçesiyle yapılmak istenen basın açıklamasının engellenmesi ve olayla ilgili şikâyet edilen kamu görevlileri hakkında soruşturma izni verilmemesi nedeniyle toplantı ve gösteri yürüyüşü düzenleme hakkının ihlal edildiği iddiasına ilişkindir.",
+   "sonuc": "Esas (İhlal)",
+   "etiket": "B. No: 2022/12901",
+   "tarih": "2026-10-20",
+   "kararTarihi": "2026-04-21",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjg4ODI0YWFkLTI5YWMtNGQ2My04NDQyLWIzYzg5YWJhZGJkOQ&type=BireyselBasvuru",
+   "alanlar": [
+    "Ceza",
+    "İdare",
+    "Anayasa"
+   ],
+   "onem": 3,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2022/12901"
+  },
+  {
+   "id": "aym-636f4683-57e4-4e4d-9edf-07862f05d9f3",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Nejla Kurt ve Diğerleri başvurusu",
+   "ozet": "Başvuru, karşıt görüşlü öğrenciler arasında çıkan olaylar esnasında kolluğun güç kullanımına bağlı olarak bir öğrencinin ölmesi ve olaya ilişkin etkili bir soruşturma yürütülmemesi nedeniyle yaşam hakkının ihlal edildiği iddiasına ilişkindir.",
+   "sonuc": "Esas (İhlal)",
+   "etiket": "B. No: 2021/20841",
+   "tarih": "2026-10-20",
+   "kararTarihi": "2026-06-30",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjYzNmY0NjgzLTU3ZTQtNGU0ZC05ZWRmLTA3ODYyZjA1ZDlmMw&type=BireyselBasvuru",
+   "alanlar": [
+    "Ceza",
+    "Anayasa"
+   ],
+   "onem": 3,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2021/20841"
   },
   {
    "id": "rg-20261020-20261020-1pdf",
@@ -1050,7 +1147,9 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2024/31038"
+   "basvuruNo": "2024/31038",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-53.pdf",
+   "rgSayi": "33402"
   },
   {
    "id": "aym-f473d36c-0f97-49ba-9a73-22a6b57157ca",
@@ -1069,7 +1168,9 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2021/24689"
+   "basvuruNo": "2021/24689",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-54.pdf",
+   "rgSayi": "33402"
   },
   {
    "id": "aym-f3938f93-775f-4b20-a414-c0689a2f0c10",
