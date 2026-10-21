@@ -1,11 +1,13 @@
 {
  "surum": 1,
- "guncelleme": "2026-10-20T13:12+03:00",
+ "guncelleme": "2026-10-21T07:14+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
-   "gun": 14,
-   "hata": null
+   "gun": 13,
+   "hata": [
+    "2026-10-17: <urlopen error timed out>"
+   ]
   },
   "aym": {
    "ok": true,
@@ -17,6 +19,114 @@
   }
  },
  "kayitlar": [
+  {
+   "id": "rg-20261021-20261021-1htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Gençlik ve Spor Bakanlığı Yurtlarında Bulunan Yemekhane, Kantin ve Diğer İşletmeler Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-21",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261021-1.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33407"
+  },
+  {
+   "id": "rg-20261021-20261021-2htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Millî Savunma Bakanlığı Ödül Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-21",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261021-2.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33407"
+  },
+  {
+   "id": "rg-20261021-20261021-3htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Elektrik Piyasası Dengeleme ve Uzlaştırma Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-21",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261021-3.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33407"
+  },
+  {
+   "id": "rg-20261021-20261021-4pdf",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Türkiye Emisyon Ticaret Sistemi Piyasasının İşletilmesine İlişkin Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-21",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261021-4.pdf",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33407"
+  },
+  {
+   "id": "rg-20261021-20261021-5htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Beşeri Tıbbi Ürünler İmalathaneleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-21",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261021-5.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33407"
+  },
+  {
+   "id": "rg-20261021-20261021-6htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Türkiye Anne, Çocuk ve Ergen Sağlığı Enstitüsünün Yapılanması ve Faaliyetlerine Dair Yönetmelikte Değişiklik Yapılmasına İlişkin Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-21",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261021-6.htm",
+   "alanlar": [],
+   "onem": 1,
+   "rgSayi": "33407"
+  },
+  {
+   "id": "rg-20261021-20261021-7htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Türkiye Kanser Enstitüsü Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-21",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261021-7.htm",
+   "alanlar": [],
+   "onem": 1,
+   "rgSayi": "33407"
+  },
+  {
+   "id": "rg-20261021-20261021-8pdf",
+   "kaynak": "rg",
+   "tur": "Kurul Kararı",
+   "baslik": "Enerji Piyasası Düzenleme Kurulunun 15/10/2026 Tarihli ve 14954 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-21",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261021-8.pdf",
+   "alanlar": [],
+   "onem": 1,
+   "rgSayi": "33407"
+  },
+  {
+   "id": "rg-20261021-20261021-9pdf",
+   "kaynak": "rg",
+   "tur": "Kurul Kararı",
+   "baslik": "Nükleer Düzenleme Kurulunun 15/10/2026 Tarihli ve 2026-44/1 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-21",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261021-9.pdf",
+   "alanlar": [],
+   "onem": 1,
+   "rgSayi": "33407"
+  },
   {
    "id": "rg-20261020-20261020-13pdf",
    "kaynak": "rg",
