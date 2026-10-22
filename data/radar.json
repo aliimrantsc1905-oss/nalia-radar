@@ -1,18 +1,18 @@
 {
  "surum": 1,
- "guncelleme": "2026-10-21T13:17+03:00",
+ "guncelleme": "2026-10-22T07:20+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
-   "gun": 12,
-   "hata": [
-    "2026-10-17: <urlopen error timed out>",
-    "2026-10-12: <urlopen error timed out>"
-   ]
+   "gun": 14,
+   "hata": null
   },
   "aym": {
-   "ok": true,
-   "hata": null
+   "ok": false,
+   "hata": [
+    "BireyselBasvuru: <urlopen error timed out>",
+    "NormDenetimi: <urlopen error timed out>"
+   ]
   },
   "buro": {
    "ok": true,
@@ -20,6 +20,146 @@
   }
  },
  "kayitlar": [
+  {
+   "id": "rg-20261022-20261022-6pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 25/6/2026 Tarihli ve E: 2026/46, K: 2026/145 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-22",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261022-6.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33408",
+   "esasNo": "2026/46",
+   "kararNo": "2026/145"
+  },
+  {
+   "id": "rg-20261022-20261022-7pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 24/2/2026 Tarihli ve 2020/9807 Başvuru Numaralı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-22",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261022-7.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33408",
+   "basvuruNo": "2020/9807"
+  },
+  {
+   "id": "rg-20261022-20261022-8pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 5/3/2026 Tarihli ve 2021/7687 Başvuru Numaralı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-22",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261022-8.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33408",
+   "basvuruNo": "2021/7687"
+  },
+  {
+   "id": "rg-20261022-20261022-9pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 5/3/2026 Tarihli ve 2023/59815 Başvuru Numaralı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-22",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261022-9.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33408",
+   "basvuruNo": "2023/59815"
+  },
+  {
+   "id": "rg-20261022-20261022-10pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 2/4/2026 Tarihli ve 2021/40650 Başvuru Numaralı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-22",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261022-10.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33408",
+   "basvuruNo": "2021/40650"
+  },
+  {
+   "id": "rg-20261022-20261022-1pdf",
+   "kaynak": "rg",
+   "tur": "Kurul Kararı",
+   "baslik": "Hâkimler ve Savcılar Kurulu Genel Kurulunun 21/10/2026 Tarihli ve 1160 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-22",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261022-1.pdf",
+   "alanlar": [],
+   "onem": 1,
+   "rgSayi": "33408"
+  },
+  {
+   "id": "rg-20261022-20261022-2htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Ankara Medipol Üniversitesi Hukukta Dijital Dönüşüm ve Hukuk Teknolojileri Uygulama ve Araştırma Merkezi Yönetmeliği",
+   "ozet": "",
+   "tarih": "2026-10-22",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261022-2.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33408"
+  },
+  {
+   "id": "rg-20261022-20261022-3htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Hacettepe Üniversitesi Arı ve Arı Ürünleri Uygulama ve Araştırma Merkezi (HARÜM) Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-22",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261022-3.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33408"
+  },
+  {
+   "id": "rg-20261022-20261022-4pdf",
+   "kaynak": "rg",
+   "tur": "Kurul Kararı",
+   "baslik": "Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurulunun 19/10/2026 Tarihli ve 75935942-050.01.04-[01/46753] Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-22",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261022-4.pdf",
+   "alanlar": [],
+   "onem": 1,
+   "rgSayi": "33408"
+  },
+  {
+   "id": "rg-20261022-20261022-5pdf",
+   "kaynak": "rg",
+   "tur": "Kurul Kararı",
+   "baslik": "Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurulunun 19/10/2026 Tarihli ve 75935942-050.01.04-[01/46754] Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-22",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261022-5.pdf",
+   "alanlar": [],
+   "onem": 1,
+   "rgSayi": "33408"
+  },
   {
    "id": "rg-20261021-20261021-1htm",
    "kaynak": "rg",
