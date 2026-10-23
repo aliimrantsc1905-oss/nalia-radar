@@ -1,6 +1,6 @@
 {
  "surum": 1,
- "guncelleme": "2026-10-22T13:18+03:00",
+ "guncelleme": "2026-10-23T07:22+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
@@ -11,8 +11,11 @@
    ]
   },
   "aym": {
-   "ok": true,
-   "hata": null
+   "ok": false,
+   "hata": [
+    "BireyselBasvuru: <urlopen error timed out>",
+    "NormDenetimi: <urlopen error timed out>"
+   ]
   },
   "buro": {
    "ok": true,
@@ -20,6 +23,122 @@
   }
  },
  "kayitlar": [
+  {
+   "id": "rg-20261023-20261023-9pdf",
+   "kaynak": "rg",
+   "tur": "Yargıtay Kararı",
+   "baslik": "Yargıtay 4. Hukuk Dairesine Ait Karar",
+   "ozet": "",
+   "tarih": "2026-10-23",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261023-9.pdf",
+   "alanlar": [],
+   "onem": 3,
+   "rgSayi": "33409"
+  },
+  {
+   "id": "rg-20261023-20261023-1pdf",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanı Kararı",
+   "baslik": "Kamu Kurum ve Kuruluşlarının Ürettikleri Bazı Mal ve Hizmetlerden Ücretsiz veya İndirimli Olarak Faydalanacakların Tespitine İlişkin Karar (Karar Sayısı: 11919)",
+   "ozet": "",
+   "tarih": "2026-10-23",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261023-1.pdf",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33409"
+  },
+  {
+   "id": "rg-20261023-20261023-3htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Başbakanlık Özel Çevre Koruma Kurumu Başkanlığı Yayın Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-23",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261023-3.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33409"
+  },
+  {
+   "id": "rg-20261023-20261023-4htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Çanakkale Savaşları Gelibolu Tarihi Alanında Yapılaşmanın ve Yapıların Kullanımının Denetimi ile Kültür ve Tabiat Varlıklarını Koruma Komisyonunun Çalışma Usul ve Esaslarına İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-23",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261023-4.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33409"
+  },
+  {
+   "id": "rg-20261023-20261023-2pdf",
+   "kaynak": "rg",
+   "tur": "Kurul Kararı",
+   "baslik": "Hâkimler ve Savcılar Kurulu Genel Kurulunun 21/10/2026 Tarihli ve 1157-1158 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-23",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261023-2.pdf",
+   "alanlar": [],
+   "onem": 1,
+   "rgSayi": "33409"
+  },
+  {
+   "id": "rg-20261023-20261023-5htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Çankaya Üniversitesi Ön Lisans ve Lisans Eğitim ve Öğretim Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-23",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261023-5.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33409"
+  },
+  {
+   "id": "rg-20261023-20261023-6htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Fenerbahçe Üniversitesi Afrika Çalışmaları Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-23",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261023-6.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33409"
+  },
+  {
+   "id": "rg-20261023-20261023-7htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Fenerbahçe Üniversitesi Avrupa Çalışmaları Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-23",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261023-7.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33409"
+  },
+  {
+   "id": "rg-20261023-20261023-8htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Piri Reis Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-23",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261023-8.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33409"
+  },
   {
    "id": "aym-21e4c6e6-173a-4d9c-92bf-a3b15ed4e332",
    "kaynak": "aym",
