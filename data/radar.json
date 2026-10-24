@@ -1,12 +1,13 @@
 {
  "surum": 1,
- "guncelleme": "2026-10-23T13:16+03:00",
+ "guncelleme": "2026-10-24T07:11+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
-   "gun": 13,
+   "gun": 12,
    "hata": [
-    "2026-10-19: <urlopen error timed out>"
+    "2026-10-20: <urlopen error timed out>",
+    "2026-10-14: <urlopen error timed out>"
    ]
   },
   "aym": {
@@ -19,6 +20,161 @@
   }
  },
  "kayitlar": [
+  {
+   "id": "rg-20261024-20261024-1pdf",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanı Kararı",
+   "baslik": "A. Gaffar Okkan Polis Meslek Yüksek Okulu Müdürlüğünün Adının Şehit Ali Gaffar Okkan Polis Meslek Yüksek Okulu Müdürlüğü Olarak Değiştirilmesi Hakkında Karar (Karar Sayısı: 11920)",
+   "ozet": "",
+   "tarih": "2026-10-24",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261024-1.pdf",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33410"
+  },
+  {
+   "id": "rg-20261024-20261024-5pdf",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanı Kararı",
+   "baslik": "İstanbul İli, Kartal İlçesi, Gümüşpınar Mahallesi Sınırları İçerisinde Bulunan Bazı Alanların Kentsel Dönüşüm ve Gelişim Proje Alanı İlan Edilmesi Hakkında Karar (Karar Sayısı: 11924)",
+   "ozet": "",
+   "tarih": "2026-10-24",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261024-5.pdf",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33410"
+  },
+  {
+   "id": "rg-20261024-20261024-6pdf",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanı Kararı",
+   "baslik": "Kurtuluş Savaşındaki Hizmetleri Tespit Edilen Şehit ve Gazilerin Mirasçılarına “İstiklal Madalyası” Verilmesi Hakkında Karar (Karar Sayısı: 11925)",
+   "ozet": "",
+   "tarih": "2026-10-24",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261024-6.pdf",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33410"
+  },
+  {
+   "id": "rg-20261024-20261024-7pdf",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanı Kararı",
+   "baslik": "Özelleştirme İdaresi Başkanlığı ile İlgili Karar (Karar Sayısı: 11926)",
+   "ozet": "",
+   "tarih": "2026-10-24",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261024-7.pdf",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33410"
+  },
+  {
+   "id": "rg-20261024-20261024-8pdf",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Kurumlar Arası Geçici Görevlendirme Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik (Karar Sayısı: 11927)",
+   "ozet": "",
+   "tarih": "2026-10-24",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261024-8.pdf",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33410"
+  },
+  {
+   "id": "rg-20261024-20261024-9pdf",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Yataklı Tedavi Kurumları İşletme Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik (Karar Sayısı: 11928)",
+   "ozet": "",
+   "tarih": "2026-10-24",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261024-9.pdf",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33410"
+  },
+  {
+   "id": "rg-20261024-20261024-2pdf",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanı Kararı",
+   "baslik": "Batman İli Şehir İçi Dereleri Planlama ve Proje Yapım İşi Kapsamındaki İluh Deresi By-Pass Hattı ile Çay Deresi Deplase Hattı Projesinin Gerçekleştirilmesi Amacıyla Bazı Taşınmazların Batman Belediye Başkanlığı Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 11921)",
+   "ozet": "",
+   "tarih": "2026-10-24",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261024-2.pdf",
+   "alanlar": [
+    "İdare",
+    "Gayrimenkul"
+   ],
+   "onem": 1,
+   "rgSayi": "33410"
+  },
+  {
+   "id": "rg-20261024-20261024-3pdf",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanı Kararı",
+   "baslik": "154 kV (Kızılırmak TM-Kırşehir TM) Brş.N-Alıç DGES TM (Girdi-Çıktı) Enerji İletim Hattı Projesi Kapsamında Bazı Taşınmazların Türkiye Elektrik İletim Anonim Şirketi Genel Müdürlüğü Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 11922)",
+   "ozet": "",
+   "tarih": "2026-10-24",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261024-3.pdf",
+   "alanlar": [
+    "Ticaret",
+    "Gayrimenkul"
+   ],
+   "onem": 1,
+   "rgSayi": "33410"
+  },
+  {
+   "id": "rg-20261024-20261024-4pdf",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanı Kararı",
+   "baslik": "Van İli, İpekyolu İlçesi, Eskişehir Mahallesi Sınırları İçerisinde Belirlenen Rezerv Yapı Alanında Bulunan Bazı Taşınmazların “Eski Van Şehrini Canlandırma Projesi” Kapsamında Kentsel Dönüşüm Başkanlığı Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 11923)",
+   "ozet": "",
+   "tarih": "2026-10-24",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261024-4.pdf",
+   "alanlar": [
+    "Gayrimenkul"
+   ],
+   "onem": 1,
+   "rgSayi": "33410"
+  },
+  {
+   "id": "rg-20261024-20261024-10htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Altınbaş Üniversitesi Toplum, Kadın ve Aile Çalışmaları Uygulama ve Araştırma Merkezi Yönetmeliği",
+   "ozet": "",
+   "tarih": "2026-10-24",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261024-10.htm",
+   "alanlar": [
+    "Aile",
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33410"
+  },
+  {
+   "id": "rg-20261024-20261024-11pdf",
+   "kaynak": "rg",
+   "tur": "Kurul Kararı",
+   "baslik": "Enerji Piyasası Düzenleme Kurulunun 22/10/2026 Tarihli ve 14982 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-24",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261024-11.pdf",
+   "alanlar": [],
+   "onem": 1,
+   "rgSayi": "33410"
+  },
+  {
+   "id": "rg-20261024-20261024-12pdf",
+   "kaynak": "rg",
+   "tur": "Kurul Kararı",
+   "baslik": "Enerji Piyasası Düzenleme Kurulunun 22/10/2026 Tarihli ve 14985 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-24",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261024-12.pdf",
+   "alanlar": [],
+   "onem": 1,
+   "rgSayi": "33410"
+  },
   {
    "id": "rg-20261023-20261023-9pdf",
    "kaynak": "rg",
@@ -722,9 +878,7 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2023/33449",
-   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261020-16.pdf",
-   "rgSayi": "33406"
+   "basvuruNo": "2023/33449"
   },
   {
    "id": "aym-04ef8734-a91a-4ee8-8a1d-d29670f4e387",
@@ -744,9 +898,7 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2021/29809",
-   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261020-14.pdf",
-   "rgSayi": "33406"
+   "basvuruNo": "2021/29809"
   },
   {
    "id": "aym-ec0258ce-8812-4953-a35b-4e424692b949",
@@ -766,9 +918,7 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2021/22274",
-   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261020-15.pdf",
-   "rgSayi": "33406"
+   "basvuruNo": "2021/22274"
   },
   {
    "id": "aym-41b1d586-32ff-46b8-8e65-66bdc8ce61fb",
