@@ -1,11 +1,13 @@
 {
  "surum": 1,
- "guncelleme": "2026-10-24T13:08+03:00",
+ "guncelleme": "2026-10-25T07:13+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
-   "gun": 14,
-   "hata": null
+   "gun": 13,
+   "hata": [
+    "2026-10-14: <urlopen error timed out>"
+   ]
   },
   "aym": {
    "ok": true,
@@ -17,6 +19,94 @@
   }
  },
  "kayitlar": [
+  {
+   "id": "rg-20261025-20261025-3pdf",
+   "kaynak": "rg",
+   "tur": "Tebliğ",
+   "baslik": "2026 Yılı Eylül Ayına Ait Dahilde İşleme İzin Belgelerinin (D1) Listesi",
+   "ozet": "",
+   "tarih": "2026-10-25",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261025-3.pdf",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33411"
+  },
+  {
+   "id": "rg-20261025-20261025-4pdf",
+   "kaynak": "rg",
+   "tur": "Tebliğ",
+   "baslik": "2026 Yılı Eylül Ayına Ait Yurt İçi Satış ve Teslim Belgelerinin (D3) Listesi",
+   "ozet": "",
+   "tarih": "2026-10-25",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261025-4.pdf",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33411"
+  },
+  {
+   "id": "rg-20261025-20261025-5pdf",
+   "kaynak": "rg",
+   "tur": "Tebliğ",
+   "baslik": "2026 Yılı Eylül Ayına Ait Hariçte İşleme İzin Belgelerinin (H1) Listesi",
+   "ozet": "",
+   "tarih": "2026-10-25",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261025-5.pdf",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33411"
+  },
+  {
+   "id": "rg-20261025-20261025-6pdf",
+   "kaynak": "rg",
+   "tur": "Tebliğ",
+   "baslik": "2026 Yılı Eylül Ayına Ait Firma Talebine İstinaden İptal Edilen Dahilde İşleme İzin Belgeleri Listesi",
+   "ozet": "",
+   "tarih": "2026-10-25",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261025-6.pdf",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33411"
+  },
+  {
+   "id": "rg-20261025-20261025-7pdf",
+   "kaynak": "rg",
+   "tur": "Tebliğ",
+   "baslik": "2026 Yılı Eylül Ayına Ait Resen İptal Edilen Dahilde İşleme İzin Belgeleri Listesi",
+   "ozet": "",
+   "tarih": "2026-10-25",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261025-7.pdf",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33411"
+  },
+  {
+   "id": "rg-20261025-20261025-1htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Gaziantep İslam Bilim ve Teknoloji Üniversitesi Diş Hekimliği Fakültesi Eğitim-Öğretim ve Sınav Yönetmeliği",
+   "ozet": "",
+   "tarih": "2026-10-25",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261025-1.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33411"
+  },
+  {
+   "id": "rg-20261025-20261025-2htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Hacettepe Üniversitesi Lisansüstü Eğitim-Öğretim ve Sınav Yönetmeliği",
+   "ozet": "",
+   "tarih": "2026-10-25",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261025-2.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33411"
+  },
   {
    "id": "rg-20261024-20261024-1pdf",
    "kaynak": "rg",
