@@ -1,11 +1,13 @@
 {
  "surum": 1,
- "guncelleme": "2026-10-25T13:09+03:00",
+ "guncelleme": "2026-10-26T07:18+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
-   "gun": 14,
-   "hata": null
+   "gun": 13,
+   "hata": [
+    "2026-10-22: <urlopen error timed out>"
+   ]
   },
   "aym": {
    "ok": true,
@@ -17,6 +19,48 @@
   }
  },
  "kayitlar": [
+  {
+   "id": "rg-20261026-20261026-1htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Bingöl Üniversitesi Biyoteknoloji Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-26",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261026-1.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33412"
+  },
+  {
+   "id": "rg-20261026-20261026-2htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Bingöl Üniversitesi Proje Koordinasyon Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-26",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261026-2.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33412"
+  },
+  {
+   "id": "rg-20261026-20261026-3htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Bingöl Üniversitesi Sosyal ve Ekonomik Çalışmalar Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-26",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261026-3.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33412"
+  },
   {
    "id": "rg-20261025-20261025-3pdf",
    "kaynak": "rg",
@@ -393,9 +437,7 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2020/9807",
-   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261022-7.pdf",
-   "rgSayi": "33408"
+   "basvuruNo": "2020/9807"
   },
   {
    "id": "aym-7811d323-3375-4d0e-adb0-0c4d194abe50",
@@ -414,9 +456,7 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2023/59815",
-   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261022-9.pdf",
-   "rgSayi": "33408"
+   "basvuruNo": "2023/59815"
   },
   {
    "id": "aym-b23fa84c-29b8-46db-bfae-7a58c38cbf1f",
@@ -437,9 +477,7 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2021/40650",
-   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261022-10.pdf",
-   "rgSayi": "33408"
+   "basvuruNo": "2021/40650"
   },
   {
    "id": "aym-88269f56-4634-4b49-be30-9ac0ce105739",
@@ -458,9 +496,7 @@
    "onem": 3,
    "esasNo": "2026/46",
    "kararNo": "2026/145",
-   "basvuruNo": null,
-   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261022-6.pdf",
-   "rgSayi": "33408"
+   "basvuruNo": null
   },
   {
    "id": "aym-1c020199-293a-46bb-8eb5-6a8cbeef86e3",
@@ -479,9 +515,7 @@
    "onem": 2,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2021/7687",
-   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261022-8.pdf",
-   "rgSayi": "33408"
+   "basvuruNo": "2021/7687"
   },
   {
    "id": "rg-20261022-20261022-1pdf",
