@@ -1,12 +1,13 @@
 {
  "surum": 1,
- "guncelleme": "2026-10-26T13:24+03:00",
+ "guncelleme": "2026-10-27T07:16+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
-   "gun": 13,
+   "gun": 12,
    "hata": [
-    "2026-10-16: <urlopen error timed out>"
+    "2026-10-23: <urlopen error timed out>",
+    "2026-10-17: <urlopen error timed out>"
    ]
   },
   "aym": {
@@ -19,6 +20,78 @@
   }
  },
  "kayitlar": [
+  {
+   "id": "rg-20261027-20261027-2htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Konutların Turizm Amaçlı Kiralanması Faaliyetlerinin Düzenlenmesine İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-27",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261027-2.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33413"
+  },
+  {
+   "id": "rg-20261027-20261027-3htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Kültür ve Tabiat Varlıklarını Koruma Kanunu Kapsamında Kültür ve Turizm Bakanlığına Yapılacak Başvurular ile Sunulacak Hizmetler Karşılığı Alınacak Bedellere İlişkin Usul ve Esaslar Hakkında Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-27",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261027-3.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33413"
+  },
+  {
+   "id": "rg-20261027-20261027-4htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Bilgilendirilmiş Rızanın Elektronik Ortamda Alınması Hakkında Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-27",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261027-4.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33413"
+  },
+  {
+   "id": "rg-20261027-20261027-5htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Tersane, Tekne İmal ve Çekek Yeri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-27",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261027-5.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33413"
+  },
+  {
+   "id": "rg-20261027-20261027M1-1pdf-m",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanı Kararı (Mükerrer)",
+   "baslik": "2027 Yılı Cumhurbaşkanlığı Yıllık Programının Onaylanması Hakkında Karar (Karar Sayısı: 11934)",
+   "ozet": "",
+   "tarih": "2026-10-27",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261027M1-1.pdf",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33413"
+  },
+  {
+   "id": "rg-20261027-20261027-1htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Jandarma ve Sahil Güvenlik Akademisi Güvenlik Bilimleri Enstitüsü Kuruluş, Görev ve Çalışma Esasları ile Lisansüstü Eğitim Öğretim Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-27",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261027-1.htm",
+   "alanlar": [],
+   "onem": 1,
+   "rgSayi": "33413"
+  },
   {
    "id": "aym-1eab2e47-5f4b-4547-a8c6-d0894ba13122",
    "kaynak": "aym",
@@ -2183,7 +2256,9 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2024/31038"
+   "basvuruNo": "2024/31038",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-53.pdf",
+   "rgSayi": "33402"
   },
   {
    "id": "aym-f473d36c-0f97-49ba-9a73-22a6b57157ca",
@@ -2202,7 +2277,9 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2021/24689"
+   "basvuruNo": "2021/24689",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-54.pdf",
+   "rgSayi": "33402"
   },
   {
    "id": "aym-f3938f93-775f-4b20-a414-c0689a2f0c10",
