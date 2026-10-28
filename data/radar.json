@@ -1,12 +1,12 @@
 {
  "surum": 1,
- "guncelleme": "2026-10-28T07:24+03:00",
+ "guncelleme": "2026-10-28T13:27+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
    "gun": 13,
    "hata": [
-    "2026-10-16: <urlopen error timed out>"
+    "2026-10-24: <urlopen error timed out>"
    ]
   },
   "aym": {
@@ -2281,7 +2281,9 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2024/31038"
+   "basvuruNo": "2024/31038",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-53.pdf",
+   "rgSayi": "33402"
   },
   {
    "id": "aym-f473d36c-0f97-49ba-9a73-22a6b57157ca",
@@ -2300,7 +2302,9 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2021/24689"
+   "basvuruNo": "2021/24689",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-54.pdf",
+   "rgSayi": "33402"
   },
   {
    "id": "aym-f3938f93-775f-4b20-a414-c0689a2f0c10",
