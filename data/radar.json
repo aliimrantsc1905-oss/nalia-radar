@@ -1,11 +1,13 @@
 {
  "surum": 1,
- "guncelleme": "2026-10-27T13:21+03:00",
+ "guncelleme": "2026-10-28T07:24+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
-   "gun": 14,
-   "hata": null
+   "gun": 13,
+   "hata": [
+    "2026-10-16: <urlopen error timed out>"
+   ]
   },
   "aym": {
    "ok": true,
@@ -17,6 +19,32 @@
   }
  },
  "kayitlar": [
+  {
+   "id": "rg-20261028-20261028-1htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Binalar ile Yerleşmeler İçin Yeşil Sertifika Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-28",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261028-1.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33414"
+  },
+  {
+   "id": "rg-20261028-20261028-2htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "İstanbul Üniversitesi Doğal Kaynaklardan İlaç Geliştirme Uygulama ve Araştırma Merkezi Yönetmeliği",
+   "ozet": "",
+   "tarih": "2026-10-28",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261028-2.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33414"
+  },
   {
    "id": "rg-20261027-20261027-2htm",
    "kaynak": "rg",
@@ -2253,9 +2281,7 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2024/31038",
-   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-53.pdf",
-   "rgSayi": "33402"
+   "basvuruNo": "2024/31038"
   },
   {
    "id": "aym-f473d36c-0f97-49ba-9a73-22a6b57157ca",
@@ -2274,9 +2300,7 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2021/24689",
-   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-54.pdf",
-   "rgSayi": "33402"
+   "basvuruNo": "2021/24689"
   },
   {
    "id": "aym-f3938f93-775f-4b20-a414-c0689a2f0c10",
