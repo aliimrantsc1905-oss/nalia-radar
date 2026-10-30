@@ -1,11 +1,13 @@
 {
  "surum": 1,
- "guncelleme": "2026-10-29T13:30+03:00",
+ "guncelleme": "2026-10-30T07:26+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
    "gun": 14,
-   "hata": null
+   "hata": [
+    "2026-10-27 mükerrer: <urlopen error timed out>"
+   ]
   },
   "aym": {
    "ok": true,
@@ -17,6 +19,139 @@
   }
  },
  "kayitlar": [
+  {
+   "id": "rg-20261030-20261030-4pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 5/5/2026 Tarihli ve 2021/32883 Başvuru Numaralı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-30",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030-4.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33415",
+   "basvuruNo": "2021/32883"
+  },
+  {
+   "id": "rg-20261030-20261030-5pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 18/5/2026 Tarihli ve 2021/22795 Başvuru Numaralı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-30",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030-5.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33415",
+   "basvuruNo": "2021/22795"
+  },
+  {
+   "id": "rg-20261030-20261030-6pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 18/6/2026 Tarihli ve 2021/22462 Başvuru Numaralı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-30",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030-6.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33415",
+   "basvuruNo": "2021/22462"
+  },
+  {
+   "id": "rg-20261030-20261030-7pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 16/9/2026 Tarihli ve 2020/7753 Başvuru Numaralı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-30",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030-7.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33415",
+   "basvuruNo": "2020/7753"
+  },
+  {
+   "id": "rg-20261030-20261030-8pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 16/9/2026 Tarihli ve 2021/1112 Başvuru Numaralı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-30",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030-8.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33415",
+   "basvuruNo": "2021/1112"
+  },
+  {
+   "id": "rg-20261030-20261030-9pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 16/9/2026 Tarihli ve 2024/68293 Başvuru Numaralı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-30",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030-9.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33415",
+   "basvuruNo": "2024/68293"
+  },
+  {
+   "id": "rg-20261030-20261030-3htm",
+   "kaynak": "rg",
+   "tur": "Tebliğ",
+   "baslik": "Yapı Sahipleri ile Yapı Denetimi Hizmet Sözleşmesi İmzalayacak Yapı Denetim Kuruluşlarının Elektronik Ortamda Belirlenmesine İlişkin Usul ve Esaslara Dair Tebliğde Değişiklik Yapılması Hakkında Tebliğ",
+   "ozet": "",
+   "tarih": "2026-10-30",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030-3.htm",
+   "alanlar": [
+    "Borçlar"
+   ],
+   "onem": 2,
+   "rgSayi": "33415"
+  },
+  {
+   "id": "rg-20261030-20261030-1htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Avrasya Üniversitesi Ağız ve Diş Sağlığı Uygulama ve Araştırma Merkezi Yönetmeliği",
+   "ozet": "",
+   "tarih": "2026-10-30",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030-1.htm",
+   "alanlar": [
+    "İş",
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33415"
+  },
+  {
+   "id": "rg-20261030-20261030-2htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Avrasya Üniversitesi Fizyoterapi ve Rehabilitasyon Uygulama ve Araştırma Merkezi Yönetmeliği",
+   "ozet": "",
+   "tarih": "2026-10-30",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030-2.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33415"
+  },
   {
    "id": "rg-20261028-20261028-1htm",
    "kaynak": "rg",
@@ -2279,9 +2414,7 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2024/31038",
-   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-53.pdf",
-   "rgSayi": "33402"
+   "basvuruNo": "2024/31038"
   },
   {
    "id": "aym-f473d36c-0f97-49ba-9a73-22a6b57157ca",
@@ -2300,9 +2433,7 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2021/24689",
-   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261016-54.pdf",
-   "rgSayi": "33402"
+   "basvuruNo": "2021/24689"
   },
   {
    "id": "aym-f3938f93-775f-4b20-a414-c0689a2f0c10",
