@@ -1,13 +1,11 @@
 {
  "surum": 1,
- "guncelleme": "2026-10-30T13:29+03:00",
+ "guncelleme": "2026-10-31T07:23+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
    "gun": 14,
-   "hata": [
-    "2026-10-27 mükerrer: <urlopen error timed out>"
-   ]
+   "hata": null
   },
   "aym": {
    "ok": true,
@@ -19,6 +17,254 @@
   }
  },
  "kayitlar": [
+  {
+   "id": "rg-20261031-20261031-10pdf",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanlığı Kararnamesi",
+   "baslik": "Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinde Değişiklik Yapılmasına Dair Cumhurbaşkanlığı Kararnamesi (Kararname Numarası: 201)",
+   "ozet": "",
+   "tarih": "2026-10-31",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261031-10.pdf",
+   "alanlar": [],
+   "onem": 3,
+   "rgSayi": "33416"
+  },
+  {
+   "id": "rg-20261031-20261031-11pdf",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanlığı Kararnamesi",
+   "baslik": "Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinde Değişiklik Yapılmasına Dair Cumhurbaşkanlığı Kararnamesi (Kararname Numarası: 202)",
+   "ozet": "",
+   "tarih": "2026-10-31",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261031-11.pdf",
+   "alanlar": [],
+   "onem": 3,
+   "rgSayi": "33416"
+  },
+  {
+   "id": "rg-20261031-20261031-12pdf",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanlığı Kararnamesi",
+   "baslik": "Siber Güvenlik Başkanlığı Hakkında Cumhurbaşkanlığı Kararnamesinde Değişiklik Yapılmasına Dair Cumhurbaşkanlığı Kararnamesi (Kararname Numarası: 203)",
+   "ozet": "",
+   "tarih": "2026-10-31",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261031-12.pdf",
+   "alanlar": [
+    "Bilişim"
+   ],
+   "onem": 3,
+   "rgSayi": "33416"
+  },
+  {
+   "id": "rg-20261031-20261031-13pdf",
+   "kaynak": "rg",
+   "tur": "Milletlerarası Andlaşma",
+   "baslik": "Türk Devletleri Teşkilatına Üye Devletlerin Hükümetleri Arasında Dijital Ekonomi Ortaklık Anlaşmasının Onaylanması Hakkında Karar (Karar Sayısı: 11935)",
+   "ozet": "",
+   "tarih": "2026-10-31",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261031-13.pdf",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33416"
+  },
+  {
+   "id": "rg-20261031-20261031-14pdf",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanı Kararı",
+   "baslik": "Birleşmiş Milletler Güvenlik Konseyinin 1267 (1999), 1988 (2011), 1989 (2011) ve 2253 (2015) Sayılı Kararlarıyla Listelenen Kişi, Kuruluş veya Organizasyonların Tasarrufunda Bulunan Malvarlığının Dondurulması Hakkındaki 30/9/2013 Tarihli ve 2013/5428 Sayılı Bakanlar Kurulu Kararının Eki (1) Sayılı Listede Değişiklik Yapılmasına İlişkin Karar (Karar Sayısı: 11936)",
+   "ozet": "",
+   "tarih": "2026-10-31",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261031-14.pdf",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33416"
+  },
+  {
+   "id": "rg-20261031-20261031-15pdf",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanı Kararı",
+   "baslik": "I Sayılı Listede Belirtilen Fakülte ve Enstitülerin Kurulması, II Sayılı Listede Belirtilen Fakültelerin Adlarının Karşılarında Gösterildiği Şekilde Değiştirilmesi Hakkında Karar (Karar Sayısı: 11937)",
+   "ozet": "",
+   "tarih": "2026-10-31",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261031-15.pdf",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33416"
+  },
+  {
+   "id": "rg-20261031-20261031-18pdf",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanı Kararı",
+   "baslik": "Özelleştirme İdaresi Başkanlığı ile İlgili Kararlar (Karar Sayısı: 11940, 11941, 11942, 11943, 11944, 11945)",
+   "ozet": "",
+   "tarih": "2026-10-31",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261031-18.pdf",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33416"
+  },
+  {
+   "id": "rg-20261031-20261031-19pdf",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Aile ve Gençlik Fonu Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik (Karar Sayısı: 11946)",
+   "ozet": "",
+   "tarih": "2026-10-31",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261031-19.pdf",
+   "alanlar": [
+    "Aile"
+   ],
+   "onem": 2,
+   "rgSayi": "33416"
+  },
+  {
+   "id": "rg-20261031-20261031-20pdf",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Kamu Kurum ve Kuruluşlarında Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Genel Yönetmelikte Değişiklik Yapılmasına İlişkin Yönetmelik (Karar Sayısı: 11947)",
+   "ozet": "",
+   "tarih": "2026-10-31",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261031-20.pdf",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33416"
+  },
+  {
+   "id": "rg-20261031-20261031-1htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Pan-Avrupa-Akdeniz Tercihli Menşe Kurallarına Dair Bölgesel Konvansiyon Ortak Komitesinin 1/2023 Sayılı Kararı Kapsamı Tercihli Menşe Kuralları Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-31",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261031-1.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33416"
+  },
+  {
+   "id": "rg-20261031-20261031-2htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Organize Toptan Doğal Gaz Satış Piyasası Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-31",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261031-2.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33416"
+  },
+  {
+   "id": "rg-20261031-20261031-3htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Türk Mühendis ve Mimar Odaları Birliği Bilirkişilik - Eksperlik - Hakemlik ve Teknik Müşavirlik Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-10-31",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261031-3.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33416"
+  },
+  {
+   "id": "rg-20261031-20261031-4htm",
+   "kaynak": "rg",
+   "tur": "Tebliğ",
+   "baslik": "2025-2027 Yıllarında Yapılacak Bitkisel Üretime Yönelik Desteklemeler ile Diğer Bazı Tarımsal Desteklemelere Ödeme Yapılmasına Dair Tebliğ (Tebliğ No: 2024/39)’de Değişiklik Yapılmasına İlişkin Tebliğ (No: 2026/30)",
+   "ozet": "",
+   "tarih": "2026-10-31",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261031-4.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33416"
+  },
+  {
+   "id": "rg-20261031-20261031-5htm",
+   "kaynak": "rg",
+   "tur": "Tebliğ",
+   "baslik": "Dağıtım Tarifesinin Düzenlenmesi Hakkında Tebliğde Değişiklik Yapılmasına Dair Tebliğ",
+   "ozet": "",
+   "tarih": "2026-10-31",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261031-5.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33416"
+  },
+  {
+   "id": "rg-20261031-20261031-6htm",
+   "kaynak": "rg",
+   "tur": "Tebliğ",
+   "baslik": "Türk Patent ve Marka Kurumunca 2026 Yılında Uygulanacak Ücret Tarifesine İlişkin Tebliğ (BİK/TÜRKPATENT: 2026/1)’de Değişiklik Yapılmasına Dair Tebliğ (BİK/TÜRKPATENT: 2026/2)",
+   "ozet": "",
+   "tarih": "2026-10-31",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261031-6.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33416"
+  },
+  {
+   "id": "rg-20261031-20261031-16pdf",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanı Kararı",
+   "baslik": "Beşikdüzü-İskenderli-Tonya İl Yolu Projesi (Km:23+016.00-23+224.00 Arası) Kapsamında Araziye Girilerek Yol Yapım Çalışmalarının Tamamlanması Amacıyla Taşınmazlar ile Üzerlerindeki Müştemilatın Karayolları Genel Müdürlüğü Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 11938)",
+   "ozet": "",
+   "tarih": "2026-10-31",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261031-16.pdf",
+   "alanlar": [
+    "Gayrimenkul"
+   ],
+   "onem": 1,
+   "rgSayi": "33416"
+  },
+  {
+   "id": "rg-20261031-20261031-17pdf",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanı Kararı",
+   "baslik": "Konya İli, Halkapınar İlçesine Doğal Gaz Arzının Sağlanabilmesi Amacıyla Kurulacak Dağıtım Tesislerinin Yapımı İçin Gerekli Olan Bazı Taşınmazların, Tapuda Hazine Lehine İrtifak Hakkı Tesis Edilmek Suretiyle Enerji Piyasası Düzenleme Kurumu Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 11939)",
+   "ozet": "",
+   "tarih": "2026-10-31",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261031-17.pdf",
+   "alanlar": [
+    "Gayrimenkul"
+   ],
+   "onem": 1,
+   "rgSayi": "33416"
+  },
+  {
+   "id": "rg-20261031-20261031-7pdf",
+   "kaynak": "rg",
+   "tur": "Kurul Kararı",
+   "baslik": "Enerji Piyasası Düzenleme Kurulunun 15/10/2026 Tarihli ve 14958 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-31",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261031-7.pdf",
+   "alanlar": [],
+   "onem": 1,
+   "rgSayi": "33416"
+  },
+  {
+   "id": "rg-20261031-20261031-8pdf",
+   "kaynak": "rg",
+   "tur": "Kurul Kararı",
+   "baslik": "Enerji Piyasası Düzenleme Kurulunun 15/10/2026 Tarihli ve 14959 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-31",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261031-8.pdf",
+   "alanlar": [],
+   "onem": 1,
+   "rgSayi": "33416"
+  },
+  {
+   "id": "rg-20261031-20261031-9pdf",
+   "kaynak": "rg",
+   "tur": "Kurul Kararı",
+   "baslik": "Enerji Piyasası Düzenleme Kurulunun 30/10/2026 Tarihli ve 15005 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-10-31",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261031-9.pdf",
+   "alanlar": [],
+   "onem": 1,
+   "rgSayi": "33416"
+  },
   {
    "id": "aym-e6434cad-ce10-41d1-9fa1-82c29329b5ad",
    "kaynak": "aym",
