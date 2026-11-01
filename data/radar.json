@@ -1,11 +1,13 @@
 {
  "surum": 1,
- "guncelleme": "2026-10-31T13:17+03:00",
+ "guncelleme": "2026-11-01T07:30+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
-   "gun": 14,
-   "hata": null
+   "gun": 13,
+   "hata": [
+    "2026-10-23: <urlopen error timed out>"
+   ]
   },
   "aym": {
    "ok": true,
@@ -17,6 +19,80 @@
   }
  },
  "kayitlar": [
+  {
+   "id": "rg-20261101-20261101-6pdf",
+   "kaynak": "rg",
+   "tur": "Atama Kararı",
+   "baslik": "Cumhurbaşkanlığı Tarafından Yapılan Atamalar Hakkında Kararlar (Karar: 2026/363, 364, 365, 366, 367, 368, 369, 370, 371)",
+   "ozet": "",
+   "tarih": "2026-11-01",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261101-6.pdf",
+   "alanlar": [],
+   "onem": 1,
+   "rgSayi": "33417"
+  },
+  {
+   "id": "rg-20261101-20261101-1htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Ankara Yıldırım Beyazıt Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-11-01",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261101-1.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33417"
+  },
+  {
+   "id": "rg-20261101-20261101-2htm",
+   "kaynak": "rg",
+   "tur": "Ana Statüler",
+   "baslik": "Türkiye Buz Hokeyi Federasyonu Ana Statüsü",
+   "ozet": "",
+   "tarih": "2026-11-01",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261101-2.htm",
+   "alanlar": [],
+   "onem": 1,
+   "rgSayi": "33417"
+  },
+  {
+   "id": "rg-20261101-20261101-3htm",
+   "kaynak": "rg",
+   "tur": "Ana Statüler",
+   "baslik": "Türkiye Buz Pateni Federasyonu Ana Statüsü",
+   "ozet": "",
+   "tarih": "2026-11-01",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261101-3.htm",
+   "alanlar": [],
+   "onem": 1,
+   "rgSayi": "33417"
+  },
+  {
+   "id": "rg-20261101-20261101-4htm",
+   "kaynak": "rg",
+   "tur": "Ana Statüler",
+   "baslik": "Türkiye Curling Federasyonu Ana Statüsü",
+   "ozet": "",
+   "tarih": "2026-11-01",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261101-4.htm",
+   "alanlar": [],
+   "onem": 1,
+   "rgSayi": "33417"
+  },
+  {
+   "id": "rg-20261101-20261101-5htm",
+   "kaynak": "rg",
+   "tur": "Ana Statüler",
+   "baslik": "Türkiye Kayak Federasyonu Ana Statüsü",
+   "ozet": "",
+   "tarih": "2026-11-01",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261101-5.htm",
+   "alanlar": [],
+   "onem": 1,
+   "rgSayi": "33417"
+  },
   {
    "id": "rg-20261031-20261031-10pdf",
    "kaynak": "rg",
