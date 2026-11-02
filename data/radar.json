@@ -1,13 +1,13 @@
 {
  "surum": 1,
- "guncelleme": "2026-11-02T07:39+03:00",
+ "guncelleme": "2026-11-02T13:37+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
    "gun": 12,
    "hata": [
     "2026-10-29: <urlopen error timed out>",
-    "2026-10-24: <urlopen error timed out>"
+    "2026-10-25: <urlopen error timed out>"
    ]
   },
   "aym": {
@@ -498,7 +498,7 @@
    "id": "aym-fe22e3fc-6c65-42c1-87f8-d58d9350378e",
    "kaynak": "aym",
    "tur": "AYM Bireysel Başvuru",
-   "baslik": "Ali Ergül ve Diğerleri başvurusu",
+   "baslik": "Ali Ergün ve Diğerleri başvurusu",
    "ozet": "Başvurular, eksik ödenen memur maaşlarının tahsili amacıyla başlatılan ilamsız icra takiplerinin düşmesine karar verilmesi sonrasında idari yargıda açılan davaların süre aşımından reddedilmesi nedeniyle mahkemeye erişim hakkının ihlal edildiği iddiasına ilişkindir.",
    "sonuc": "Esas (İhlal)",
    "etiket": "B. No: 2021/1112",
