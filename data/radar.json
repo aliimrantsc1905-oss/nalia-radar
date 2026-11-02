@@ -1,12 +1,13 @@
 {
  "surum": 1,
- "guncelleme": "2026-11-01T13:21+03:00",
+ "guncelleme": "2026-11-02T07:39+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
-   "gun": 13,
+   "gun": 12,
    "hata": [
-    "2026-10-26: <urlopen error timed out>"
+    "2026-10-29: <urlopen error timed out>",
+    "2026-10-24: <urlopen error timed out>"
    ]
   },
   "aym": {
@@ -19,6 +20,72 @@
   }
  },
  "kayitlar": [
+  {
+   "id": "rg-20261102-20261102-1pdf",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanliğina Vekâlet Etme İşlemi̇",
+   "baslik": "Cumhurbaşkanlığına, Cumhurbaşkanı Yardımcısı Cevdet YILMAZ’ın Vekâlet Etmesine Dair Tezkere",
+   "ozet": "",
+   "tarih": "2026-11-02",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261102-1.pdf",
+   "alanlar": [],
+   "onem": 1,
+   "rgSayi": "33418"
+  },
+  {
+   "id": "rg-20261102-20261102-2htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Eskişehir Osmangazi Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-11-02",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261102-2.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33418"
+  },
+  {
+   "id": "rg-20261102-20261102-3htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "İstanbul Kültür Üniversitesi Geomatik Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-11-02",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261102-3.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33418"
+  },
+  {
+   "id": "rg-20261102-20261102-4htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "İzmir Yüksek Teknoloji Enstitüsü Biyoteknoloji ve Biyomühendislik Uygulama ve Araştırma Merkezi Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-11-02",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261102-4.htm",
+   "alanlar": [],
+   "onem": 1,
+   "rgSayi": "33418"
+  },
+  {
+   "id": "rg-20261102-20261102-5htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Sivas Cumhuriyet Üniversitesi Tıp Fakültesi Eğitim-Öğretim ve Sınav Yönetmeliği",
+   "ozet": "",
+   "tarih": "2026-11-02",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261102-5.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33418"
+  },
   {
    "id": "rg-20261101-20261101-6pdf",
    "kaynak": "rg",
