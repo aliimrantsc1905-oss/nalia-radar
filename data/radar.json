@@ -1,14 +1,11 @@
 {
  "surum": 1,
- "guncelleme": "2026-11-04T07:35+03:00",
+ "guncelleme": "2026-11-04T13:48+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
-   "gun": 12,
-   "hata": [
-    "2026-10-30: <urlopen error timed out>",
-    "2026-10-23: <urlopen error timed out>"
-   ]
+   "gun": 14,
+   "hata": null
   },
   "aym": {
    "ok": true,
@@ -21,94 +18,132 @@
  },
  "kayitlar": [
   {
-   "id": "rg-20261104-20261104-3pdf",
-   "kaynak": "rg",
-   "tur": "AYM Kararı",
-   "baslik": "Anayasa Mahkemesinin 21/4/2026 Tarihli ve 2022/92607 Başvuru Numaralı Kararı",
-   "ozet": "",
+   "id": "aym-2d42479f-0365-46ce-b5fd-a517619b051e",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Fevzi Budak başvurusu",
+   "ozet": "Başvuru, itiraz kanun yolu incelemesine tabi bir kararın kesin olarak verilmesi nedeniyle mahkemeye erişim hakkının ihlal edildiği iddiasına ilişkindir.",
+   "sonuc": "Esas (İhlal)",
+   "etiket": "B. No: 2023/4554",
    "tarih": "2026-11-04",
-   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-3.pdf",
+   "kararTarihi": "2026-06-17",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjJkNDI0NzlmLTAzNjUtNDZjZS1iNWZkLWE1MTc2MTliMDUxZQ&type=BireyselBasvuru",
    "alanlar": [
     "Anayasa"
    ],
    "onem": 3,
-   "rgSayi": "33420",
-   "basvuruNo": "2022/92607"
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2023/4554",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-6.pdf",
+   "rgSayi": "33420"
   },
   {
-   "id": "rg-20261104-20261104-4pdf",
-   "kaynak": "rg",
-   "tur": "AYM Kararı",
-   "baslik": "Anayasa Mahkemesinin 5/5/2026 Tarihli ve 2020/22340 Başvuru Numaralı Kararı",
-   "ozet": "",
+   "id": "aym-6bc68c12-e718-4378-8cfd-d01f508e131e",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Mutia Canan Karatay (4) başvurusu",
+   "ozet": "Başvuru, medyada yapılan tıbbi içerikli açıklamalardan dolayı bir ay süreyle geçici olarak meslekten alıkoyma cezası verilmesi nedeniyle ifade özgürlüğünün ihlal edildiği iddiasına ilişkindir.",
+   "sonuc": "Esas (İhlal)",
+   "etiket": "B. No: 2022/92607",
    "tarih": "2026-11-04",
-   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-4.pdf",
+   "kararTarihi": "2026-04-21",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjZiYzY4YzEyLWU3MTgtNDM3OC04Y2ZkLWQwMWY1MDhlMTMxZQ&type=BireyselBasvuru",
    "alanlar": [
     "Anayasa"
    ],
    "onem": 3,
-   "rgSayi": "33420",
-   "basvuruNo": "2020/22340"
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2022/92607",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-3.pdf",
+   "rgSayi": "33420"
   },
   {
-   "id": "rg-20261104-20261104-5pdf",
-   "kaynak": "rg",
-   "tur": "AYM Kararı",
-   "baslik": "Anayasa Mahkemesinin 5/5/2026 Tarihli ve 2021/6977 Başvuru Numaralı Kararı",
-   "ozet": "",
+   "id": "aym-9b88db1b-005b-4853-b36c-284bc3d34c75",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Emine Baykara başvurusu",
+   "ozet": "Başvuru, bir kat vergi ziyaı cezalı özel tüketim ve katma değer vergisinin iptali talebiyle açılan davanın reddedilmesi nedeniyle hakkaniyete uygun yargılanma hakkının ihlal edildiği iddiasına ilişkindir.",
+   "sonuc": "Esas (İhlal)",
+   "etiket": "B. No: 2021/42538",
    "tarih": "2026-11-04",
-   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-5.pdf",
+   "kararTarihi": "2026-06-18",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjliODhkYjFiLTAwNWItNDg1My1iMzZjLTI4NGJjM2QzNGM3NQ&type=BireyselBasvuru",
    "alanlar": [
+    "Vergi",
     "Anayasa"
    ],
    "onem": 3,
-   "rgSayi": "33420",
-   "basvuruNo": "2021/6977"
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2021/42538",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-8.pdf",
+   "rgSayi": "33420"
   },
   {
-   "id": "rg-20261104-20261104-6pdf",
-   "kaynak": "rg",
-   "tur": "AYM Kararı",
-   "baslik": "Anayasa Mahkemesinin 17/6/2026 Tarihli ve 2023/4554 Başvuru Numaralı Kararı",
-   "ozet": "",
+   "id": "aym-f12aaa8d-3948-4096-aadb-ab9d064b7939",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Sinan Diler başvurusu",
+   "ozet": "Başvuru, silahla yaralama olayına ilişkin etkili bir soruşturma yapılmaması nedeniyle yaşam hakkının ihlal edildiği iddiasına ilişkindir.",
+   "sonuc": "Esas (İhlal)",
+   "etiket": "B. No: 2021/8412",
    "tarih": "2026-11-04",
-   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-6.pdf",
+   "kararTarihi": "2026-06-18",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmYxMmFhYThkLTM5NDgtNDA5Ni1hYWRiLWFiOWQwNjRiNzkzOQ&type=BireyselBasvuru",
    "alanlar": [
+    "Ceza",
     "Anayasa"
    ],
    "onem": 3,
-   "rgSayi": "33420",
-   "basvuruNo": "2023/4554"
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2021/8412",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-7.pdf",
+   "rgSayi": "33420"
   },
   {
-   "id": "rg-20261104-20261104-7pdf",
-   "kaynak": "rg",
-   "tur": "AYM Kararı",
-   "baslik": "Anayasa Mahkemesinin 18/6/2026 Tarihli ve 2021/8412 Başvuru Numaralı Kararı",
-   "ozet": "",
+   "id": "aym-68e271a1-6d85-418c-b445-b3cb5cdd773f",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Saner Ergili başvurusu",
+   "ozet": "Başvuru, geçit hakkı bedelinin düşük belirlenmesi ve enflasyon karşısında değer kaybına uğratılarak ödenmesi nedeniyle mülkiyet hakkının ihlal edildiği iddiasına ilişkindir.",
+   "sonuc": "Esas (İhlal)",
+   "etiket": "B. No: 2020/22340",
    "tarih": "2026-11-04",
-   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-7.pdf",
+   "kararTarihi": "2026-05-05",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjY4ZTI3MWExLTZkODUtNDE4Yy1iNDQ1LWIzY2I1Y2RkNzczZg&type=BireyselBasvuru",
    "alanlar": [
     "Anayasa"
    ],
    "onem": 3,
-   "rgSayi": "33420",
-   "basvuruNo": "2021/8412"
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2020/22340",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-4.pdf",
+   "rgSayi": "33420"
   },
   {
-   "id": "rg-20261104-20261104-8pdf",
-   "kaynak": "rg",
-   "tur": "AYM Kararı",
-   "baslik": "Anayasa Mahkemesinin 18/6/2026 Tarihli ve 2021/42538 Başvuru Numaralı Kararı",
-   "ozet": "",
+   "id": "aym-14a37404-9b79-44f1-b1bc-3a038b05887f",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Hidayet Karaca (5) başvurusu",
+   "ozet": "Başvuru, ödeme emirlerinin iptali için açılan davada davanın açılmamış sayılmasına karar verilmesi nedeniyle mahkemeye erişim hakkının ve mülkiyet hakkının ihlal edildiği iddialarına ilişkindir.",
+   "sonuc": "Esas (İhlal Olmadığı)",
+   "etiket": "B. No: 2021/6977",
    "tarih": "2026-11-04",
-   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-8.pdf",
+   "kararTarihi": "2026-05-05",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjE0YTM3NDA0LTliNzktNDRmMS1iMWJjLTNhMDM4YjA1ODg3Zg&type=BireyselBasvuru",
    "alanlar": [
     "Anayasa"
    ],
-   "onem": 3,
-   "rgSayi": "33420",
-   "basvuruNo": "2021/42538"
+   "onem": 2,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2021/6977",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-5.pdf",
+   "rgSayi": "33420"
   },
   {
    "id": "rg-20261104-20261104-1htm",
@@ -867,7 +902,9 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2024/68293"
+   "basvuruNo": "2024/68293",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030-9.pdf",
+   "rgSayi": "33415"
   },
   {
    "id": "aym-5550423a-f075-4ebc-9108-6293eb7357bd",
@@ -886,7 +923,9 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2021/32883"
+   "basvuruNo": "2021/32883",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030-4.pdf",
+   "rgSayi": "33415"
   },
   {
    "id": "aym-0a5b712f-e283-4c8b-b958-91bc6d40c2d4",
@@ -907,7 +946,9 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2021/22795"
+   "basvuruNo": "2021/22795",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030-5.pdf",
+   "rgSayi": "33415"
   },
   {
    "id": "aym-a6d7224c-0da7-4593-8f6d-9058b7fb92d6",
@@ -926,7 +967,9 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2021/22462"
+   "basvuruNo": "2021/22462",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030-6.pdf",
+   "rgSayi": "33415"
   },
   {
    "id": "aym-fe22e3fc-6c65-42c1-87f8-d58d9350378e",
@@ -945,7 +988,9 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2021/1112"
+   "basvuruNo": "2021/1112",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030-8.pdf",
+   "rgSayi": "33415"
   },
   {
    "id": "rg-20261030-20261030-3htm",
@@ -980,7 +1025,9 @@
    "onem": 2,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2020/7753"
+   "basvuruNo": "2020/7753",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030-7.pdf",
+   "rgSayi": "33415"
   },
   {
    "id": "rg-20261030-20261030-1htm",
@@ -4568,6 +4615,25 @@
    "basvuruNo": "2020/38448"
   },
   {
+   "id": "aym-05fb09be-8361-410f-8d6a-0eba71a10d47",
+   "kaynak": "aym",
+   "tur": "AYM Norm Denetimi",
+   "baslik": "2547 sayılı Yükseköğretim Kanunu",
+   "ozet": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu’na 2/12/2016 tarihli ve 6764 sayılı Kanun’un 29. maddesiyle eklenen 53/C maddesinin ikinci fıkrasında yer alan “ … üniversite öğretim mesleğinden çıkarma cezasını gerektiren fiil açısından altı yıl geçmiş ise… ” ibaresinin Anayasa’nın 2. ve 10. maddelerine aykırılığı ileri sürülerek iptaline karar verilmesi talebidir.",
+   "sonuc": "İlk - Ret vd.",
+   "etiket": "E. 2026/162, K. 2026/142",
+   "tarih": "2026-10-14",
+   "kararTarihi": "2026-06-25",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjA1ZmIwOWJlLTgzNjEtNDEwZi04ZDZhLTBlYmE3MWExMGQ0Nw&type=NormDenetimi",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 3,
+   "esasNo": "2026/162",
+   "kararNo": "2026/142",
+   "basvuruNo": null
+  },
+  {
    "id": "aym-c2460749-f8dd-48a2-90d2-3aa0cff39dbe",
    "kaynak": "aym",
    "tur": "AYM Bireysel Başvuru",
@@ -4625,25 +4691,6 @@
    "esasNo": null,
    "kararNo": null,
    "basvuruNo": "2022/77512"
-  },
-  {
-   "id": "aym-05fb09be-8361-410f-8d6a-0eba71a10d47",
-   "kaynak": "aym",
-   "tur": "AYM Norm Denetimi",
-   "baslik": "2547 sayılı Yükseköğretim Kanunu",
-   "ozet": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu’na 2/12/2016 tarihli ve 6764 sayılı Kanun’un 29. maddesiyle eklenen 53/C maddesinin ikinci fıkrasında yer alan “ … üniversite öğretim mesleğinden çıkarma cezasını gerektiren fiil açısından altı yıl geçmiş ise… ” ibaresinin Anayasa’nın 2. ve 10. maddelerine aykırılığı ileri sürülerek iptaline karar verilmesi talebidir.",
-   "sonuc": "İlk - Ret vd.",
-   "etiket": "E. 2026/162, K. 2026/142",
-   "tarih": "2026-10-14",
-   "kararTarihi": "2026-06-25",
-   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjA1ZmIwOWJlLTgzNjEtNDEwZi04ZDZhLTBlYmE3MWExMGQ0Nw&type=NormDenetimi",
-   "alanlar": [
-    "İdare"
-   ],
-   "onem": 3,
-   "esasNo": "2026/162",
-   "kararNo": "2026/142",
-   "basvuruNo": null
   },
   {
    "id": "aym-a478ee62-0e44-487b-a941-efeb6534b44b",
