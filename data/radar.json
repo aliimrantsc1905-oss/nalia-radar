@@ -1,13 +1,13 @@
 {
  "surum": 1,
- "guncelleme": "2026-11-03T13:36+03:00",
+ "guncelleme": "2026-11-04T07:35+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
    "gun": 12,
    "hata": [
     "2026-10-30: <urlopen error timed out>",
-    "2026-10-26: <urlopen error timed out>"
+    "2026-10-23: <urlopen error timed out>"
    ]
   },
   "aym": {
@@ -20,6 +20,122 @@
   }
  },
  "kayitlar": [
+  {
+   "id": "rg-20261104-20261104-3pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 21/4/2026 Tarihli ve 2022/92607 Başvuru Numaralı Kararı",
+   "ozet": "",
+   "tarih": "2026-11-04",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-3.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33420",
+   "basvuruNo": "2022/92607"
+  },
+  {
+   "id": "rg-20261104-20261104-4pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 5/5/2026 Tarihli ve 2020/22340 Başvuru Numaralı Kararı",
+   "ozet": "",
+   "tarih": "2026-11-04",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-4.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33420",
+   "basvuruNo": "2020/22340"
+  },
+  {
+   "id": "rg-20261104-20261104-5pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 5/5/2026 Tarihli ve 2021/6977 Başvuru Numaralı Kararı",
+   "ozet": "",
+   "tarih": "2026-11-04",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-5.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33420",
+   "basvuruNo": "2021/6977"
+  },
+  {
+   "id": "rg-20261104-20261104-6pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 17/6/2026 Tarihli ve 2023/4554 Başvuru Numaralı Kararı",
+   "ozet": "",
+   "tarih": "2026-11-04",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-6.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33420",
+   "basvuruNo": "2023/4554"
+  },
+  {
+   "id": "rg-20261104-20261104-7pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 18/6/2026 Tarihli ve 2021/8412 Başvuru Numaralı Kararı",
+   "ozet": "",
+   "tarih": "2026-11-04",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-7.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33420",
+   "basvuruNo": "2021/8412"
+  },
+  {
+   "id": "rg-20261104-20261104-8pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 18/6/2026 Tarihli ve 2021/42538 Başvuru Numaralı Kararı",
+   "ozet": "",
+   "tarih": "2026-11-04",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-8.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33420",
+   "basvuruNo": "2021/42538"
+  },
+  {
+   "id": "rg-20261104-20261104-1htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "İstanbul Üniversitesi İnsan Hakları Hukuku Uygulama ve Araştırma Merkezi Yönetmeliği",
+   "ozet": "",
+   "tarih": "2026-11-04",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-1.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33420"
+  },
+  {
+   "id": "rg-20261104-20261104-2pdf",
+   "kaynak": "rg",
+   "tur": "Kurul Kararı",
+   "baslik": "Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurulunun 30/10/2026 Tarihli ve 75935942-050.01.04-[01/47201] Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-11-04",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-2.pdf",
+   "alanlar": [],
+   "onem": 1,
+   "rgSayi": "33420"
+  },
   {
    "id": "aym-6e638b49-1a36-4697-8189-6462b816cd41",
    "kaynak": "aym",
