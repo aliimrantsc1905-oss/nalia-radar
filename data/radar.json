@@ -1,6 +1,6 @@
 {
  "surum": 1,
- "guncelleme": "2026-11-04T13:48+03:00",
+ "guncelleme": "2026-11-05T07:36+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
@@ -17,6 +17,44 @@
   }
  },
  "kayitlar": [
+  {
+   "id": "rg-20261105-20261105-1htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Haberleşme, Seyrüsefer ve Gözetim Sistemleri Mânia Kriterleri Hakkında Yönetmelik (SHY-CNS/MÂNİA)",
+   "ozet": "",
+   "tarih": "2026-11-05",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261105-1.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33421"
+  },
+  {
+   "id": "rg-20261105-20261105-2htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Türk Mühendis ve Mimar Odaları Birliği Harita ve Kadastro Mühendisleri Odası Eğitim ve Belgelendirme Merkezi Yönetmeliği",
+   "ozet": "",
+   "tarih": "2026-11-05",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261105-2.htm",
+   "alanlar": [
+    "Gayrimenkul"
+   ],
+   "onem": 1,
+   "rgSayi": "33421"
+  },
+  {
+   "id": "rg-20261105-20261105-3pdf",
+   "kaynak": "rg",
+   "tur": "Kurul Kararı",
+   "baslik": "Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurulunun 30/10/2026 Tarihli ve 75935942-050.01.04-[01/47239] Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-11-05",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261105-3.pdf",
+   "alanlar": [],
+   "onem": 1,
+   "rgSayi": "33421"
+  },
   {
    "id": "aym-2d42479f-0365-46ce-b5fd-a517619b051e",
    "kaynak": "aym",
@@ -1652,9 +1690,7 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2020/9807",
-   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261022-7.pdf",
-   "rgSayi": "33408"
+   "basvuruNo": "2020/9807"
   },
   {
    "id": "aym-7811d323-3375-4d0e-adb0-0c4d194abe50",
@@ -1673,9 +1709,7 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2023/59815",
-   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261022-9.pdf",
-   "rgSayi": "33408"
+   "basvuruNo": "2023/59815"
   },
   {
    "id": "aym-b23fa84c-29b8-46db-bfae-7a58c38cbf1f",
@@ -1696,9 +1730,7 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2021/40650",
-   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261022-10.pdf",
-   "rgSayi": "33408"
+   "basvuruNo": "2021/40650"
   },
   {
    "id": "aym-88269f56-4634-4b49-be30-9ac0ce105739",
@@ -1717,9 +1749,7 @@
    "onem": 3,
    "esasNo": "2026/46",
    "kararNo": "2026/145",
-   "basvuruNo": null,
-   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261022-6.pdf",
-   "rgSayi": "33408"
+   "basvuruNo": null
   },
   {
    "id": "aym-1c020199-293a-46bb-8eb5-6a8cbeef86e3",
@@ -1738,9 +1768,7 @@
    "onem": 2,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2021/7687",
-   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261022-8.pdf",
-   "rgSayi": "33408"
+   "basvuruNo": "2021/7687"
   },
   {
    "id": "rg-20261022-20261022-1pdf",
