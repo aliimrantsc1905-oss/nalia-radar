@@ -1,6 +1,6 @@
 {
  "surum": 1,
- "guncelleme": "2026-11-06T07:38+03:00",
+ "guncelleme": "2026-11-06T13:45+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
@@ -20,52 +20,6 @@
  },
  "kayitlar": [
   {
-   "id": "rg-20261106-20261106-4pdf",
-   "kaynak": "rg",
-   "tur": "AYM Kararı",
-   "baslik": "Anayasa Mahkemesinin 16/7/2026 Tarihli ve E: 2026/23, K: 2026/162 Sayılı Kararı",
-   "ozet": "",
-   "tarih": "2026-11-06",
-   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106-4.pdf",
-   "alanlar": [
-    "Anayasa"
-   ],
-   "onem": 3,
-   "rgSayi": "33422",
-   "esasNo": "2026/23",
-   "kararNo": "2026/162"
-  },
-  {
-   "id": "rg-20261106-20261106-5pdf",
-   "kaynak": "rg",
-   "tur": "AYM Kararı",
-   "baslik": "Anayasa Mahkemesinin 30/4/2026 Tarihli ve 2021/29667 Başvuru Numaralı Kararı",
-   "ozet": "",
-   "tarih": "2026-11-06",
-   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106-5.pdf",
-   "alanlar": [
-    "Anayasa"
-   ],
-   "onem": 3,
-   "rgSayi": "33422",
-   "basvuruNo": "2021/29667"
-  },
-  {
-   "id": "rg-20261106-20261106-6pdf",
-   "kaynak": "rg",
-   "tur": "AYM Kararı",
-   "baslik": "Anayasa Mahkemesinin 30/4/2026 Tarihli ve 2022/103359 Başvuru Numaralı Kararı",
-   "ozet": "",
-   "tarih": "2026-11-06",
-   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106-6.pdf",
-   "alanlar": [
-    "Anayasa"
-   ],
-   "onem": 3,
-   "rgSayi": "33422",
-   "basvuruNo": "2022/103359"
-  },
-  {
    "id": "rg-20261106-20261106-7pdf",
    "kaynak": "rg",
    "tur": "AYM Kararı",
@@ -81,6 +35,48 @@
    "basvuruNo": "2019/18263"
   },
   {
+   "id": "aym-770e2039-896a-49cf-acc7-04cf37b90ddc",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Ali Buluş ve Diğerleri başvurusu",
+   "ozet": "Başvuru, Avrupa İnsan Hakları Mahkemesinin ihlal kararına dayanılarak yapılan yargılamanın yenilenmesi talebinin reddedilmesi nedeniyle ifade özgürlüğünün ihlal edildiği iddiasına ilişkindir.",
+   "sonuc": "Esas (İhlal)",
+   "etiket": "B. No: 2021/29667",
+   "tarih": "2026-11-06",
+   "kararTarihi": "2026-04-30",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjc3MGUyMDM5LTg5NmEtNDljZi1hY2M3LTA0Y2YzN2I5MGRkYw&type=BireyselBasvuru",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2021/29667",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106-5.pdf",
+   "rgSayi": "33422"
+  },
+  {
+   "id": "aym-17e1ae5f-a4b7-48c7-8314-7efac097d1f3",
+   "kaynak": "aym",
+   "tur": "AYM Norm Denetimi",
+   "baslik": "7571 sayılı Kanun m.36",
+   "ozet": "22/11/2001 tarihli ve 4721 sayılı; A. Türk Medenî Kanunu’nun 734. maddesinin 24/12/2025 tarihli ve 7571 sayılı Kanun’un 36. maddesiyle değiştirilen ikinci fıkrasının; 1. Birinci cümlesinde yer alan “…rayiç bedeli…” ve “…gecikmeksizin…” ibarelerinin, 2. İkinci cümlesinde yer alan “…kesin süre…” ibaresinin, B. Türk Medenî Kanunu’na 7571 sayılı Kanun’un 37. maddesiyle eklenen geçici 1. maddenin (2) numaralı fıkrasının, Anayasa’nın 2., 5., 13., 35. ve 36. maddelerine aykırılığı ileri sürülerek iptallerine ve yürürlüklerinin durdurulmasına karar verilmesi talepleridir.",
+   "sonuc": "Esas - İptal (yürürlüğü ertelendi)",
+   "etiket": "E. 2026/23, K. 2026/162",
+   "tarih": "2026-11-06",
+   "kararTarihi": "2026-07-16",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjE3ZTFhZTVmLWE0YjctNDhjNy04MzE0LTdlZmFjMDk3ZDFmMw&type=NormDenetimi",
+   "alanlar": [
+    "Aile"
+   ],
+   "onem": 3,
+   "esasNo": "2026/23",
+   "kararNo": "2026/162",
+   "basvuruNo": null,
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106-4.pdf",
+   "rgSayi": "33422"
+  },
+  {
    "id": "rg-20261106-20261106-1htm",
    "kaynak": "rg",
    "tur": "Yönetmelik",
@@ -90,6 +86,27 @@
    "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106-1.htm",
    "alanlar": [],
    "onem": 2,
+   "rgSayi": "33422"
+  },
+  {
+   "id": "aym-fa5311b7-44ac-4dde-b424-a7e32ff0b818",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Rıdvan Akbaş (2) başvurusu",
+   "ozet": "Başvuru, kanuni gözaltı süresinin aşılması nedeniyle kişi hürriyeti ve güvenliği hakkının ihlal edildiği iddiasına ilişkindir.",
+   "sonuc": "Esas (İhlal Olmadığı)",
+   "etiket": "B. No: 2022/103359",
+   "tarih": "2026-11-06",
+   "kararTarihi": "2026-04-30",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmZhNTMxMWI3LTQ0YWMtNGRkZS1iNDI0LWE3ZTMyZmYwYjgxOA&type=BireyselBasvuru",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 2,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2022/103359",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106-6.pdf",
    "rgSayi": "33422"
   },
   {
@@ -121,6 +138,183 @@
    "rgSayi": "33422"
   },
   {
+   "id": "aym-6849d9bc-30d1-4a48-890c-45987c1d9ae7",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Deniz Can Yılmaz başvurusu",
+   "ozet": "Başvuru, yakalama ve gözaltı işlemleri uygulandığı sırada şüphelinin darbedilmesi ve bu olay hakkında etkili bir soruşturma yürütülmemesi nedeniyle kötü muamele yasağının ihlal edildiği iddiasına ilişkindir.",
+   "sonuc": "Esas (İhlal)",
+   "etiket": "B. No: 2021/54404",
+   "tarih": "2026-11-05",
+   "kararTarihi": "2026-03-04",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjY4NDlkOWJjLTMwZDEtNGE0OC04OTBjLTQ1OTg3YzFkOWFlNw&type=BireyselBasvuru",
+   "alanlar": [
+    "Ceza",
+    "Anayasa"
+   ],
+   "onem": 3,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2021/54404"
+  },
+  {
+   "id": "aym-98a16c82-e44a-4d69-b67e-123c95af951f",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Günday Ökmen başvurusu",
+   "ozet": "Başvuru, ön alım bedelinin değer kaybına uğratılması nedeniyle mülkiyet hakkının ve yargılamanın uzun sürmesi nedeniyle makul sürede yargılanma hakkının ihlal edildiği iddialarına ilişkindir.",
+   "sonuc": "Esas (İhlal)",
+   "etiket": "B. No: 2021/37427",
+   "tarih": "2026-11-05",
+   "kararTarihi": "2026-09-16",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjk4YTE2YzgyLWU0NGEtNGQ2OS1iNjdlLTEyM2M5NWFmOTUxZg&type=BireyselBasvuru",
+   "alanlar": [
+    "Gayrimenkul",
+    "Anayasa"
+   ],
+   "onem": 3,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2021/37427"
+  },
+  {
+   "id": "aym-a88de826-5db1-45b2-bc04-d03fdacf1d8a",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "İlhan Aksu başvurusu",
+   "ozet": "Başvuru, idarenin kusuruna dayalı olarak nüfus kaydına konulan şerh nedeniyle yurt dışına çıkılamayan dönemdeki zararların tazmin edilmesine ilişkin açılan tam yargı davasının reddedilmesi nedeniyle özel hayata ve aile hayatına saygı hakkıyla bağlantılı olarak etkili başvuru hakkının ihlal edildiği iddiasına ilişkindir.",
+   "sonuc": "Esas (İhlal)",
+   "etiket": "B. No: 2021/23043",
+   "tarih": "2026-11-05",
+   "kararTarihi": "2026-09-16",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmE4OGRlODI2LTVkYjEtNDViMi1iYzA0LWQwM2ZkYWNmMWQ4YQ&type=BireyselBasvuru",
+   "alanlar": [
+    "Aile",
+    "Anayasa"
+   ],
+   "onem": 3,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2021/23043"
+  },
+  {
+   "id": "aym-09877936-efd2-4e38-9d6e-c2b1b7738c64",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Mustafa Yasin Kara başvurusu",
+   "ozet": "Başvuru, pasaportuna hukuka aykırı olarak tahdit konulduğu mahkeme kararıyla tespit edilen başvurucunun tahdit sebebiyle yurt dışında bulunan üniversiteye devam edememesinden kaynaklanan zararının tazmin edilmemesi nedeniyle eğitim hakkının ihlal edildiği iddiasına ilişkindir.",
+   "sonuc": "Esas (İhlal)",
+   "etiket": "B. No: 2021/12959",
+   "tarih": "2026-11-05",
+   "kararTarihi": "2026-09-16",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjA5ODc3OTM2LWVmZDItNGUzOC05ZDZlLWMyYjFiNzczOGM2NA&type=BireyselBasvuru",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2021/12959"
+  },
+  {
+   "id": "aym-6a7fa41f-5fa6-4908-981b-9d128a7692b3",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Mehmet Şah Yüce ve Diğerleri başvurusu",
+   "ozet": "Başvuru; lehe olan deliller dikkate alınmadan gizli tanık beyanlarına dayanılarak eksik araştırma ve incelemeyle mahkûmiyet kararı verilmesi, gözaltına alındıkları andan itibaren peşinen suçlu ilan edilmeleri, istinaf ve temyiz incelemelerinde duruşmalı inceleme yapılmaması, kararların gerekçesiz olması ve yeniden yargılanma talebinin kabul görmemesi nedenleriyle adil yargılanma hakkı kapsamında bir kısım haklarının ihlal edildiği iddialarına ilişkindir.",
+   "sonuc": "Esas (İhlal)",
+   "etiket": "B. No: 2020/26367",
+   "tarih": "2026-11-05",
+   "kararTarihi": "2026-09-16",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjZhN2ZhNDFmLTVmYTYtNDkwOC05ODFiLTlkMTI4YTc2OTJiMw&type=BireyselBasvuru",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2020/26367"
+  },
+  {
+   "id": "aym-2fad2677-ca8c-4ddd-a272-0414c90b9369",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "V.E. başvurusu",
+   "ozet": "Başvuru, gözaltı tedbiri nedeniyle uğranılan zararın tazmini için açılan davada hükmedilen miktarın yetersiz olması nedeniyle kişi hürriyeti ve güvenliği hakkının ihlal edildiği iddiasına ilişkindir.",
+   "sonuc": "Esas (İhlal)",
+   "etiket": "B. No: 2023/29148",
+   "tarih": "2026-11-05",
+   "kararTarihi": "2026-10-14",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjJmYWQyNjc3LWNhOGMtNGRkZC1hMjcyLTA0MTRjOTBiOTM2OQ&type=BireyselBasvuru",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2023/29148"
+  },
+  {
+   "id": "aym-03e716e8-ea0b-4bcc-9a96-55dac03ab70c",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Adem Ateş ve Diğerleri başvurusu",
+   "ozet": "Başvuru, kadastro tespitine itiraz davasında adli yardım talebinin reddedilmesi üzerine eksik harcın ödenmemesi nedeniyle davanın açılmamış sayılmasına karar verilmesi suretiyle adil yargılanma hakkı kapsamında mahkemeye erişim hakkı ve mülkiyet hakkının ihlal edildiği iddialarına ilişkindir.",
+   "sonuc": "Esas (İhlal)",
+   "etiket": "B. No: 2022/47243",
+   "tarih": "2026-11-05",
+   "kararTarihi": "2026-10-14",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjAzZTcxNmU4LWVhMGItNGJjYy05YTk2LTU1ZGFjMDNhYjcwYw&type=BireyselBasvuru",
+   "alanlar": [
+    "Gayrimenkul",
+    "Anayasa"
+   ],
+   "onem": 3,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2022/47243"
+  },
+  {
+   "id": "aym-d5cc5f3e-3c4d-4caf-ac7b-a0c3d7b665d8",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Adnan Afrin başvurusu",
+   "ozet": "Başvuru, mahpus başvurucuya avukatı tarafından verilen belgelerin denetime tabi tutulması uygulamasına yönelik şikâyetin esasa girilmeksizin reddedilmesi nedeniyle özel hayata saygı hakkı ile bağlantılı olarak etkili başvuru hakkının ihlal edildiği iddiasına ilişkindir.",
+   "sonuc": "Esas (İhlal)",
+   "etiket": "B. No: 2021/56500",
+   "tarih": "2026-11-05",
+   "kararTarihi": "2026-10-14",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmQ1Y2M1ZjNlLTNjNGQtNGNhZi1hYzdiLWEwYzNkN2I2NjVkOA&type=BireyselBasvuru",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2021/56500"
+  },
+  {
+   "id": "aym-3991d284-f6ba-421a-b1ec-16a986e73c52",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Ali Odabaşı başvurusu",
+   "ozet": "Başvuru, koronavirüs salgınına yönelik tedbirler kapsamında ceza infaz kurumundaki görüşlerin kısıtlanması ve açık ceza infaz kurumuna ayrılma talebinin reddedilmesi nedeniyle aile hayatına saygı ve kişi hürriyeti ve güvenliği haklarının ihlal edildiği iddialarına ilişkindir.",
+   "sonuc": "Esas (İhlal)",
+   "etiket": "B. No: 2021/51707",
+   "tarih": "2026-11-05",
+   "kararTarihi": "2026-10-14",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjM5OTFkMjg0LWY2YmEtNDIxYS1iMWVjLTE2YTk4NmU3M2M1Mg&type=BireyselBasvuru",
+   "alanlar": [
+    "Ceza",
+    "Aile",
+    "Anayasa"
+   ],
+   "onem": 3,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2021/51707"
+  },
+  {
    "id": "rg-20261105-20261105-1htm",
    "kaynak": "rg",
    "tur": "Yönetmelik",
@@ -131,6 +325,161 @@
    "alanlar": [],
    "onem": 2,
    "rgSayi": "33421"
+  },
+  {
+   "id": "aym-8c808acc-8700-4453-b619-31de93c90be5",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Demars İnşaat Turizm Ticaret Ltd. Şti. başvurusu",
+   "ozet": "Başvuru, sunulan teklifin gerçekleştirilen bir kamu ihalesi sonucunda değerlendirme dışı bırakılması ve geçici teminatın gelir kaydedilmesine ilişkin işleme karşı açılan davanın reddedilmesi nedeniyle mülkiyet hakkının ihlal edildiği iddiasına ilişkindir.",
+   "sonuc": "Esas (İhlal Olmadığı)",
+   "etiket": "B. No: 2021/22287",
+   "tarih": "2026-11-05",
+   "kararTarihi": "2026-06-17",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjhjODA4YWNjLTg3MDAtNDQ1My1iNjE5LTMxZGU5M2M5MGJlNQ&type=BireyselBasvuru",
+   "alanlar": [
+    "İdare",
+    "Anayasa"
+   ],
+   "onem": 2,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2021/22287"
+  },
+  {
+   "id": "aym-a042cb12-1a65-43d5-a6cb-99129e64bfa5",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Can Dündar başvurusu",
+   "ozet": "Başvuru, devam eden ceza yargılaması gereğince kaçak sayılan kişinin menkul ve gayrimenkullerine el konulması nedeniyle mülkiyet hakkının ihlal edildiği iddiasına ilişkindir.",
+   "sonuc": "Esas (İhlal Olmadığı)",
+   "etiket": "B. No: 2020/35701",
+   "tarih": "2026-11-05",
+   "kararTarihi": "2026-07-01",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmEwNDJjYjEyLTFhNjUtNDNkNS1hNmNiLTk5MTI5ZTY0YmZhNQ&type=BireyselBasvuru",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 2,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2020/35701"
+  },
+  {
+   "id": "aym-f44d2aa7-5f60-44bd-9912-05e243d70242",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Alper Uluca başvurusu",
+   "ozet": "Başvuru, başvurucunun WhatsApp adlı mesajlaşma programını kullanarak yaptığı yazışmaların işveren tarafından incelenmesi ve bu yazışmalar gerekçe gösterilerek iş akdinin feshedilmesi nedeniyle kişisel verilerin korunmasını isteme hakkı ile haberleşme hürriyetinin ihlal edildiği iddialarına ilişkindir.",
+   "sonuc": "Esas (İhlal Olmadığı)",
+   "etiket": "B. No: 2020/31818",
+   "tarih": "2026-11-05",
+   "kararTarihi": "2026-09-16",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmY0NGQyYWE3LTVmNjAtNDRiZC05OTEyLTA1ZTI0M2Q3MDI0Mg&type=BireyselBasvuru",
+   "alanlar": [
+    "İş",
+    "Bilişim"
+   ],
+   "onem": 2,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2020/31818"
+  },
+  {
+   "id": "aym-b443e8f1-d0f4-4078-9704-4311aa332a9c",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Fındık Ayşe Kökdogan başvurusu",
+   "ozet": "Başvuru, karar sonucunu etkileyecek nitelikteki esaslı iddiaların kararda karşılanmaması nedeniyle gerekçeli karar hakkının ihlal edildiği iddiasına ilişkindir.",
+   "sonuc": "Esas (İhlal Olmadığı)",
+   "etiket": "B. No: 2023/46782",
+   "tarih": "2026-11-05",
+   "kararTarihi": "2026-10-14",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmI0NDNlOGYxLWQwZjQtNDA3OC05NzA0LTQzMTFhYTMzMmE5Yw&type=BireyselBasvuru",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 2,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2023/46782"
+  },
+  {
+   "id": "aym-6d73d7c6-c75b-4afb-9504-c4b97216c85e",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Ramazan Durman başvurusu",
+   "ozet": "Başvuru, gözaltında müdafi olmaksızın alınan ifadelere ve teşhis tutanağına dayalı olarak mahkûmiyet kararı verilmesi nedeniyle müdafi yardımından yararlanma hakkı ile bağlantılı olarak hakkaniyete uygun yargılanma hakkının, karar sonucunu etkileyecek nitelikteki esaslı iddiaların kararda karşılanmaması nedeniyle gerekçeli karar hakkının ihlal edildiği iddiasına ilişkindir.",
+   "sonuc": "Esas (İhlal Olmadığı)",
+   "etiket": "B. No: 2022/91829",
+   "tarih": "2026-11-05",
+   "kararTarihi": "2026-10-14",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjZkNzNkN2M2LWM3NWItNGFmYi05NTA0LWM0Yjk3MjE2Yzg1ZQ&type=BireyselBasvuru",
+   "alanlar": [
+    "Ceza",
+    "Anayasa"
+   ],
+   "onem": 2,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2022/91829"
+  },
+  {
+   "id": "aym-af4bf901-b52b-4c8d-91b4-24602dc749ea",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Resul Demir başvurusu",
+   "ozet": "Başvuru; duruşmada savunma yapma imkânının gerektiği gibi sağlanmaması nedeniyle savunma için gerekli zaman ve kolaylıklara sahip olma hakkının, eksik inceleme ile karar verilmesi nedeniyle silahların eşitliği ve çelişmeli yargılama ilkelerinin, karar sonucunu değiştirebilecek nitelikteki esaslı iddiaların karşılanmaması nedeniyle gerekçeli karar hakkının ihlal edildiği iddialarına ilişkindir.",
+   "sonuc": "Esas (İhlal Olmadığı)",
+   "etiket": "B. No: 2022/84611",
+   "tarih": "2026-11-05",
+   "kararTarihi": "2026-10-14",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmFmNGJmOTAxLWI1MmItNGM4ZC05MWI0LTI0NjAyZGM3NDllYQ&type=BireyselBasvuru",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 2,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2022/84611"
+  },
+  {
+   "id": "aym-e7e53b6d-3e91-411b-9f09-b18c2b4a659e",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "S.A. başvurusu",
+   "ozet": "Başvuru, terör örgütü üyeliği suçuyla ilgili olarak yapılan yargısal yorumların öngörülebilir olmaması ve mahkûmiyet kararında esas olarak suç oluşturmayan bazı eylemlere de dayanılması nedeniyle suçta ve cezada kanunilik ilkesinin ihlal edildiği iddiasına ilişkindir.",
+   "sonuc": "Esas (İhlal Olmadığı)",
+   "etiket": "B. No: 2022/28184",
+   "tarih": "2026-11-05",
+   "kararTarihi": "2026-10-14",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmU3ZTUzYjZkLTNlOTEtNDExYi05ZjA5LWIxOGMyYjRhNjU5ZQ&type=BireyselBasvuru",
+   "alanlar": [
+    "Ceza"
+   ],
+   "onem": 2,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2022/28184"
+  },
+  {
+   "id": "aym-87707527-3869-43d6-87ea-18f280ad27ef",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Nihat Özen başvurusu",
+   "ozet": "Başvuru, öğrenci affı kapsamında yeniden öğrencilik statüsünden yararlandırılmama sebebiyle eğitim hakkının ihlal edildiği iddiasına ilişkindir.",
+   "sonuc": "Esas (İhlal Olmadığı)",
+   "etiket": "B. No: 2023/104197",
+   "tarih": "2026-11-05",
+   "kararTarihi": "2026-05-05",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjg3NzA3NTI3LTM4NjktNDNkNi04N2VhLTE4ZjI4MGFkMjdlZg&type=BireyselBasvuru",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 2,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2023/104197"
   },
   {
    "id": "rg-20261105-20261105-2htm",
@@ -4549,6 +4898,25 @@
    "basvuruNo": "2021/51554"
   },
   {
+   "id": "aym-05fb09be-8361-410f-8d6a-0eba71a10d47",
+   "kaynak": "aym",
+   "tur": "AYM Norm Denetimi",
+   "baslik": "2547 sayılı Yükseköğretim Kanunu",
+   "ozet": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu’na 2/12/2016 tarihli ve 6764 sayılı Kanun’un 29. maddesiyle eklenen 53/C maddesinin ikinci fıkrasında yer alan “ … üniversite öğretim mesleğinden çıkarma cezasını gerektiren fiil açısından altı yıl geçmiş ise… ” ibaresinin Anayasa’nın 2. ve 10. maddelerine aykırılığı ileri sürülerek iptaline karar verilmesi talebidir.",
+   "sonuc": "İlk - Ret vd.",
+   "etiket": "E. 2026/162, K. 2026/142",
+   "tarih": "2026-10-14",
+   "kararTarihi": "2026-06-25",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjA1ZmIwOWJlLTgzNjEtNDEwZi04ZDZhLTBlYmE3MWExMGQ0Nw&type=NormDenetimi",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 3,
+   "esasNo": "2026/162",
+   "kararNo": "2026/142",
+   "basvuruNo": null
+  },
+  {
    "id": "aym-27983705-2744-4435-a568-cfaf5c463d6c",
    "kaynak": "aym",
    "tur": "AYM Bireysel Başvuru",
@@ -4744,25 +5112,6 @@
    "esasNo": null,
    "kararNo": null,
    "basvuruNo": "2020/38448"
-  },
-  {
-   "id": "aym-05fb09be-8361-410f-8d6a-0eba71a10d47",
-   "kaynak": "aym",
-   "tur": "AYM Norm Denetimi",
-   "baslik": "2547 sayılı Yükseköğretim Kanunu",
-   "ozet": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu’na 2/12/2016 tarihli ve 6764 sayılı Kanun’un 29. maddesiyle eklenen 53/C maddesinin ikinci fıkrasında yer alan “ … üniversite öğretim mesleğinden çıkarma cezasını gerektiren fiil açısından altı yıl geçmiş ise… ” ibaresinin Anayasa’nın 2. ve 10. maddelerine aykırılığı ileri sürülerek iptaline karar verilmesi talebidir.",
-   "sonuc": "İlk - Ret vd.",
-   "etiket": "E. 2026/162, K. 2026/142",
-   "tarih": "2026-10-14",
-   "kararTarihi": "2026-06-25",
-   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjA1ZmIwOWJlLTgzNjEtNDEwZi04ZDZhLTBlYmE3MWExMGQ0Nw&type=NormDenetimi",
-   "alanlar": [
-    "İdare"
-   ],
-   "onem": 3,
-   "esasNo": "2026/162",
-   "kararNo": "2026/142",
-   "basvuruNo": null
   },
   {
    "id": "aym-c2460749-f8dd-48a2-90d2-3aa0cff39dbe",
