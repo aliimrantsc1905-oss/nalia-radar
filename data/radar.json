@@ -1,12 +1,12 @@
 {
  "surum": 1,
- "guncelleme": "2026-11-05T13:43+03:00",
+ "guncelleme": "2026-11-06T07:38+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
    "gun": 13,
    "hata": [
-    "2026-10-30: <urlopen error timed out>"
+    "2026-10-25: <urlopen error timed out>"
    ]
   },
   "aym": {
@@ -19,6 +19,107 @@
   }
  },
  "kayitlar": [
+  {
+   "id": "rg-20261106-20261106-4pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 16/7/2026 Tarihli ve E: 2026/23, K: 2026/162 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-11-06",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106-4.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33422",
+   "esasNo": "2026/23",
+   "kararNo": "2026/162"
+  },
+  {
+   "id": "rg-20261106-20261106-5pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 30/4/2026 Tarihli ve 2021/29667 Başvuru Numaralı Kararı",
+   "ozet": "",
+   "tarih": "2026-11-06",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106-5.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33422",
+   "basvuruNo": "2021/29667"
+  },
+  {
+   "id": "rg-20261106-20261106-6pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 30/4/2026 Tarihli ve 2022/103359 Başvuru Numaralı Kararı",
+   "ozet": "",
+   "tarih": "2026-11-06",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106-6.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33422",
+   "basvuruNo": "2022/103359"
+  },
+  {
+   "id": "rg-20261106-20261106-7pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 11/6/2026 Tarihli ve 2019/18263 Başvuru Numaralı Kararı",
+   "ozet": "",
+   "tarih": "2026-11-06",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106-7.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33422",
+   "basvuruNo": "2019/18263"
+  },
+  {
+   "id": "rg-20261106-20261106-1htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Organize Sanayi Bölgeleri Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-11-06",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106-1.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33422"
+  },
+  {
+   "id": "rg-20261106-20261106-2htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "İnönü Üniversitesi Türkçe Öğretimi Uygulama ve Araştırma Merkezi Yönetmeliği",
+   "ozet": "",
+   "tarih": "2026-11-06",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106-2.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33422"
+  },
+  {
+   "id": "rg-20261106-20261106-3pdf",
+   "kaynak": "rg",
+   "tur": "Kurul Kararı",
+   "baslik": "Bankacılık Düzenleme ve Denetleme Kurulunun 04/11/2026 Tarihli ve 11593 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-11-06",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106-3.pdf",
+   "alanlar": [
+    "Ticaret"
+   ],
+   "onem": 1,
+   "rgSayi": "33422"
+  },
   {
    "id": "rg-20261105-20261105-1htm",
    "kaynak": "rg",
@@ -942,7 +1043,9 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2024/68293"
+   "basvuruNo": "2024/68293",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030-9.pdf",
+   "rgSayi": "33415"
   },
   {
    "id": "aym-5550423a-f075-4ebc-9108-6293eb7357bd",
@@ -961,7 +1064,9 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2021/32883"
+   "basvuruNo": "2021/32883",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030-4.pdf",
+   "rgSayi": "33415"
   },
   {
    "id": "aym-0a5b712f-e283-4c8b-b958-91bc6d40c2d4",
@@ -982,7 +1087,9 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2021/22795"
+   "basvuruNo": "2021/22795",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030-5.pdf",
+   "rgSayi": "33415"
   },
   {
    "id": "aym-a6d7224c-0da7-4593-8f6d-9058b7fb92d6",
@@ -1001,7 +1108,9 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2021/22462"
+   "basvuruNo": "2021/22462",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030-6.pdf",
+   "rgSayi": "33415"
   },
   {
    "id": "aym-fe22e3fc-6c65-42c1-87f8-d58d9350378e",
@@ -1020,7 +1129,9 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2021/1112"
+   "basvuruNo": "2021/1112",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030-8.pdf",
+   "rgSayi": "33415"
   },
   {
    "id": "rg-20261030-20261030-3htm",
@@ -1055,7 +1166,9 @@
    "onem": 2,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2020/7753"
+   "basvuruNo": "2020/7753",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030-7.pdf",
+   "rgSayi": "33415"
   },
   {
    "id": "rg-20261030-20261030-1htm",
