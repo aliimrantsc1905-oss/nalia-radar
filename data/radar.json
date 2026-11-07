@@ -1,12 +1,13 @@
 {
  "surum": 1,
- "guncelleme": "2026-11-06T13:45+03:00",
+ "guncelleme": "2026-11-07T07:32+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
-   "gun": 13,
+   "gun": 12,
    "hata": [
-    "2026-10-25: <urlopen error timed out>"
+    "2026-11-03: <urlopen error timed out>",
+    "2026-10-28: <urlopen error timed out>"
    ]
   },
   "aym": {
@@ -19,6 +20,92 @@
   }
  },
  "kayitlar": [
+  {
+   "id": "rg-20261107-20261107-2htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Aile Danışma Merkezleri Yönetmeliği",
+   "ozet": "",
+   "tarih": "2026-11-07",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107-2.htm",
+   "alanlar": [
+    "Aile"
+   ],
+   "onem": 2,
+   "rgSayi": "33423"
+  },
+  {
+   "id": "rg-20261107-20261107-3htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Çevresel Etki Değerlendirmesi Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-11-07",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107-3.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33423"
+  },
+  {
+   "id": "rg-20261107-20261107-4htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Sığır Karkasının Sınıflandırılmasına Dair Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-11-07",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107-4.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33423"
+  },
+  {
+   "id": "rg-20261107-20261107-5htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Türk Mühendis ve Mimar Odaları Birliği Metalurji ve Malzeme Mühendisleri Odası Ana Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-11-07",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107-5.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33423"
+  },
+  {
+   "id": "rg-20261107-20261107-6htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Türk Mühendis ve Mimar Odaları Birliği Meteoroloji Mühendisleri Odası Ana Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-11-07",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107-6.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33423"
+  },
+  {
+   "id": "rg-20261107-20261107-1pdf",
+   "kaynak": "rg",
+   "tur": "Atama Kararı",
+   "baslik": "Cumhurbaşkanlığı Tarafından Yapılan Atamalar Hakkında Kararlar (Karar: 2026/378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388)",
+   "ozet": "",
+   "tarih": "2026-11-07",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107-1.pdf",
+   "alanlar": [],
+   "onem": 1,
+   "rgSayi": "33423"
+  },
+  {
+   "id": "rg-20261107-20261107-7pdf",
+   "kaynak": "rg",
+   "tur": "Kurul Kararı",
+   "baslik": "Enerji Piyasası Düzenleme Kurulunun 04/11/2026 Tarihli ve 15024 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-11-07",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107-7.pdf",
+   "alanlar": [],
+   "onem": 1,
+   "rgSayi": "33423"
+  },
   {
    "id": "rg-20261106-20261106-7pdf",
    "kaynak": "rg",
@@ -136,6 +223,121 @@
    ],
    "onem": 1,
    "rgSayi": "33422"
+  },
+  {
+   "id": "aym-5c14c276-9a7b-4912-a8e8-c25aa4280977",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "YUNUS SAZİL VE DİĞERLERİ başvurusu",
+   "ozet": "Başvuru; terör örgütüne üye olma suçundan verilen mahkûmiyet kararlarında karar sonucunu değiştirebilecek nitelikteki esaslı iddiaların karşılanmaması nedeniyle gerekçeli karar hakkı ile Anayasa'da güvence altına alınan diğer hak ve özgürlüklerin ihlal edildiği iddialarına ilişkindir.",
+   "sonuc": "Esas (İhlal)",
+   "etiket": "B. No: 2023/91872",
+   "tarih": "2026-11-05",
+   "kararTarihi": "2026-09-02",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjVjMTRjMjc2LTlhN2ItNDkxMi1hOGU4LWMyNWFhNDI4MDk3Nw&type=BireyselBasvuru",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2023/91872"
+  },
+  {
+   "id": "aym-9389b756-201c-4a49-8f62-ec706e44bf1d",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Bayram Besler başvurusu",
+   "ozet": "Başvuru, terör örgütüne üye olma suçundan verilen mahkûmiyet hükmünde başvurucunun karar sonucunu değiştirebilecek nitelikteki esaslı iddialarının karşılanmaması nedeniyle gerekçeli karar hakkının ihlal edildiği iddiasına ilişkindir.",
+   "sonuc": "Esas (İhlal)",
+   "etiket": "B. No: 2023/21133",
+   "tarih": "2026-11-05",
+   "kararTarihi": "2026-09-16",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjkzODliNzU2LTIwMWMtNGE0OS04ZjYyLWVjNzA2ZTQ0YmYxZA&type=BireyselBasvuru",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2023/21133"
+  },
+  {
+   "id": "aym-281d048d-66a1-4d96-b40d-17d45e8a9f5e",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Salih Doğan ve Diğerleri başvurusu",
+   "ozet": "Başvuru, silahın mülkiyetinin kamuya geçirilmesi nedeniyle mülkiyet hakkının ihlal edildiği iddiasına ilişkindir.",
+   "sonuc": "Esas (İhlal)",
+   "etiket": "B. No: 2022/107448",
+   "tarih": "2026-11-05",
+   "kararTarihi": "2026-09-02",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjI4MWQwNDhkLTY2YTEtNGQ5Ni1iNDBkLTE3ZDQ1ZThhOWY1ZQ&type=BireyselBasvuru",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2022/107448"
+  },
+  {
+   "id": "aym-c6885a17-3511-42cc-879c-2489e39e7845",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Bilmez Sevli ve Diğerleri başvurusu",
+   "ozet": "Başvurular, mülke ulaşılamamasından kaynaklanan zararın tazmini için yapılan idari başvurunun süresinde görülmemesi nedeniyle mülkiyet hakkıyla bağlantılı olarak etkili başvuru hakkı ile makul sürede yargılanma hakkının ihlal edildiği iddialarına ilişkindir.",
+   "sonuc": "Esas (İhlal)",
+   "etiket": "B. No: 2022/75729",
+   "tarih": "2026-11-05",
+   "kararTarihi": "2026-07-01",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmM2ODg1YTE3LTM1MTEtNDJjYy04NzljLTI0ODllMzllNzg0NQ&type=BireyselBasvuru",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2022/75729"
+  },
+  {
+   "id": "aym-c04f7ed6-2d98-4d1a-bd15-3620b3d8b8eb",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Fatih Gündoğan başvurusu",
+   "ozet": "Başvuru, telekomünikasyon yoluyla yapılan iletişimin tespitine ilişkin kayıtlara dayalı olarak terör örgütüne üye olma suçundan verilen mahkûmiyet hükmünde beyanları belirleyici ölçüde delil olarak kullanılan tanıkların duruşmada başvurucu (sanık) tarafından sorgulanamaması nedeniyle tanık sorgulama hakkının ihlal edildiği iddiasına ilişkindir.",
+   "sonuc": "Esas (İhlal)",
+   "etiket": "B. No: 2022/54265",
+   "tarih": "2026-11-05",
+   "kararTarihi": "2026-09-16",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmMwNGY3ZWQ2LTJkOTgtNGQxYS1iZDE1LTM2MjBiM2Q4YjhlYg&type=BireyselBasvuru",
+   "alanlar": [
+    "Ceza"
+   ],
+   "onem": 3,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2022/54265"
+  },
+  {
+   "id": "aym-c7cb5ff3-0c55-47c9-be9f-ef1edb2b08b4",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Yılmaz Gündüz başvurusu",
+   "ozet": "Başvuru COVID-19 aşısı yaptırmayan başvurucuya açık ziyaret görüş hakkı verilmemesi nedeniyle özel hayata ve aile hayatına saygı hakkının ihlal edildiği iddiasına ilişkindir.",
+   "sonuc": "Esas (İhlal)",
+   "etiket": "B. No: 2022/21462",
+   "tarih": "2026-11-05",
+   "kararTarihi": "2026-09-16",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmM3Y2I1ZmYzLTBjNTUtNDdjOS1iZTlmLWVmMWVkYjJiMDhiNA&type=BireyselBasvuru",
+   "alanlar": [
+    "Aile",
+    "Anayasa"
+   ],
+   "onem": 3,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2022/21462"
   },
   {
    "id": "aym-6849d9bc-30d1-4a48-890c-45987c1d9ae7",
@@ -325,6 +527,84 @@
    "alanlar": [],
    "onem": 2,
    "rgSayi": "33421"
+  },
+  {
+   "id": "aym-1931da37-e472-48bf-9085-6fb1a54f736b",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Nusret Kebapçı başvurusu",
+   "ozet": "Başvuru, sosyal medyada kullanılan ifadeler sebebiyle idarecilik görevinden alınarak naklen atanmanın ifade özgürlüğünü ihlal ettiği iddiasına ilişkindir.",
+   "sonuc": "Esas (İhlal Olmadığı)",
+   "etiket": "B. No: 2023/58135",
+   "tarih": "2026-11-05",
+   "kararTarihi": "2026-09-02",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjE5MzFkYTM3LWU0NzItNDhiZi05MDg1LTZmYjFhNTRmNzM2Yg&type=BireyselBasvuru",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 2,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2023/58135"
+  },
+  {
+   "id": "aym-44e6d78e-26e5-46ad-a24d-442b07516e2b",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Tuğçenur Özbay başvurusu",
+   "ozet": "Başvuru, ceza infaz kurumunda slogan atma nedeniyle disiplin cezası verilmesinin ifade özgürlüğünü ihlal ettiği iddiasına ilişkindir.",
+   "sonuc": "Esas (İhlal Olmadığı)",
+   "etiket": "B. No: 2022/101292",
+   "tarih": "2026-11-05",
+   "kararTarihi": "2026-09-02",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjQ0ZTZkNzhlLTI2ZTUtNDZhZC1hMjRkLTQ0MmIwNzUxNmUyYg&type=BireyselBasvuru",
+   "alanlar": [
+    "Ceza",
+    "İdare",
+    "Anayasa"
+   ],
+   "onem": 2,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2022/101292"
+  },
+  {
+   "id": "aym-aea2d30f-01ba-4f13-a595-638115e19481",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "İrfan Arslan başvurusu",
+   "ozet": "Başvuru, silahlı terör örgütüne üye olma suçundan verilen mahkûmiyet hükmünde başvurucunun karar sonucunu değiştirebilecek nitelikteki esaslı iddialarının karşılanmaması nedeniyle gerekçeli karar hakkının ihlal edildiği iddiasına ilişkindir.",
+   "sonuc": "Esas (İhlal Olmadığı)",
+   "etiket": "B. No: 2022/60393",
+   "tarih": "2026-11-05",
+   "kararTarihi": "2026-09-16",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmFlYTJkMzBmLTAxYmEtNGYxMy1hNTk1LTYzODExNWUxOTQ4MQ&type=BireyselBasvuru",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 2,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2022/60393"
+  },
+  {
+   "id": "aym-de2256c1-2ab9-4f2a-9e74-807e60cf0d5c",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Bilgin Güç Santralleri Enerji Üretim A.ş. başvurusu",
+   "ozet": "Başvuru; damga vergisinin açık ve yeterli bir kanuni dayanak olmaksızın öngörülebilirlik ilkesine aykırı şekilde tahsil edilmesi, bu tahsilata dayanak oluşturan yerleşik yargı içtihadından herhangi bir makul ve yeterli gerekçe gösterilmeksizin farklı karar verilmesi nedeniyle mülkiyet hakkının ihlal edildiği iddiasına yöneliktir.",
+   "sonuc": "Esas (İhlal Olmadığı)",
+   "etiket": "B. No: 2021/63635",
+   "tarih": "2026-11-05",
+   "kararTarihi": "2026-06-17",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmRlMjI1NmMxLTJhYjktNGYyYS05ZTc0LTgwN2U2MGNmMGQ1Yw&type=BireyselBasvuru",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 2,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2021/63635"
   },
   {
    "id": "aym-8c808acc-8700-4453-b619-31de93c90be5",
