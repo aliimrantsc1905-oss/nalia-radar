@@ -1,14 +1,11 @@
 {
  "surum": 1,
- "guncelleme": "2026-11-07T13:26+03:00",
+ "guncelleme": "2026-11-08T07:33+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
-   "gun": 12,
-   "hata": [
-    "2026-11-02: <urlopen error timed out>",
-    "2026-10-28: <urlopen error timed out>"
-   ]
+   "gun": 14,
+   "hata": null
   },
   "aym": {
    "ok": true,
@@ -20,6 +17,58 @@
   }
  },
  "kayitlar": [
+  {
+   "id": "rg-20261108-20261108-4pdf",
+   "kaynak": "rg",
+   "tur": "Uyuşmazlık Mah. Kararı",
+   "baslik": "Uyuşmazlık Mahkemesine Ait Kararlar",
+   "ozet": "",
+   "tarih": "2026-11-08",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261108-4.pdf",
+   "alanlar": [],
+   "onem": 3,
+   "rgSayi": "33424"
+  },
+  {
+   "id": "rg-20261108-20261108-1pdf",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanliğina Vekâlet Etme İşlemi̇",
+   "baslik": "Cumhurbaşkanlığına, Cumhurbaşkanı Yardımcısı Cevdet YILMAZ’ın Vekâlet Etmesine Dair Tezkere",
+   "ozet": "",
+   "tarih": "2026-11-08",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261108-1.pdf",
+   "alanlar": [],
+   "onem": 1,
+   "rgSayi": "33424"
+  },
+  {
+   "id": "rg-20261108-20261108-2htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Bahçeşehir Üniversitesi Sporda Yenilikçilik Uygulama ve Araştırma Merkezi Yönetmeliği",
+   "ozet": "",
+   "tarih": "2026-11-08",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261108-2.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33424"
+  },
+  {
+   "id": "rg-20261108-20261108-3htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Bahçeşehir Üniversitesi Türk Müziği Uygulama ve Araştırma Merkezi Yönetmeliği",
+   "ozet": "",
+   "tarih": "2026-11-08",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261108-3.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33424"
+  },
   {
    "id": "rg-20261107-20261107-2htm",
    "kaynak": "rg",
