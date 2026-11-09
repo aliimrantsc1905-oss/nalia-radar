@@ -1,12 +1,12 @@
 {
  "surum": 1,
- "guncelleme": "2026-11-08T13:26+03:00",
+ "guncelleme": "2026-11-09T07:44+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
    "gun": 13,
    "hata": [
-    "2026-11-04: <urlopen error timed out>"
+    "2026-10-31: <urlopen error timed out>"
    ]
   },
   "aym": {
@@ -19,6 +19,77 @@
   }
  },
  "kayitlar": [
+  {
+   "id": "rg-20261109-20261109-1htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "İstanbul Bilgi Üniversitesi Fikrî Mülkiyet Hukuku Uygulama ve Araştırma Merkezi Yönetmeliği",
+   "ozet": "",
+   "tarih": "2026-11-09",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261109-1.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33425"
+  },
+  {
+   "id": "rg-20261109-20261109-2htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "İstanbul Bilgi Üniversitesi Kültür Politikaları ve Yönetimi Uygulama ve Araştırma Merkezi Yönetmeliği",
+   "ozet": "",
+   "tarih": "2026-11-09",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261109-2.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33425"
+  },
+  {
+   "id": "rg-20261109-20261109-3htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "İstanbul Bilgi Üniversitesi Rekabet Hukuku ve Politikası Uygulama ve Araştırma Merkezi Yönetmeliği",
+   "ozet": "",
+   "tarih": "2026-11-09",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261109-3.htm",
+   "alanlar": [
+    "İdare",
+    "Ticaret"
+   ],
+   "onem": 1,
+   "rgSayi": "33425"
+  },
+  {
+   "id": "rg-20261109-20261109-4htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "İstanbul Bilgi Üniversitesi Uluslararası Ticaret ve Tahkim Hukuku Uygulama ve Araştırma Merkezi Yönetmeliği",
+   "ozet": "",
+   "tarih": "2026-11-09",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261109-4.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33425"
+  },
+  {
+   "id": "rg-20261109-20261109-5htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "İstanbul Üniversitesi Sürekli Eğitim Uygulama ve Araştırma Merkezi Yönetmeliği",
+   "ozet": "",
+   "tarih": "2026-11-09",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261109-5.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33425"
+  },
   {
    "id": "rg-20261108-20261108-4pdf",
    "kaynak": "rg",
@@ -855,7 +926,9 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2023/4554"
+   "basvuruNo": "2023/4554",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-6.pdf",
+   "rgSayi": "33420"
   },
   {
    "id": "aym-6bc68c12-e718-4378-8cfd-d01f508e131e",
@@ -874,7 +947,9 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2022/92607"
+   "basvuruNo": "2022/92607",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-3.pdf",
+   "rgSayi": "33420"
   },
   {
    "id": "aym-9b88db1b-005b-4853-b36c-284bc3d34c75",
@@ -894,7 +969,9 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2021/42538"
+   "basvuruNo": "2021/42538",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-8.pdf",
+   "rgSayi": "33420"
   },
   {
    "id": "aym-f12aaa8d-3948-4096-aadb-ab9d064b7939",
@@ -914,7 +991,9 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2021/8412"
+   "basvuruNo": "2021/8412",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-7.pdf",
+   "rgSayi": "33420"
   },
   {
    "id": "aym-68e271a1-6d85-418c-b445-b3cb5cdd773f",
@@ -933,7 +1012,9 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2020/22340"
+   "basvuruNo": "2020/22340",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-4.pdf",
+   "rgSayi": "33420"
   },
   {
    "id": "aym-14a37404-9b79-44f1-b1bc-3a038b05887f",
@@ -952,7 +1033,9 @@
    "onem": 2,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2021/6977"
+   "basvuruNo": "2021/6977",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-5.pdf",
+   "rgSayi": "33420"
   },
   {
    "id": "rg-20261104-20261104-1htm",
