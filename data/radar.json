@@ -1,12 +1,12 @@
 {
  "surum": 1,
- "guncelleme": "2026-11-10T13:37+03:00",
+ "guncelleme": "2026-11-11T07:38+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
    "gun": 13,
    "hata": [
-    "2026-11-05: <urlopen error timed out>"
+    "2026-11-07: <urlopen error timed out>"
    ]
   },
   "aym": {
@@ -19,6 +19,74 @@
   }
  },
  "kayitlar": [
+  {
+   "id": "rg-20261111-20261111-1pdf",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanı Kararı",
+   "baslik": "Birleşmiş Milletler Güvenlik Konseyinin 1267 (1999), 1988 (2011), 1989 (2011) ve 2253 (2015) Sayılı Kararlarıyla Listelenen Kişi, Kuruluş veya Organizasyonların Tasarrufunda Bulunan Malvarlığının Dondurulması Hakkındaki 30/9/2013 Tarihli ve 2013/5428 Sayılı Bakanlar Kurulu Kararının Eki (1) Sayılı Listede Değişiklik Yapılmasına İlişkin Karar (Karar Sayısı: 11959)",
+   "ozet": "",
+   "tarih": "2026-11-11",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261111-1.pdf",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33427"
+  },
+  {
+   "id": "rg-20261111-20261111-3htm",
+   "kaynak": "rg",
+   "tur": "Tebliğ",
+   "baslik": "İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2025/4)’de Değişiklik Yapılmasına Dair Tebliğ",
+   "ozet": "",
+   "tarih": "2026-11-11",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261111-3.htm",
+   "alanlar": [
+    "Ticaret"
+   ],
+   "onem": 2,
+   "rgSayi": "33427"
+  },
+  {
+   "id": "rg-20261111-20261111-2htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Piri Reis Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-11-11",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261111-2.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33427"
+  },
+  {
+   "id": "rg-20261111-20261111-4pdf",
+   "kaynak": "rg",
+   "tur": "Tebliğ",
+   "baslik": "A Ödeme ve Elektronik Para Hizmetleri A.Ş.’nin Faaliyet İzninin İptal Edilmesine İlişkin Karar",
+   "ozet": "",
+   "tarih": "2026-11-11",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261111-4.pdf",
+   "alanlar": [
+    "Ticaret"
+   ],
+   "onem": 1,
+   "rgSayi": "33427"
+  },
+  {
+   "id": "rg-20261111-20261111-5pdf",
+   "kaynak": "rg",
+   "tur": "Tebliğ",
+   "baslik": "Ozan Elektronik Para A.Ş.’nin Faaliyet İzninin İptal Edilmesine İlişkin Karar",
+   "ozet": "",
+   "tarih": "2026-11-11",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261111-5.pdf",
+   "alanlar": [
+    "Ticaret"
+   ],
+   "onem": 1,
+   "rgSayi": "33427"
+  },
   {
    "id": "rg-20261110-20261110-2htm",
    "kaynak": "rg",
@@ -9332,63 +9400,6 @@
    "onem": 3,
    "esasNo": "2026/161",
    "kararNo": "2026/141",
-   "basvuruNo": null
-  },
-  {
-   "id": "aym-73622add-6108-446f-8a53-f3b2347957a6",
-   "kaynak": "aym",
-   "tur": "AYM Norm Denetimi",
-   "baslik": "5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanunu",
-   "ozet": "8/6/1949 tarihli ve 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanunu’nun 17/1/2012 tarihli ve 6270 sayılı Kanun’un 1. maddesiyle değiştirilen 89. maddesinin ikinci fıkrasının Anayasa’nın 2., 10. ve 35. maddelerine aykırılığı ileri sür ül erek iptaline karar verilmesi talebidir .",
-   "sonuc": "İlk - Ret vd.",
-   "etiket": "E. 2026/110, K. 2026/101",
-   "tarih": "2026-09-11",
-   "kararTarihi": "2026-05-13",
-   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjczNjIyYWRkLTYxMDgtNDQ2Zi04YTUzLWYzYjIzNDc5NTdhNg&type=NormDenetimi",
-   "alanlar": [
-    "İş"
-   ],
-   "onem": 3,
-   "esasNo": "2026/110",
-   "kararNo": "2026/101",
-   "basvuruNo": null
-  },
-  {
-   "id": "aym-7d598fcc-3bf4-4b2f-a0ff-62a83fb38918",
-   "kaynak": "aym",
-   "tur": "AYM Norm Denetimi",
-   "baslik": "5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanunu",
-   "ozet": "8/6/1949 tarihli ve 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanunu’nun 17/1/2012 tarihli ve 6270 sayılı Kanun’un 1. maddesiyle değiştirilen 89. maddesinin ikinci fıkrasının Anayasa’nın 2., 10. ve 35. maddelerine aykırılığı ileri sür ül erek iptaline karar verilmesi talebidir .",
-   "sonuc": "İlk - Ret vd.",
-   "etiket": "E. 2026/109, K. 2026/100",
-   "tarih": "2026-09-11",
-   "kararTarihi": "2026-05-13",
-   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjdkNTk4ZmNjLTNiZjQtNGIyZi1hMGZmLTYyYTgzZmIzODkxOA&type=NormDenetimi",
-   "alanlar": [
-    "İş"
-   ],
-   "onem": 3,
-   "esasNo": "2026/109",
-   "kararNo": "2026/100",
-   "basvuruNo": null
-  },
-  {
-   "id": "aym-9610e4d7-a78c-402e-8de3-ad149c71e5f6",
-   "kaynak": "aym",
-   "tur": "AYM Norm Denetimi",
-   "baslik": "5237 sayılı Türk Ceza Kanunu",
-   "ozet": "26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanunu’nun 18/6/2014 tarihli ve 6545 sayılı Kanun’un 59. maddesiyle değiştirilen 103. maddesinin 24/11/2016 tarihli ve 6763 sayılı Kanun’un 13. maddesiyle yeniden düzenlenen (2) numaralı fıkrasının birinci cümlesinde yer alan “ …vücuda organ… ” ibaresinin Anayasa’nın 10., 11., 38., 40. ve 41. maddelerine aykırılığını ileri sürerek iptaline karar verilmesi talebidir.",
-   "sonuc": "İlk - Ret vd.",
-   "etiket": "E. 2026/96, K. 2026/91",
-   "tarih": "2026-09-11",
-   "kararTarihi": "2026-05-13",
-   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjk2MTBlNGQ3LWE3OGMtNDAyZS04ZGUzLWFkMTQ5YzcxZTVmNg&type=NormDenetimi",
-   "alanlar": [
-    "Ceza"
-   ],
-   "onem": 3,
-   "esasNo": "2026/96",
-   "kararNo": "2026/91",
    "basvuruNo": null
   }
  ]
