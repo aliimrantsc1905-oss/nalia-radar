@@ -1,13 +1,11 @@
 {
  "surum": 1,
- "guncelleme": "2026-11-12T13:42+03:00",
+ "guncelleme": "2026-11-13T14:32+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
-   "gun": 13,
-   "hata": [
-    "2026-11-08: <urlopen error timed out>"
-   ]
+   "gun": 14,
+   "hata": null
   },
   "aym": {
    "ok": true,
@@ -19,6 +17,60 @@
   }
  },
  "kayitlar": [
+  {
+   "id": "rg-20261113-20261113-1htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Diyaliz Merkezleri Hakkında Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-11-13",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261113-1.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33429"
+  },
+  {
+   "id": "rg-20261113-20261113-2htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Gaziantep Üniversitesi Bilgisayar Araştırma ve Uygulama Merkezi (BİLAMER) Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-11-13",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261113-2.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33429"
+  },
+  {
+   "id": "rg-20261113-20261113-3htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Gaziantep Üniversitesi Din, Tarih ve Medeniyetler Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-11-13",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261113-3.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33429"
+  },
+  {
+   "id": "rg-20261113-20261113-4htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Gaziantep Üniversitesi Strateji Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-11-13",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261113-4.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33429"
+  },
   {
    "id": "rg-20261112-20261112-1htm",
    "kaynak": "rg",
@@ -2417,9 +2469,7 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2024/68293",
-   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030-9.pdf",
-   "rgSayi": "33415"
+   "basvuruNo": "2024/68293"
   },
   {
    "id": "aym-5550423a-f075-4ebc-9108-6293eb7357bd",
@@ -2438,9 +2488,7 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2021/32883",
-   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030-4.pdf",
-   "rgSayi": "33415"
+   "basvuruNo": "2021/32883"
   },
   {
    "id": "aym-0a5b712f-e283-4c8b-b958-91bc6d40c2d4",
@@ -2461,9 +2509,7 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2021/22795",
-   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030-5.pdf",
-   "rgSayi": "33415"
+   "basvuruNo": "2021/22795"
   },
   {
    "id": "aym-a6d7224c-0da7-4593-8f6d-9058b7fb92d6",
@@ -2482,9 +2528,7 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2021/22462",
-   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030-6.pdf",
-   "rgSayi": "33415"
+   "basvuruNo": "2021/22462"
   },
   {
    "id": "aym-fe22e3fc-6c65-42c1-87f8-d58d9350378e",
@@ -2503,9 +2547,7 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2021/1112",
-   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030-8.pdf",
-   "rgSayi": "33415"
+   "basvuruNo": "2021/1112"
   },
   {
    "id": "rg-20261030-20261030-3htm",
@@ -2540,9 +2582,7 @@
    "onem": 2,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2020/7753",
-   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030-7.pdf",
-   "rgSayi": "33415"
+   "basvuruNo": "2020/7753"
   },
   {
    "id": "rg-20261030-20261030-1htm",
