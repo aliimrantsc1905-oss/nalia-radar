@@ -1,11 +1,14 @@
 {
  "surum": 1,
- "guncelleme": "2026-11-13T20:26+03:00",
+ "guncelleme": "2026-11-14T13:56+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
-   "gun": 14,
-   "hata": null
+   "gun": 12,
+   "hata": [
+    "2026-11-08: <urlopen error timed out>",
+    "2026-11-02: <urlopen error timed out>"
+   ]
   },
   "aym": {
    "ok": true,
@@ -17,6 +20,219 @@
   }
  },
  "kayitlar": [
+  {
+   "id": "rg-20261114-20261114-2pdf",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanı Kararı",
+   "baslik": "Üniversite Hastaneleri Koordinasyon Komitesi Kurulması Hakkında Karar (Karar Sayısı: 11971)",
+   "ozet": "",
+   "tarih": "2026-11-14",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-2.pdf",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33430"
+  },
+  {
+   "id": "rg-20261114-20261114-3pdf",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanı Kararı",
+   "baslik": "Geliştirme Ödeneği Ödenmesine Dair Kararda Değişiklik Yapılmasına İlişkin Karar (Karar Sayısı: 11972)",
+   "ozet": "",
+   "tarih": "2026-11-14",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-3.pdf",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33430"
+  },
+  {
+   "id": "rg-20261114-20261114-4pdf",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanı Kararı",
+   "baslik": "Sınır ve Koordinatları Gösterilen Alanın Gaziantep Üniversitesi Teknoloji Geliştirme Bölgesi Gaziantep Teknopark OSB Ek Alanı Olarak Tespit Edilmesi Hakkında Karar (Karar Sayısı: 11973)",
+   "ozet": "",
+   "tarih": "2026-11-14",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-4.pdf",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 2,
+   "rgSayi": "33430"
+  },
+  {
+   "id": "rg-20261114-20261114-5pdf",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanı Kararı",
+   "baslik": "Isparta İli, Eğirdir, Gelendost, Senirkent ve Yalvaç İlçeleri Sınırları İçerisinde Bulunan Bazı Alanların Eğirdir Gölü Doğal Sit Alanı Kesin Korunacak Hassas Alan Olarak Tescil ve İlan Edilmesi Hakkındaki 5/1/2021 Tarihli ve 3357 Sayılı Cumhurbaşkanı Kararının Yürürlükten Kaldırılması Hakkında Karar (Karar Sayısı: 11974)",
+   "ozet": "",
+   "tarih": "2026-11-14",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-5.pdf",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33430"
+  },
+  {
+   "id": "rg-20261114-20261114-6pdf",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanı Kararı",
+   "baslik": "Erzurum İlinde Bulunan Bazı Yerlerde Arazi Toplulaştırması ve Tarla İçi Geliştirme Hizmetleri Yapılması Hakkında Karar (Karar Sayısı: 11975)",
+   "ozet": "",
+   "tarih": "2026-11-14",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-6.pdf",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33430"
+  },
+  {
+   "id": "rg-20261114-20261114-13pdf",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanı Kararı",
+   "baslik": "Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslarda Değişiklik Yapılmasına Dair Esaslar (Karar Sayısı: 11982)",
+   "ozet": "",
+   "tarih": "2026-11-14",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-13.pdf",
+   "alanlar": [
+    "Borçlar"
+   ],
+   "onem": 2,
+   "rgSayi": "33430"
+  },
+  {
+   "id": "rg-20261114-20261114-14pdf",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanı Kararı",
+   "baslik": "Özelleştirme İdaresi Başkanlığı ile İlgili Kararlar (Karar Sayısı: 11983, 11984, 11985, 11986, 11987, 11988, 11989, 11990)",
+   "ozet": "",
+   "tarih": "2026-11-14",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-14.pdf",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33430"
+  },
+  {
+   "id": "rg-20261114-20261114-15pdf",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Askeri Yasak Bölgeler ve Güvenlik Bölgeleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik (Karar Sayısı: 11991)",
+   "ozet": "",
+   "tarih": "2026-11-14",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-15.pdf",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33430"
+  },
+  {
+   "id": "rg-20261114-20261114-16htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Millî Eğitim Bakanlığı Ölçme ve Değerlendirme Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-11-14",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-16.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33430"
+  },
+  {
+   "id": "rg-20261114-20261114-17pdf",
+   "kaynak": "rg",
+   "tur": "Genelge",
+   "baslik": "Ulusal Adil Geçiş Stratejisi ve Eylem Planı (2027-2029) ile İlgili 2026/13 Sayılı Cumhurbaşkanlığı Genelgesi",
+   "ozet": "",
+   "tarih": "2026-11-14",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-17.pdf",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33430"
+  },
+  {
+   "id": "rg-20261114-20261114-7pdf",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanı Kararı",
+   "baslik": "154 kV (Gölbaşı TM-Emirler TM EİH) Brş.N.-Yağlıpınar Uydu TM (Girdi-Çıktı) (Hat 1- Hat 2) Enerji İletim Hattı Projesi Kapsamında Bazı Taşınmazların Türkiye Elektrik İletim Anonim Şirketi Genel Müdürlüğü Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 11976)",
+   "ozet": "",
+   "tarih": "2026-11-14",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-7.pdf",
+   "alanlar": [
+    "Ticaret",
+    "Gayrimenkul"
+   ],
+   "onem": 1,
+   "rgSayi": "33430"
+  },
+  {
+   "id": "rg-20261114-20261114-8pdf",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanı Kararı",
+   "baslik": "154 kV (Kulu TM-Cihanbeyli TM)-Tosyalı Şeker GES TM (Girdi-Çıktı) Enerji İletim Hattı Projesi Kapsamında Bazı Taşınmazların Türkiye Elektrik İletim Anonim Şirketi Genel Müdürlüğü Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 11977)",
+   "ozet": "",
+   "tarih": "2026-11-14",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-8.pdf",
+   "alanlar": [
+    "Ticaret",
+    "Gayrimenkul"
+   ],
+   "onem": 1,
+   "rgSayi": "33430"
+  },
+  {
+   "id": "rg-20261114-20261114-9pdf",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanı Kararı",
+   "baslik": "Türkiye Elektrik İletim Anonim Şirketi Genel Müdürlüğüne Ait Enerji İletim Hattı Projelerinin Yapımı Amacıyla Bazı Taşınmazların Adı Geçen Genel Müdürlük Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 11978)",
+   "ozet": "",
+   "tarih": "2026-11-14",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-9.pdf",
+   "alanlar": [
+    "Ticaret",
+    "Gayrimenkul"
+   ],
+   "onem": 1,
+   "rgSayi": "33430"
+  },
+  {
+   "id": "rg-20261114-20261114-10pdf",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanı Kararı",
+   "baslik": "400 kV Kayabaşı Mehmet Esen TM-Kırıkkale DGKÇS Enerji İletim Hattının D.212-D.216 Numaralı Direkleri Arası ile 154 kV Sungurlu OSB-Alaca TM Enerji İletim Hattının D.11-D.14 Numaralı ve D.26-D.33 Numaralı Direkleri Arası Güzergâhlarının Deplase Edilmesi Amacıyla Bazı Taşınmazların Türkiye Elektrik İletim Anonim Şirketi Genel Müdürlüğü Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 11979)",
+   "ozet": "",
+   "tarih": "2026-11-14",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-10.pdf",
+   "alanlar": [
+    "Ticaret",
+    "Gayrimenkul"
+   ],
+   "onem": 1,
+   "rgSayi": "33430"
+  },
+  {
+   "id": "rg-20261114-20261114-11pdf",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanı Kararı",
+   "baslik": "154 kV Mersin DRES TM-Akdeniz GİS TM Enerji İletim Hattı Projesi Kapsamında Bazı Taşınmazların Türkiye Elektrik İletim Anonim Şirketi Genel Müdürlüğü Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 11980)",
+   "ozet": "",
+   "tarih": "2026-11-14",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-11.pdf",
+   "alanlar": [
+    "Ticaret",
+    "Gayrimenkul"
+   ],
+   "onem": 1,
+   "rgSayi": "33430"
+  },
+  {
+   "id": "rg-20261114-20261114-12pdf",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanı Kararı",
+   "baslik": "Ankara İli, Kahramankazan İlçesinde Kurulacak RMS-B Doğal Gaz Dağıtım Tesisinin Yapımı Amacıyla, Kışla Mahallesi Sınırları İçerisinde Yer Alan Taşınmazın Enerji Piyasası Düzenleme Kurumu Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 11981)",
+   "ozet": "",
+   "tarih": "2026-11-14",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-12.pdf",
+   "alanlar": [
+    "Gayrimenkul"
+   ],
+   "onem": 1,
+   "rgSayi": "33430"
+  },
   {
    "id": "rg-20261113-20261113-1htm",
    "kaynak": "rg",
