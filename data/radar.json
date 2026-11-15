@@ -1,12 +1,13 @@
 {
  "surum": 1,
- "guncelleme": "2026-11-14T19:10+03:00",
+ "guncelleme": "2026-11-15T14:31+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
-   "gun": 13,
+   "gun": 12,
    "hata": [
-    "2026-11-01: <urlopen error timed out>"
+    "2026-11-10: <urlopen error timed out>",
+    "2026-11-05: <urlopen error timed out>"
    ]
   },
   "aym": {
@@ -19,6 +20,88 @@
   }
  },
  "kayitlar": [
+  {
+   "id": "rg-20261115-20261115-6htm",
+   "kaynak": "rg",
+   "tur": "Tebliğ",
+   "baslik": "Ulusal Meslek Standartlarına Dair Tebliğ (No: 2026/13)",
+   "ozet": "",
+   "tarih": "2026-11-15",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261115-6.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33431"
+  },
+  {
+   "id": "rg-20261115-20261115-1htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Dokuz Eylül Üniversitesi Akademik Acil Tıp ve Afet Eğitim Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-11-15",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261115-1.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33431"
+  },
+  {
+   "id": "rg-20261115-20261115-2htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Dokuz Eylül Üniversitesi Kozmetoloji Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-11-15",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261115-2.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33431"
+  },
+  {
+   "id": "rg-20261115-20261115-3htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Dokuz Eylül Üniversitesi Üniversite-Sanayi Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-11-15",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261115-3.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33431"
+  },
+  {
+   "id": "rg-20261115-20261115-4htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "İstanbul Sabahattin Zaim Üniversitesi Gıda ve Tarım Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-11-15",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261115-4.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33431"
+  },
+  {
+   "id": "rg-20261115-20261115-5htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Toros Üniversitesi Alevilik-Bektaşilik Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-11-15",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261115-5.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33431"
+  },
   {
    "id": "rg-20261114-20261114-2pdf",
    "kaynak": "rg",
