@@ -1,11 +1,14 @@
 {
  "surum": 1,
- "guncelleme": "2026-11-15T19:35+03:00",
+ "guncelleme": "2026-11-16T15:03+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
-   "gun": 14,
-   "hata": null
+   "gun": 12,
+   "hata": [
+    "2026-11-12: <urlopen error timed out>",
+    "2026-11-05: <urlopen error timed out>"
+   ]
   },
   "aym": {
    "ok": true,
@@ -17,6 +20,199 @@
   }
  },
  "kayitlar": [
+  {
+   "id": "aym-2621c5f5-022a-48ec-a119-13a61023b54e",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "NAZİME TURHAL VE DİĞERLERİ başvurusu",
+   "ozet": "Başvuru; terör örgütüne üye olma suçundan verilen mahkûmiyet kararlarında karar sonucunu değiştirebilecek nitelikteki esaslı iddiaların karşılanmaması nedeniyle gerekçeli karar hakkının, Anayasa'da güvence altına alınan diğer hak ve özgürlüklerin ihlal edildiği iddialarına ilişkindir.",
+   "sonuc": "Esas (İhlal)",
+   "etiket": "B. No: 2022/95626",
+   "tarih": "2026-11-16",
+   "kararTarihi": "2026-09-22",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjI2MjFjNWY1LTAyMmEtNDhlYy1hMTE5LTEzYTYxMDIzYjU0ZQ&type=BireyselBasvuru",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2022/95626"
+  },
+  {
+   "id": "aym-1ba1b1cb-f032-49dd-b5b5-4cb95d09e883",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "HALİL İBRAHİM GÖKTEN VE DİĞERLERİ başvurusu",
+   "ozet": "Başvuru; terör örgütüne üye olma suçundan verilen mahkûmiyet kararlarında karar sonucunu değiştirebilecek nitelikteki esaslı iddiaların karşılanmaması nedeniyle gerekçeli karar hakkının, Anayasa'da güvence altına alınan diğer hak ve özgürlüklerin ihlal edildiği iddialarına ilişkindir.",
+   "sonuc": "Esas (İhlal)",
+   "etiket": "B. No: 2022/28813",
+   "tarih": "2026-11-16",
+   "kararTarihi": "2026-09-22",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjFiYTFiMWNiLWYwMzItNDlkZC1iNWI1LTRjYjk1ZDA5ZTg4Mw&type=BireyselBasvuru",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2022/28813"
+  },
+  {
+   "id": "aym-900b87a6-b2f7-4a12-86f7-844bc6a83f39",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "MURAT BENLİ VE DİĞERLERİ başvurusu",
+   "ozet": "Başvuru; terör örgütüne üye olma suçundan verilen mahkûmiyet kararlarında karar sonucunu değiştirebilecek nitelikteki esaslı iddiaların karşılanmaması nedeniyle gerekçeli karar hakkının, Anayasa'da güvence altına alınan diğer hak ve özgürlüklerin ihlal edildiği iddialarına ilişkindir.",
+   "sonuc": "Esas (İhlal)",
+   "etiket": "B. No: 2022/253",
+   "tarih": "2026-11-16",
+   "kararTarihi": "2026-09-22",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjkwMGI4N2E2LWIyZjctNGExMi04NmY3LTg0NGJjNmE4M2YzOQ&type=BireyselBasvuru",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2022/253"
+  },
+  {
+   "id": "aym-26c50c85-1b90-49e4-b3f1-46e26ef679b5",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Abdulkadir Sevim ve Diğerleri başvurusu",
+   "ozet": "Başvuru, kiracı tarafından işletilen akaryakıt istasyonuna uygulanan ve kiralanan taşınmazın tahliyesi sonrasında da devam eden mühürlemenin mahkeme kararı gereğince kaldırılması üzerine taşınmazın maliki tarafından açılan tam yargı davasında maddi tazminat talebinin reddedilmesi nedeniyle mülkiyet hakkının ihlal edildiği iddiasına ilişkindir.",
+   "sonuc": "Esas (İhlal)",
+   "etiket": "B. No: 2021/11222",
+   "tarih": "2026-11-16",
+   "kararTarihi": "2026-11-04",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjI2YzUwYzg1LTFiOTAtNDllNC1iM2YxLTQ2ZTI2ZWY2NzliNQ&type=BireyselBasvuru",
+   "alanlar": [
+    "Gayrimenkul",
+    "Borçlar",
+    "Anayasa"
+   ],
+   "onem": 3,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2021/11222"
+  },
+  {
+   "id": "aym-1a1acccc-4e51-4a80-a2fb-0b180d7d9d2b",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Abdullah Muzaffer Tan ve Diğerleri başvurusu",
+   "ozet": "Başvuru, imar planında yeşil alan olarak ayrılan kısım üzerinde inşaat yapılmasına izin verilmemesi ve taşınmazların uzun süredir kısıtlı olması nedeniyle mülkiyet hakkının ihlal edildiği iddiasına ilişkindir.",
+   "sonuc": "Esas (İhlal)",
+   "etiket": "B. No: 2020/15080",
+   "tarih": "2026-11-16",
+   "kararTarihi": "2026-09-22",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjFhMWFjY2NjLTRlNTEtNGE4MC1hMmZiLTBiMTgwZDdkOWQyYg&type=BireyselBasvuru",
+   "alanlar": [
+    "Gayrimenkul",
+    "Anayasa"
+   ],
+   "onem": 3,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2020/15080"
+  },
+  {
+   "id": "aym-d08dc852-2f44-4f3c-9521-71e3dc99da2e",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Hüseyin Karaağaç başvurusu",
+   "ozet": "Başvuru, emeklilikten sonra bir işte çalışmaya başlanıldığının tespiti üzerine emekliliğe bağlı olarak ödenmiş yaşlılık aylıklarının iadesinin istenmesi nedeniyle mülkiyet hakkının ihlal edildiğine ilişkindir.",
+   "sonuc": "Esas (İhlal Olmadığı)",
+   "etiket": "B. No: 2021/57338",
+   "tarih": "2026-11-16",
+   "kararTarihi": "2026-11-04",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmQwOGRjODUyLTJmNDQtNGYzYy05NTIxLTcxZTNkYzk5ZGEyZQ&type=BireyselBasvuru",
+   "alanlar": [
+    "İş",
+    "Anayasa"
+   ],
+   "onem": 2,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2021/57338"
+  },
+  {
+   "id": "aym-2dd126ac-ef9a-40e9-b913-bebec06241f0",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Murat Gülerdi başvurusu",
+   "ozet": "Başvuru, ceza infaz kurumunda bulunan başvurucunun derslerden muaf tutulma ve telafi sınavı yapılmasına yönelik talebinin reddedilmesi nedeniyle eğitim hakkının ihlal edildiği iddiasına ilişkindir.",
+   "sonuc": "Esas (İhlal Olmadığı)",
+   "etiket": "B. No: 2023/93456",
+   "tarih": "2026-11-16",
+   "kararTarihi": "2026-09-16",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjJkZDEyNmFjLWVmOWEtNDBlOS1iOTEzLWJlYmVjMDYyNDFmMA&type=BireyselBasvuru",
+   "alanlar": [
+    "Ceza"
+   ],
+   "onem": 2,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2023/93456"
+  },
+  {
+   "id": "rg-20261116-20261116-1htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Atılım Üniversitesi Ana Yönetmeliği",
+   "ozet": "",
+   "tarih": "2026-11-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261116-1.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33432"
+  },
+  {
+   "id": "rg-20261116-20261116-2htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Atılım Üniversitesi Lisansüstü Eğitim-Öğretim Yönetmeliği",
+   "ozet": "",
+   "tarih": "2026-11-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261116-2.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33432"
+  },
+  {
+   "id": "rg-20261116-20261116-3htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Karadeniz Teknik Üniversitesi Lisansüstü Eğitim-Öğretim Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-11-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261116-3.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33432"
+  },
+  {
+   "id": "rg-20261116-20261116-4htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Karadeniz Teknik Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim Yönetmeliği",
+   "ozet": "",
+   "tarih": "2026-11-16",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261116-4.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33432"
+  },
   {
    "id": "rg-20261115-20261115-6htm",
    "kaynak": "rg",
