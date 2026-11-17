@@ -1,6 +1,6 @@
 {
  "surum": 1,
- "guncelleme": "2026-11-16T22:52+03:00",
+ "guncelleme": "2026-11-17T15:27+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
@@ -17,6 +17,53 @@
   }
  },
  "kayitlar": [
+  {
+   "id": "aym-ef8bfba5-85bb-20eb-ab43-bcc2fd597556",
+   "kaynak": "aym",
+   "tur": "AYM Norm Denetimi",
+   "baslik": "1593 sayılı Umumi Hıfzıssıhha Kanunu m.128",
+   "ozet": "İTİRAZLARIN KONUSU: 24/4/1930 tarihli ve 1593 sayılı Umumi Hıfzıssıhha Kanunu’nun 128. maddesinin Anayasa’nın 2., 7., 11., 13., 23., 35., 38., 48. ve 123. maddelerine aykırılığı ileri sürülerek iptaline karar verilmesi talepleridir.",
+   "sonuc": "Esas - İptal",
+   "etiket": "E. 2025/144, K. 2026/164",
+   "tarih": "2026-11-17",
+   "kararTarihi": "2026-07-16",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmVmOGJmYmE1LTg1YmItMjBlYi1hYjQzLWJjYzJmZDU5NzU1Ng&type=NormDenetimi",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "esasNo": "2025/144",
+   "kararNo": "2026/164",
+   "basvuruNo": null,
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261117-3.pdf",
+   "rgSayi": "33433"
+  },
+  {
+   "id": "rg-20261117-20261117-1htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Adli Tıp Kurumu Personeli Görevde Yükselme ve Unvan Değişikliği Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-11-17",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261117-1.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33433"
+  },
+  {
+   "id": "rg-20261117-20261117-2htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "İstanbul Üniversitesi Bitki ve Bitkisel Ürünler Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-11-17",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261117-2.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33433"
+  },
   {
    "id": "aym-2621c5f5-022a-48ec-a119-13a61023b54e",
    "kaynak": "aym",
@@ -10338,63 +10385,6 @@
    "onem": 3,
    "esasNo": "2026/41",
    "kararNo": "2026/107",
-   "basvuruNo": null
-  },
-  {
-   "id": "aym-7e4dfe85-b776-4367-af3e-2e3af8e67b73",
-   "kaynak": "aym",
-   "tur": "AYM Norm Denetimi",
-   "baslik": "4733 sayılı Tütün, Tütün Mamulleri ve Alkol Piyasasının Düzenlenmesine Dair Kanun",
-   "ozet": "3/1/2002 tarihli ve 4733 sayılı Tütün, Tütün Mamulleri ve Alkol Piyasasının Düzenlenmesine Dair Kanun’un 3/4/2008 tarihli ve 5752 sayılı Kanun’un 3. maddesiyle değiştirilen 8. maddesinin yedinci fıkrasının birinci cümlesinin Anayasa’nın 2., 13. ve 3 5. maddelerine aykırılığı ileri sürülerek iptaline karar verilmesi talebidir .",
-   "sonuc": "Esas - Diğer",
-   "etiket": "E. 2026/72, K. 2026/143",
-   "tarih": "2026-09-17",
-   "kararTarihi": "2026-06-25",
-   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjdlNGRmZTg1LWI3NzYtNDM2Ny1hZjNlLTJlM2FmOGU2N2I3Mw&type=NormDenetimi",
-   "alanlar": [
-    "Anayasa"
-   ],
-   "onem": 3,
-   "esasNo": "2026/72",
-   "kararNo": "2026/143",
-   "basvuruNo": null
-  },
-  {
-   "id": "aym-4ec2cb9b-6715-4fc7-8b0b-4487c77baa7c",
-   "kaynak": "aym",
-   "tur": "AYM Norm Denetimi",
-   "baslik": "6413 sayılı Türk Silahlı Kuvvetleri Disiplin Kanunu m.43",
-   "ozet": "31/1/2013 tarihli ve 6413 sayılı Türk Silahlı Kuvvetleri Disiplin Kanunu’nun 43. maddesinin 12/6/2024 tarihli ve 7517 sayılı Kanun’un 53. maddesiyle değiştirilen (1) numaralı fıkrasının birinci cümlesinde yer alan “ … subay,… ”, “ …hakkında verilen uyarma, kınama… ” ve “ …cezaları hariç… ” ibarelerinin Anayasa’nın 2., 9., 36., 125. ve 129. maddelerine aykırı lığı ileri sürülerek iptallerine karar verilmesi talebidir.",
-   "sonuc": "Esas - Ret",
-   "etiket": "E. 2025/212, K. 2026/127",
-   "tarih": "2026-09-17",
-   "kararTarihi": "2026-06-04",
-   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjRlYzJjYjliLTY3MTUtNGZjNy04YjBiLTQ0ODdjNzdiYWE3Yw&type=NormDenetimi",
-   "alanlar": [
-    "İdare"
-   ],
-   "onem": 3,
-   "esasNo": "2025/212",
-   "kararNo": "2026/127",
-   "basvuruNo": null
-  },
-  {
-   "id": "aym-3b0b0951-5e69-4390-9b6e-58104d4274ba",
-   "kaynak": "aym",
-   "tur": "AYM Norm Denetimi",
-   "baslik": "6136 sayılı Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanun",
-   "ozet": "10/7/1953 tarihli ve 6136 sayılı Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanun’un 23/1/2008 tarihli ve 5728 sayılı Kanun’un 156. maddesiyle değiştirilen 13. maddesinin; A. Birinci fıkrasında yer alan “ …veya bunlara ait namlu, sürgü, gövde, çerçeve, silindir, mekanizma başı, çıkarıcı, tırnak, ateşleme iğnesinden oluşan ana veya balistik önemi haiz parçaları… ” ibaresinin, B. İkinci ve üçüncü fıkralarında yer alan “ …veya namlu, sürgü, gövde, çerçeve, silindir, mekanizma başı, çıkarıcı, tırnak, ateşleme iğnesinden oluşan ana veya balistik önemi haiz parçaların… ” ibarelerinin, C. Dördüncü fıkrasında yer alan “ … veya bunlara ait namlu, sürgü, gövde, çerçeve, silindir, mekanizma başı, çıkarıcı, tırnak, ateşleme iğnesinden oluşan ana veya balistik önemi haiz parçaların… ” ibaresinin, Anayasa’nın 2., 36. ve 38. maddelerine aykırılığı ileri sürülerek iptal ler ine karar verilmesi talebidir.",
-   "sonuc": "İlk - Ret vd.",
-   "etiket": "E. 2026/161, K. 2026/141",
-   "tarih": "2026-09-17",
-   "kararTarihi": "2026-06-25",
-   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjNiMGIwOTUxLTVlNjktNDM5MC05YjZlLTU4MTA0ZDQyNzRiYQ&type=NormDenetimi",
-   "alanlar": [
-    "Anayasa"
-   ],
-   "onem": 3,
-   "esasNo": "2026/161",
-   "kararNo": "2026/141",
    "basvuruNo": null
   }
  ]
