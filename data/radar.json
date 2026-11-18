@@ -1,6 +1,6 @@
 {
  "surum": 1,
- "guncelleme": "2026-11-17T21:48+03:00",
+ "guncelleme": "2026-11-18T15:12+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
@@ -17,6 +17,84 @@
   }
  },
  "kayitlar": [
+  {
+   "id": "rg-20261118-20261118-1pdf",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanı Kararı",
+   "baslik": "Bazı Anlaşmaların Yürürlüğe Girdiği Tarihlerin Tespit Edilmesi Hakkında Karar (Karar Sayısı: 11992)",
+   "ozet": "",
+   "tarih": "2026-11-18",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261118-1.pdf",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33434"
+  },
+  {
+   "id": "rg-20261118-20261118-2pdf",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanı Kararı",
+   "baslik": "Osmaniye Zorkun Yaylası Yaban Hayatı Geliştirme Sahasının Sınırlarının Değiştirilmesi Hakkında Karar (Karar Sayısı: 11993)",
+   "ozet": "",
+   "tarih": "2026-11-18",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261118-2.pdf",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33434"
+  },
+  {
+   "id": "rg-20261118-20261118-3pdf",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanı Kararı",
+   "baslik": "Yabancı Yatırımcılara Düzenlenecek İkamet İzinlerine Dair Karar (Karar Sayısı: 11994)",
+   "ozet": "",
+   "tarih": "2026-11-18",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261118-3.pdf",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33434"
+  },
+  {
+   "id": "rg-20261118-20261118-5htm",
+   "kaynak": "rg",
+   "tur": "Tebliğ",
+   "baslik": "İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (No: 2026/32)",
+   "ozet": "",
+   "tarih": "2026-11-18",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261118-5.htm",
+   "alanlar": [
+    "Ticaret"
+   ],
+   "onem": 2,
+   "rgSayi": "33434"
+  },
+  {
+   "id": "rg-20261118-20261118-4htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Harran Üniversitesi Elektrikli Araç Eğitim Uygulama ve Araştırma Merkezi Yönetmeliği",
+   "ozet": "",
+   "tarih": "2026-11-18",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261118-4.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33434"
+  },
+  {
+   "id": "rg-20261118-20261118-6pdf",
+   "kaynak": "rg",
+   "tur": "Kurul Kararı",
+   "baslik": "Bankacılık Düzenleme ve Denetleme Kurulunun 17/11/2026 Tarihli ve 11601 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-11-18",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261118-6.pdf",
+   "alanlar": [
+    "Ticaret"
+   ],
+   "onem": 1,
+   "rgSayi": "33434"
+  },
   {
    "id": "aym-ef8bfba5-85bb-20eb-ab43-bcc2fd597556",
    "kaynak": "aym",
@@ -2136,9 +2214,7 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2023/4554",
-   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-6.pdf",
-   "rgSayi": "33420"
+   "basvuruNo": "2023/4554"
   },
   {
    "id": "aym-6bc68c12-e718-4378-8cfd-d01f508e131e",
@@ -2157,9 +2233,7 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2022/92607",
-   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-3.pdf",
-   "rgSayi": "33420"
+   "basvuruNo": "2022/92607"
   },
   {
    "id": "aym-9b88db1b-005b-4853-b36c-284bc3d34c75",
@@ -2179,9 +2253,7 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2021/42538",
-   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-8.pdf",
-   "rgSayi": "33420"
+   "basvuruNo": "2021/42538"
   },
   {
    "id": "aym-f12aaa8d-3948-4096-aadb-ab9d064b7939",
@@ -2201,9 +2273,7 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2021/8412",
-   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-7.pdf",
-   "rgSayi": "33420"
+   "basvuruNo": "2021/8412"
   },
   {
    "id": "aym-68e271a1-6d85-418c-b445-b3cb5cdd773f",
@@ -2222,9 +2292,7 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2020/22340",
-   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-4.pdf",
-   "rgSayi": "33420"
+   "basvuruNo": "2020/22340"
   },
   {
    "id": "aym-14a37404-9b79-44f1-b1bc-3a038b05887f",
@@ -2243,9 +2311,7 @@
    "onem": 2,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2021/6977",
-   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-5.pdf",
-   "rgSayi": "33420"
+   "basvuruNo": "2021/6977"
   },
   {
    "id": "rg-20261104-20261104-1htm",
@@ -10329,63 +10395,6 @@
    "esasNo": null,
    "kararNo": null,
    "basvuruNo": "2021/46011"
-  },
-  {
-   "id": "aym-fcb8822c-175f-4e4a-82eb-ee1b84a15659",
-   "kaynak": "aym",
-   "tur": "AYM Norm Denetimi",
-   "baslik": "5271 sayılı Ceza Muhakemesi Kanunu m.283",
-   "ozet": "4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanunu’nun 283. maddesinin Anayasa’nın 2., 5., 11. ve 36. maddelerine aykırılığı ileri sürülerek iptaline karar verilmesi talebidir.",
-   "sonuc": "Esas - Ret",
-   "etiket": "E. 2026/71, K. 2026/148",
-   "tarih": "2026-09-18",
-   "kararTarihi": "2026-06-25",
-   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmZjYjg4MjJjLTE3NWYtNGU0YS04MmViLWVlMWI4NGExNTY1OQ&type=NormDenetimi",
-   "alanlar": [
-    "Ceza"
-   ],
-   "onem": 3,
-   "esasNo": "2026/71",
-   "kararNo": "2026/148",
-   "basvuruNo": null
-  },
-  {
-   "id": "aym-0a8013b0-7e90-4d90-9fcd-d942c88b6fda",
-   "kaynak": "aym",
-   "tur": "AYM Norm Denetimi",
-   "baslik": "5271 sayılı Ceza Muhakemesi Kanunu m.280",
-   "ozet": "4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanunu’nun 280. maddesinin (1) numaralı fıkrasının (e) bendinde 24/12/2025 tarihli ve 7571 sayılı Kanun’un 25. maddesiyle yapılan ibare değişikliği öncesinde yer alan “ …(h) bentleri hariç… ” ibaresinin Anayasa’nın 10. ve 36. maddelerine aykırılığı ileri sürülerek iptaline karar verilmesi talebidir.",
-   "sonuc": "Esas - Diğer",
-   "etiket": "E. 2025/247, K. 2026/147",
-   "tarih": "2026-09-18",
-   "kararTarihi": "2026-06-25",
-   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjBhODAxM2IwLTdlOTAtNGQ5MC05ZmNkLWQ5NDJjODhiNmZkYQ&type=NormDenetimi",
-   "alanlar": [
-    "Ceza"
-   ],
-   "onem": 3,
-   "esasNo": "2025/247",
-   "kararNo": "2026/147",
-   "basvuruNo": null
-  },
-  {
-   "id": "aym-7d36b9dd-56f6-46a7-a5b4-32ccde148089",
-   "kaynak": "aym",
-   "tur": "AYM Norm Denetimi",
-   "baslik": "30474 sayılı Resmî Gazete’de yayımlanan (1) numaralı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi m.160",
-   "ozet": "İPTAL DAVASININ KONUSU: 5/4/2024 tarihli ve (158) numaralı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinde Değişiklik Yapılmasına Dair Cumhurbaşkanlığı Kararnamesi’nin 26. maddesiyle 10/7/2018 tarihli ve 30474 sayılı Resmî Gazete’de yayımlanan (1) numaralı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi’nin 160. maddesine eklenen (10) numaralı fıkranın Anayasa’nın 8., 104. ve 128. maddelerine aykırılığı ileri sür ül erek iptal ine ve yürürlüğünün durdurulmasına karar verilmesi talebidir .",
-   "sonuc": "Esas - Ret",
-   "etiket": "E. 2026/41, K. 2026/107",
-   "tarih": "2026-09-18",
-   "kararTarihi": "2026-05-13",
-   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjdkMzZiOWRkLTU2ZjYtNDZhNy1hNWI0LTMyY2NkZTE0ODA4OQ&type=NormDenetimi",
-   "alanlar": [
-    "Anayasa"
-   ],
-   "onem": 3,
-   "esasNo": "2026/41",
-   "kararNo": "2026/107",
-   "basvuruNo": null
   }
  ]
 }
