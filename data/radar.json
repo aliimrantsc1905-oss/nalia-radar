@@ -1,6 +1,6 @@
 {
  "surum": 1,
- "guncelleme": "2026-11-18T21:27+03:00",
+ "guncelleme": "2026-11-19T15:09+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
@@ -17,6 +17,46 @@
   }
  },
  "kayitlar": [
+  {
+   "id": "rg-20261119-20261119-1htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Pilot Lisans Yönetmeliği (SHY-1)’nde Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-11-19",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261119-1.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33435"
+  },
+  {
+   "id": "rg-20261119-20261119-2htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Alanya Alaaddin Keykubat Üniversitesi Yapay Zeka ve Simülasyon Uygulama ve Araştırma Merkezi Yönetmeliği",
+   "ozet": "",
+   "tarih": "2026-11-19",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261119-2.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33435"
+  },
+  {
+   "id": "rg-20261119-20261119-3htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Bursa Uludağ Üniversitesi Önlisans ve Lisans Eğitim Öğretim Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-11-19",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261119-3.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33435"
+  },
   {
    "id": "rg-20261118-20261118-1pdf",
    "kaynak": "rg",
