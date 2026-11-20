@@ -1,11 +1,13 @@
 {
  "surum": 1,
- "guncelleme": "2026-11-19T21:40+03:00",
+ "guncelleme": "2026-11-20T15:11+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
-   "gun": 14,
-   "hata": null
+   "gun": 13,
+   "hata": [
+    "2026-11-12: <urlopen error timed out>"
+   ]
   },
   "aym": {
    "ok": true,
@@ -17,6 +19,56 @@
   }
  },
  "kayitlar": [
+  {
+   "id": "rg-20261120-20261120-1htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Belediye Meclisi Çalışma Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-11-20",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261120-1.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 2,
+   "rgSayi": "33436"
+  },
+  {
+   "id": "rg-20261120-20261120-2pdf",
+   "kaynak": "rg",
+   "tur": "Kurul Kararı",
+   "baslik": "Enerji Piyasası Düzenleme Kurulunun 19/11/2026 Tarihli ve 15055 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-11-20",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261120-2.pdf",
+   "alanlar": [],
+   "onem": 1,
+   "rgSayi": "33436"
+  },
+  {
+   "id": "rg-20261120-20261120-3pdf",
+   "kaynak": "rg",
+   "tur": "Kurul Kararı",
+   "baslik": "Enerji Piyasası Düzenleme Kurulunun 19/11/2026 Tarihli ve 15056 Sayılı Kararı",
+   "ozet": "",
+   "tarih": "2026-11-20",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261120-3.pdf",
+   "alanlar": [],
+   "onem": 1,
+   "rgSayi": "33436"
+  },
+  {
+   "id": "rg-20261120-20261120-4pdf",
+   "kaynak": "rg",
+   "tur": "Kurul Kararı",
+   "baslik": "Nükleer Düzenleme Kurulunun 17/11/2026 Tarihli ve 2026-49/1-1, 1-2, 1-3, 1-4, 1-5 ve 1-6 Sayılı Kararları",
+   "ozet": "",
+   "tarih": "2026-11-20",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261120-4.pdf",
+   "alanlar": [],
+   "onem": 1,
+   "rgSayi": "33436"
+  },
   {
    "id": "rg-20261119-20261119-1htm",
    "kaynak": "rg",
@@ -1588,9 +1640,7 @@
    "onem": 3,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2021/29667",
-   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106-5.pdf",
-   "rgSayi": "33422"
+   "basvuruNo": "2021/29667"
   },
   {
    "id": "aym-17e1ae5f-a4b7-48c7-8314-7efac097d1f3",
@@ -1609,9 +1659,7 @@
    "onem": 3,
    "esasNo": "2026/23",
    "kararNo": "2026/162",
-   "basvuruNo": null,
-   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106-4.pdf",
-   "rgSayi": "33422"
+   "basvuruNo": null
   },
   {
    "id": "rg-20261106-20261106-1htm",
@@ -1642,9 +1690,7 @@
    "onem": 2,
    "esasNo": null,
    "kararNo": null,
-   "basvuruNo": "2022/103359",
-   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106-6.pdf",
-   "rgSayi": "33422"
+   "basvuruNo": "2022/103359"
   },
   {
    "id": "rg-20261106-20261106-2htm",
