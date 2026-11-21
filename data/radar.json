@@ -1,14 +1,12 @@
 {
  "surum": 1,
- "guncelleme": "2026-11-21T14:49+03:00",
+ "guncelleme": "2026-11-21T20:00+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
-   "gun": 11,
+   "gun": 13,
    "hata": [
-    "2026-11-17: <urlopen error timed out>",
-    "2026-11-15: <urlopen error timed out>",
-    "2026-11-09: <urlopen error timed out>"
+    "2026-11-08: <urlopen error timed out>"
    ]
   },
   "aym": {
@@ -306,7 +304,9 @@
    "onem": 3,
    "esasNo": "2025/144",
    "kararNo": "2026/164",
-   "basvuruNo": null
+   "basvuruNo": null,
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261117-3.pdf",
+   "rgSayi": "33433"
   },
   {
    "id": "rg-20261117-20261117-1htm",
