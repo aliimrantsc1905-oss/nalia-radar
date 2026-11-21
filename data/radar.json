@@ -1,11 +1,15 @@
 {
  "surum": 1,
- "guncelleme": "2026-11-20T21:03+03:00",
+ "guncelleme": "2026-11-21T14:49+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
-   "gun": 14,
-   "hata": null
+   "gun": 11,
+   "hata": [
+    "2026-11-17: <urlopen error timed out>",
+    "2026-11-15: <urlopen error timed out>",
+    "2026-11-09: <urlopen error timed out>"
+   ]
   },
   "aym": {
    "ok": true,
@@ -17,6 +21,106 @@
   }
  },
  "kayitlar": [
+  {
+   "id": "rg-20261121-20261121-8pdf",
+   "kaynak": "rg",
+   "tur": "Danıştay Kararı",
+   "baslik": "Danıştay Dördüncü Dairesine Ait Karar",
+   "ozet": "",
+   "tarih": "2026-11-21",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261121-8.pdf",
+   "alanlar": [],
+   "onem": 3,
+   "rgSayi": "33437"
+  },
+  {
+   "id": "rg-20261121-20261121-1pdf",
+   "kaynak": "rg",
+   "tur": "Milletlerarası Andlaşma",
+   "baslik": "Türkiye Cumhuriyeti Adına 19 Haziran 2026 Tarihinde Ankara’da İmzalanan Ekli Katılım Öncesi Yardım Aracı IPA III Kapsamında Tarım ve Kırsal Kalkınma İçin IPARD III Yardımı Çerçevesinde Türkiye Cumhuriyeti Hükümeti ile Avrupa Komisyonu Arasında 8 Nisan 2024 Tarihinde Yürürlüğe Giren ve En Son 23 Aralık 2024 Tarihinde Değiştirilen 2021-2027 Finansman Anlaşmasını Değiştiren Anlaşmanın Onaylanması Hakkında Karar (Karar Sayısı: 12012)",
+   "ozet": "",
+   "tarih": "2026-11-21",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261121-1.pdf",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33437"
+  },
+  {
+   "id": "rg-20261121-20261121-2pdf",
+   "kaynak": "rg",
+   "tur": "Milletlerarası Andlaşma",
+   "baslik": "Türkiye Cumhuriyeti Hükümeti ve Pakistan İslam Cumhuriyeti Hükümeti Arasında Hidrokarbonlar Alanında İşbirliğine İlişkin Anlaşma ve Anlaşmanın Değiştirilmesine İlişkin Olarak 13 Şubat 2025 Tarihinde İslamabad’da İmzalanan İlişik Protokolün Onaylanması Hakkında Karar (Karar Sayısı: 12013)",
+   "ozet": "",
+   "tarih": "2026-11-21",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261121-2.pdf",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33437"
+  },
+  {
+   "id": "rg-20261121-20261121-3pdf",
+   "kaynak": "rg",
+   "tur": "Milletlerarası Andlaşma",
+   "baslik": "Türkiye Cumhuriyeti Hükümeti ile Somali Federal Cumhuriyeti Hükümeti Arasında Ayni Hibe Desteği Anlaşmasının Onaylanması Hakkında Karar (Karar Sayısı: 12014)",
+   "ozet": "",
+   "tarih": "2026-11-21",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261121-3.pdf",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33437"
+  },
+  {
+   "id": "rg-20261121-20261121-4pdf",
+   "kaynak": "rg",
+   "tur": "Milletlerarası Andlaşma",
+   "baslik": "Türkiye Cumhuriyeti Yükseköğretim Kurulu Başkanlığı ile Suriye Arap Cumhuriyeti Yükseköğretim ve Bilimsel Araştırma Bakanlığı Arasında Gaziantep Üniversitesi ile Sağlık Bilimleri Üniversitesinin Suriye’deki Akademik Birimlerinin Faaliyetlerine İlişkin Mutabakat Zaptının Onaylanması Hakkında Karar (Karar Sayısı: 12015)",
+   "ozet": "",
+   "tarih": "2026-11-21",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261121-4.pdf",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 2,
+   "rgSayi": "33437"
+  },
+  {
+   "id": "rg-20261121-20261121-5pdf",
+   "kaynak": "rg",
+   "tur": "Cumhurbaşkanı Kararı",
+   "baslik": "Gaziantep Üniversitesi Rektörlüğü ile Sağlık Bilimleri Üniversitesi Rektörlüğüne Bağlı Olarak Suriye’de Kurulan Bazı Fakülte ve Yüksekokulların Kapatılması Hakkında Karar (Karar Sayısı: 12016)",
+   "ozet": "",
+   "tarih": "2026-11-21",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261121-5.pdf",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 2,
+   "rgSayi": "33437"
+  },
+  {
+   "id": "rg-20261121-20261121-7htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Beşerî Tıbbi Ürünlerin Tanıtım Faaliyetleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-11-21",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261121-7.htm",
+   "alanlar": [],
+   "onem": 2,
+   "rgSayi": "33437"
+  },
+  {
+   "id": "rg-20261121-20261121-6pdf",
+   "kaynak": "rg",
+   "tur": "Atama Kararı",
+   "baslik": "Cumhurbaşkanlığı Tarafından Yapılan Atamalar Hakkında Kararlar (Karar: 2026/389, 390, 391, 392, 393)",
+   "ozet": "",
+   "tarih": "2026-11-21",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261121-6.pdf",
+   "alanlar": [],
+   "onem": 1,
+   "rgSayi": "33437"
+  },
   {
    "id": "rg-20261120-20261120-1htm",
    "kaynak": "rg",
@@ -202,9 +306,7 @@
    "onem": 3,
    "esasNo": "2025/144",
    "kararNo": "2026/164",
-   "basvuruNo": null,
-   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261117-3.pdf",
-   "rgSayi": "33433"
+   "basvuruNo": null
   },
   {
    "id": "rg-20261117-20261117-1htm",
@@ -10419,66 +10521,6 @@
    "esasNo": null,
    "kararNo": null,
    "basvuruNo": "2020/20319"
-  },
-  {
-   "id": "aym-e3cf3d01-1794-4dbe-a786-7f5359f63022",
-   "kaynak": "aym",
-   "tur": "AYM Bireysel Başvuru",
-   "baslik": "Hüseyin Arslan ve Ahmet Gemici başvurusu",
-   "ozet": "Başvuru, 8/3/2012 tarihli ve 6284 sayılı Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanun uyarınca verilen tedbir kararına yönelik esaslı iddiaların itiraz mercii tarafından karşılanmaması nedeniyle gerekçeli karar hakkının, mahkeme kararında \"şiddet uygulayan\" ifadesinin kullanılması nedeniyle şeref ve itibar hakkının ihlal edildiği iddialarına ilişkindir.",
-   "sonuc": "Esas (İhlal)",
-   "etiket": "B. No: 2022/83644",
-   "tarih": "2026-09-21",
-   "kararTarihi": "2026-03-12",
-   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmUzY2YzZDAxLTE3OTQtNGRiZS1hNzg2LTdmNTM1OWY2MzAyMg&type=BireyselBasvuru",
-   "alanlar": [
-    "Aile"
-   ],
-   "onem": 3,
-   "esasNo": null,
-   "kararNo": null,
-   "basvuruNo": "2022/83644"
-  },
-  {
-   "id": "aym-844c0f52-acea-4c7d-8f4f-73a77cfd8de9",
-   "kaynak": "aym",
-   "tur": "AYM Bireysel Başvuru",
-   "baslik": "Abdülkadir Yılmaz ve Diğerleri (4) başvurusu",
-   "ozet": "Başvuru; bir yer altı maden ocağında meydana gelen birçok kişinin ölümü ve pek çok kişinin yaralanmasıyla sonuçlanan olaya ilişkin olarak yürütülen ceza soruşturması kapsamında kamu görevlisi olan bazı şüpheliler hakkında soruşturma izni verilmemesi nedeniyle yaşam hakkının ihlal edildiği iddiasına ilişkindir.",
-   "sonuc": "Esas (İhlal)",
-   "etiket": "B. No: 2021/52171",
-   "tarih": "2026-09-21",
-   "kararTarihi": "2026-03-12",
-   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjg0NGMwZjUyLWFjZWEtNGM3ZC04ZjRmLTczYTc3Y2ZkOGRlOQ&type=BireyselBasvuru",
-   "alanlar": [
-    "Ceza",
-    "İdare",
-    "Anayasa"
-   ],
-   "onem": 3,
-   "esasNo": null,
-   "kararNo": null,
-   "basvuruNo": "2021/52171"
-  },
-  {
-   "id": "aym-14ffa159-b25a-4661-9592-e9ad9a5ad37d",
-   "kaynak": "aym",
-   "tur": "AYM Bireysel Başvuru",
-   "baslik": "Mehmet Yıldırım başvurusu",
-   "ozet": "Başvuru, ceza infaz kurumunda kalabalık odada tutulma nedeniyle kötü muamele yasağının ihlal edildiği iddiasına ilişkindir.",
-   "sonuc": "Esas (İhlal)",
-   "etiket": "B. No: 2021/46011",
-   "tarih": "2026-09-21",
-   "kararTarihi": "2026-03-12",
-   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjE0ZmZhMTU5LWIyNWEtNDY2MS05NTkyLWU5YWQ5YTVhZDM3ZA&type=BireyselBasvuru",
-   "alanlar": [
-    "Ceza",
-    "Anayasa"
-   ],
-   "onem": 3,
-   "esasNo": null,
-   "kararNo": null,
-   "basvuruNo": "2021/46011"
   }
  ]
 }
