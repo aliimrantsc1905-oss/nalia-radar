@@ -1,13 +1,11 @@
 {
  "surum": 1,
- "guncelleme": "2026-11-22T20:26+03:00",
+ "guncelleme": "2026-11-23T16:37+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
-   "gun": 13,
-   "hata": [
-    "2026-11-09: <urlopen error timed out>"
-   ]
+   "gun": 14,
+   "hata": null
   },
   "aym": {
    "ok": true,
@@ -19,6 +17,34 @@
   }
  },
  "kayitlar": [
+  {
+   "id": "rg-20261123-20261123-1htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Biruni Üniversitesi Ana Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-11-23",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261123-1.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33439"
+  },
+  {
+   "id": "rg-20261123-20261123-2htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Biruni Üniversitesi Lisansüstü Eğitim-Öğretim ve Sınav Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-11-23",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261123-2.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33439"
+  },
   {
    "id": "rg-20261122-20261122-1htm",
    "kaynak": "rg",
@@ -9870,362 +9896,6 @@
    "esasNo": null,
    "kararNo": null,
    "basvuruNo": "2021/63996"
-  },
-  {
-   "id": "aym-c3682ffa-cc33-4e9e-a692-2886874fbff6",
-   "kaynak": "aym",
-   "tur": "AYM Bireysel Başvuru",
-   "baslik": "Ahmet Şahin Gürbüz ve Haluk Gürbüz başvurusu",
-   "ozet": "Başvuru, kamulaştırmasız el atma tazminatının 4/11/1983 tarihli ve 2942 sayılı Kamulaştırma Kanunu'nun ek 3. maddesi kapsamında belirlenmesi nedeniyle silahların eşitliği ilkesinin ihlal edildiği iddiasına ilişkindir.",
-   "sonuc": "Esas (İhlal)",
-   "etiket": "B. No: 2023/45569",
-   "tarih": "2026-09-23",
-   "kararTarihi": "2026-05-18",
-   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmMzNjgyZmZhLWNjMzMtNGU5ZS1hNjkyLTI4ODY4NzRmYmZmNg&type=BireyselBasvuru",
-   "alanlar": [
-    "Gayrimenkul",
-    "Borçlar"
-   ],
-   "onem": 3,
-   "esasNo": null,
-   "kararNo": null,
-   "basvuruNo": "2023/45569"
-  },
-  {
-   "id": "aym-eaab28c7-9ad3-441e-af8e-eccb73ef9813",
-   "kaynak": "aym",
-   "tur": "AYM Bireysel Başvuru",
-   "baslik": "Burcu Şahinkaya başvurusu",
-   "ozet": "Başvuru, askıya alınmış olan pilot lisansının askı süresinin uzatılması nedeniyle özel hayata saygı hakkının ihlal edildiği iddiasına ilişkindir.",
-   "sonuc": "Esas (İhlal)",
-   "etiket": "B. No: 2021/5884",
-   "tarih": "2026-09-23",
-   "kararTarihi": "2026-04-22",
-   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmVhYWIyOGM3LTlhZDMtNDQxZS1hZjhlLWVjY2I3M2VmOTgxMw&type=BireyselBasvuru",
-   "alanlar": [
-    "Anayasa"
-   ],
-   "onem": 3,
-   "esasNo": null,
-   "kararNo": null,
-   "basvuruNo": "2021/5884"
-  },
-  {
-   "id": "aym-1c57628a-9a5c-43e4-9d35-3d8891bb7425",
-   "kaynak": "aym",
-   "tur": "AYM Bireysel Başvuru",
-   "baslik": "Z.S. başvurusu",
-   "ozet": "Başvuru, yabancının kötü muamele riskiyle karşılaşacağı ülkeye gönderilmesine karşı korunmasını sağlayan etkili usul güvencelerinin kendisine sağlanmaması nedeniyle kötü muamele yasağının ihlal edildiği iddiasına ilişkindir.",
-   "sonuc": "Esas (İhlal)",
-   "etiket": "B. No: 2026/23892",
-   "tarih": "2026-09-23",
-   "kararTarihi": "2026-07-22",
-   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjFjNTc2MjhhLTlhNWMtNDNlNC05ZDM1LTNkODg5MWJiNzQyNQ&type=BireyselBasvuru",
-   "alanlar": [
-    "Anayasa"
-   ],
-   "onem": 3,
-   "esasNo": null,
-   "kararNo": null,
-   "basvuruNo": "2026/23892"
-  },
-  {
-   "id": "aym-5091495c-e279-44d7-983e-b6bc3c36b45e",
-   "kaynak": "aym",
-   "tur": "AYM Bireysel Başvuru",
-   "baslik": "Haldun Gülmez başvurusu",
-   "ozet": "Başvuru, ceza infaz kurumunda hükümlü olarak bulunan başvurucunun odasında yapılan arama sırasında kurum görevlilerine karşı söylediği sözler nedeniyle disiplin cezasıyla cezalandırılmasının ifade özgürlüğünü ihlal ettiği iddiasına ilişkindir.",
-   "sonuc": "Esas (İhlal)",
-   "etiket": "B. No: 2024/15650",
-   "tarih": "2026-09-23",
-   "kararTarihi": "2026-07-22",
-   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjUwOTE0OTVjLWUyNzktNDRkNy05ODNlLWI2YmMzYzM2YjQ1ZQ&type=BireyselBasvuru",
-   "alanlar": [
-    "Ceza",
-    "İdare",
-    "Anayasa"
-   ],
-   "onem": 3,
-   "esasNo": null,
-   "kararNo": null,
-   "basvuruNo": "2024/15650"
-  },
-  {
-   "id": "aym-55bbea78-2773-4c2c-8f83-d452e4423500",
-   "kaynak": "aym",
-   "tur": "AYM Bireysel Başvuru",
-   "baslik": "Estetik Yayıncılık A.ş. (4) başvurusu",
-   "ozet": "Başvuru, ulusal bir gazetede yayımlanan bir haberin başvurucunun şeref ve itibarının korunması hakkını ihlal ettiği iddiasıyla açılan manevi tazminat davasının usulden reddedilmesi nedeniyle şeref ve itibarın korunması hakkı ile bağlantılı olarak etkili başvuru hakkının ihlal edildiği iddiasına ilişkindir.",
-   "sonuc": "Esas (İhlal)",
-   "etiket": "B. No: 2023/76842",
-   "tarih": "2026-09-23",
-   "kararTarihi": "2026-07-22",
-   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjU1YmJlYTc4LTI3NzMtNGMyYy04ZjgzLWQ0NTJlNDQyMzUwMA&type=BireyselBasvuru",
-   "alanlar": [
-    "Borçlar"
-   ],
-   "onem": 3,
-   "esasNo": null,
-   "kararNo": null,
-   "basvuruNo": "2023/76842"
-  },
-  {
-   "id": "aym-ef9fd353-e85f-4c0d-b7d1-adb7eeb15873",
-   "kaynak": "aym",
-   "tur": "AYM Bireysel Başvuru",
-   "baslik": "Ömer Suveyd başvurusu",
-   "ozet": "Başvuru, istinaf başvuru süresinin tefhimden itibaren başlatılarak istinaf talebinin süre yönünden reddedilmesi nedeniyle mahkemeye erişim hakkının ihlal edildiği iddiasına ilişkindir.",
-   "sonuc": "Esas (İhlal)",
-   "etiket": "B. No: 2023/24183",
-   "tarih": "2026-09-23",
-   "kararTarihi": "2026-07-22",
-   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmVmOWZkMzUzLWU4NWYtNGMwZC1iN2QxLWFkYjdlZWIxNTg3Mw&type=BireyselBasvuru",
-   "alanlar": [
-    "Anayasa"
-   ],
-   "onem": 3,
-   "esasNo": null,
-   "kararNo": null,
-   "basvuruNo": "2023/24183"
-  },
-  {
-   "id": "aym-3d9d07a9-3bf3-42be-99af-5f402b052466",
-   "kaynak": "aym",
-   "tur": "AYM Bireysel Başvuru",
-   "baslik": "Emrah Değirmenci başvurusu",
-   "ozet": "Başvuru, mahpus olan eşlerin ziyaret hakkı olan çocuklarıyla aynı anda görüş yapabilmelerine izin verilmemesi nedeniyle aile hayatına saygı hakkının ihlal edildiği iddiasına ilişkindir.",
-   "sonuc": "Esas (İhlal)",
-   "etiket": "B. No: 2023/19914",
-   "tarih": "2026-09-23",
-   "kararTarihi": "2026-07-22",
-   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjNkOWQwN2E5LTNiZjMtNDJiZS05OWFmLTVmNDAyYjA1MjQ2Ng&type=BireyselBasvuru",
-   "alanlar": [
-    "Aile"
-   ],
-   "onem": 3,
-   "esasNo": null,
-   "kararNo": null,
-   "basvuruNo": "2023/19914"
-  },
-  {
-   "id": "aym-81525419-0213-4822-b6c8-96bec597ed63",
-   "kaynak": "aym",
-   "tur": "AYM Bireysel Başvuru",
-   "baslik": "Reşit Çilkız başvurusu",
-   "ozet": "Başvuru, açık görüş gününün öğrenim gören çocuklarla görüşmeyi sağlayacak şekilde belirlenmesi ve pandemi döneminde yaptırılmayan açık/kapalı görüşlerin sonradan telafi edilmesi taleplerinin reddedilmesi nedeniyle aile hayatına saygı hakkının ihlal edildiği iddialarına ilişkindir.",
-   "sonuc": "Esas (İhlal)",
-   "etiket": "B. No: 2023/4949",
-   "tarih": "2026-09-23",
-   "kararTarihi": "2026-07-22",
-   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjgxNTI1NDE5LTAyMTMtNDgyMi1iNmM4LTk2YmVjNTk3ZWQ2Mw&type=BireyselBasvuru",
-   "alanlar": [
-    "Aile"
-   ],
-   "onem": 3,
-   "esasNo": null,
-   "kararNo": null,
-   "basvuruNo": "2023/4949"
-  },
-  {
-   "id": "aym-437126df-5e99-4bd9-8994-902fef610658",
-   "kaynak": "aym",
-   "tur": "AYM Bireysel Başvuru",
-   "baslik": "Fk Beylikdüzü Seyahat Ticaret Ltd. Şti. ve Ligero Tekstil Gıda Sanayi ve Dış Ticaret Ltd. Şti. başvurusu",
-   "ozet": "Başvuru, kanunda kabahat olarak sayılmayan bir fiilden dolayı idari yaptırım uygulanması nedeniyle suçta ve cezada kanunilik ilkesinin ihlal edildiği iddiasına ilişkindir.",
-   "sonuc": "Esas (İhlal)",
-   "etiket": "B. No: 2022/47263",
-   "tarih": "2026-09-23",
-   "kararTarihi": "2026-07-22",
-   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjQzNzEyNmRmLTVlOTktNGJkOS04OTk0LTkwMmZlZjYxMDY1OA&type=BireyselBasvuru",
-   "alanlar": [
-    "Anayasa"
-   ],
-   "onem": 3,
-   "esasNo": null,
-   "kararNo": null,
-   "basvuruNo": "2022/47263"
-  },
-  {
-   "id": "aym-496e4cb7-28f2-403c-87bb-b9dded13036d",
-   "kaynak": "aym",
-   "tur": "AYM Bireysel Başvuru",
-   "baslik": "Mehmet Can Yigirer başvurusu",
-   "ozet": "Başvuru, mahpus olan başvurucunun babasının cenaze veya taziye törenine katılması için izin verilmemesi nedeniyle özel hayata ve aile hayatına saygı hakkının ihlal edildiği iddiasına ilişkindir.",
-   "sonuc": "Esas (İhlal)",
-   "etiket": "B. No: 2022/20929",
-   "tarih": "2026-09-23",
-   "kararTarihi": "2026-07-22",
-   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjQ5NmU0Y2I3LTI4ZjItNDAzYy04N2JiLWI5ZGRlZDEzMDM2ZA&type=BireyselBasvuru",
-   "alanlar": [
-    "Aile",
-    "Anayasa"
-   ],
-   "onem": 3,
-   "esasNo": null,
-   "kararNo": null,
-   "basvuruNo": "2022/20929"
-  },
-  {
-   "id": "aym-37f9972f-333a-45aa-9097-3ed882a86de0",
-   "kaynak": "aym",
-   "tur": "AYM Bireysel Başvuru",
-   "baslik": "İsa Altun başvurusu",
-   "ozet": "Başvuru, isim ve soy ismi değişikliği talebinin reddedilmesi nedeniyle özel hayata saygı hakkının ihlal edildiği iddiasına ilişkindir.",
-   "sonuc": "Esas (İhlal)",
-   "etiket": "B. No: 2021/34073",
-   "tarih": "2026-09-23",
-   "kararTarihi": "2026-07-22",
-   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjM3Zjk5NzJmLTMzM2EtNDVhYS05MDk3LTNlZDg4MmE4NmRlMA&type=BireyselBasvuru",
-   "alanlar": [
-    "Anayasa"
-   ],
-   "onem": 3,
-   "esasNo": null,
-   "kararNo": null,
-   "basvuruNo": "2021/34073"
-  },
-  {
-   "id": "aym-56082fb6-871a-4e66-bfaa-140b48dca68b",
-   "kaynak": "aym",
-   "tur": "AYM Bireysel Başvuru",
-   "baslik": "Şevki Hakan Onmuş başvurusu",
-   "ozet": "Başvuru; tapu iptali ve tescil istemli davada başvurucu adına kayıtlı taşınmaz üzerine konulan ihtiyati tedbirin uzun süre devam etmesi nedeniyle mülkiyet hakkının ihlal edildiği iddiasına ilişkindir.",
-   "sonuc": "Esas (İhlal)",
-   "etiket": "B. No: 2021/20601",
-   "tarih": "2026-09-23",
-   "kararTarihi": "2026-07-22",
-   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjU2MDgyZmI2LTg3MWEtNGU2Ni1iZmFhLTE0MGI0OGRjYTY4Yg&type=BireyselBasvuru",
-   "alanlar": [
-    "İcra",
-    "Gayrimenkul",
-    "Anayasa"
-   ],
-   "onem": 3,
-   "esasNo": null,
-   "kararNo": null,
-   "basvuruNo": "2021/20601"
-  },
-  {
-   "id": "aym-83d56e21-6a84-46c6-b24d-62a0d014ef8d",
-   "kaynak": "aym",
-   "tur": "AYM Bireysel Başvuru",
-   "baslik": "Erdoğan Kapıcıoğlu ve Erol Kapıcıoğlu başvurusu",
-   "ozet": "Başvuru, ceza kovuşturması kapsamında uzun süreden beri silah üzerindeki elkoyma tedbirinin devam etmesi nedeniyle mülkiyet hakkının ihlal edildiği iddiasına ilişkindir.",
-   "sonuc": "Esas (İhlal)",
-   "etiket": "B. No: 2021/12624",
-   "tarih": "2026-09-23",
-   "kararTarihi": "2026-07-22",
-   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjgzZDU2ZTIxLTZhODQtNDZjNi1iMjRkLTYyYTBkMDE0ZWY4ZA&type=BireyselBasvuru",
-   "alanlar": [
-    "Ceza",
-    "Anayasa"
-   ],
-   "onem": 3,
-   "esasNo": null,
-   "kararNo": null,
-   "basvuruNo": "2021/12624"
-  },
-  {
-   "id": "aym-bae31f43-03cd-46ff-963f-a71f531fcf46",
-   "kaynak": "aym",
-   "tur": "AYM Bireysel Başvuru",
-   "baslik": "Belgin Özdemir ve Diğerleri başvurusu",
-   "ozet": "Başvuru; kamulaştırmasız el atmaya dayalı tazminat davasının reddedilmesi nedeniyle mülkiyet hakkının, yargılamanın uzun sürmesi nedeniyle de makul sürede yargılanma hakkının ihlal edildiği iddialarına ilişkindir.",
-   "sonuc": "Esas (İhlal)",
-   "etiket": "B. No: 2020/35815",
-   "tarih": "2026-09-23",
-   "kararTarihi": "2026-07-22",
-   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmJhZTMxZjQzLTAzY2QtNDZmZi05NjNmLWE3MWY1MzFmY2Y0Ng&type=BireyselBasvuru",
-   "alanlar": [
-    "Gayrimenkul",
-    "Borçlar",
-    "Anayasa"
-   ],
-   "onem": 3,
-   "esasNo": null,
-   "kararNo": null,
-   "basvuruNo": "2020/35815"
-  },
-  {
-   "id": "aym-0312f386-f200-4369-8ca0-5e55816bdb42",
-   "kaynak": "aym",
-   "tur": "AYM Bireysel Başvuru",
-   "baslik": "Zeynal Kıran başvurusu",
-   "ozet": "Başvuru, ön alım hakkına dayalı tapu iptal ve tescil davasının başında belirlenen ön alım bedelinin on yılı aşan dava süreci neticesinde aynen ödenmesine karar verilmesi nedeniyle mülkiyet hakkının ihlal edildiği iddiasına ilişkindir.",
-   "sonuc": "Esas (İhlal Olmadığı)",
-   "etiket": "B. No: 2018/19594",
-   "tarih": "2026-09-23",
-   "kararTarihi": "2026-05-18",
-   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjAzMTJmMzg2LWYyMDAtNDM2OS04Y2EwLTVlNTU4MTZiZGI0Mg&type=BireyselBasvuru",
-   "alanlar": [
-    "Gayrimenkul",
-    "Anayasa"
-   ],
-   "onem": 2,
-   "esasNo": null,
-   "kararNo": null,
-   "basvuruNo": "2018/19594"
-  },
-  {
-   "id": "aym-39072b43-b4db-48fd-a88c-dbbd1cfc0f07",
-   "kaynak": "aym",
-   "tur": "AYM Bireysel Başvuru",
-   "baslik": "Murat Korkmaz (2) başvurusu",
-   "ozet": "Başvuru, haksız fiilden kaynaklanan tazminat davalarında ihtiyati haciz kararı verilmesi ve ihtiyati haczin uzun süredir devam etmesi nedenleriyle mülkiyet hakkının ihlal edildiği iddiasına ilişkindir.",
-   "sonuc": "Esas (İhlal Olmadığı)",
-   "etiket": "B. No: 2023/104282",
-   "tarih": "2026-09-23",
-   "kararTarihi": "2026-07-22",
-   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjM5MDcyYjQzLWI0ZGItNDhmZC1hODhjLWRiYmQxY2ZjMGYwNw&type=BireyselBasvuru",
-   "alanlar": [
-    "İcra",
-    "Borçlar",
-    "Anayasa"
-   ],
-   "onem": 2,
-   "esasNo": null,
-   "kararNo": null,
-   "basvuruNo": "2023/104282"
-  },
-  {
-   "id": "aym-41281169-66ab-4cba-a018-eb77733b065f",
-   "kaynak": "aym",
-   "tur": "AYM Bireysel Başvuru",
-   "baslik": "Ercan İçli başvurusu",
-   "ozet": "Başvuru; devletin millî güvenliğine karşı faaliyette bulunduğuna karar verilen Fetullahçı Terör Örgütü ve/veya Paralel Devlet Yapılanması ile iltisak ve irtibatının olduğu değerlendirilen kamu görevlisinin olağanüstü hâl kanun hükmünde kararnamesinin ekli listesinde ismine yer verilmek suretiyle rütbesinin geri alınması nedeniyle özel hayata saygı hakkının, kesinleşmiş bir ceza mahkemesi kararı olmadan rütbesinin alınması nedeniyle de masumiyet karinesinin ihlal edildiği iddialarına ilişkindir.",
-   "sonuc": "Esas (İhlal Olmadığı)",
-   "etiket": "B. No: 2021/40965",
-   "tarih": "2026-09-23",
-   "kararTarihi": "2026-07-22",
-   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjQxMjgxMTY5LTY2YWItNGNiYS1hMDE4LWViNzc3MzNiMDY1Zg&type=BireyselBasvuru",
-   "alanlar": [
-    "İdare",
-    "Anayasa"
-   ],
-   "onem": 2,
-   "esasNo": null,
-   "kararNo": null,
-   "basvuruNo": "2021/40965"
-  },
-  {
-   "id": "aym-26c49728-2aa2-4fd9-86f7-7f43f06ab912",
-   "kaynak": "aym",
-   "tur": "AYM Bireysel Başvuru",
-   "baslik": "Niyazi Candan başvurusu",
-   "ozet": "Başvuru, başvurucuya ait taşınmazın yer aldığı bölgede kanalizasyon ve arıtma sistemi bulunmaması nedeniyle özel hayata saygı hakkının ve yargılamanın uzun sürmesi nedeniyle makul sürede yargılanma hakkının ihlal edildiği iddiasına ilişkindir.",
-   "sonuc": "Esas (İhlal Olmadığı)",
-   "etiket": "B. No: 2021/15459",
-   "tarih": "2026-09-23",
-   "kararTarihi": "2026-07-22",
-   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjI2YzQ5NzI4LTJhYTItNGZkOS04NmY3LTdmNDNmMDZhYjkxMg&type=BireyselBasvuru",
-   "alanlar": [
-    "Gayrimenkul",
-    "Anayasa"
-   ],
-   "onem": 2,
-   "esasNo": null,
-   "kararNo": null,
-   "basvuruNo": "2021/15459"
   }
  ]
 }
