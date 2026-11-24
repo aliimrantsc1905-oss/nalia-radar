@@ -1,14 +1,11 @@
 {
  "surum": 1,
- "guncelleme": "2026-11-24T00:44+03:00",
+ "guncelleme": "2026-11-24T17:16+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
-   "gun": 12,
-   "hata": [
-    "2026-11-20: <urlopen error timed out>",
-    "2026-11-13: <urlopen error timed out>"
-   ]
+   "gun": 14,
+   "hata": null
   },
   "aym": {
    "ok": true,
@@ -31,6 +28,104 @@
    "alanlar": [],
    "onem": 3,
    "rgSayi": "33440"
+  },
+  {
+   "id": "aym-77e70173-9be9-47fb-8c01-eebb57042c03",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Şükrü Çelik başvurusu",
+   "ozet": "Başvuru; haksız yakalama, gözaltı ve konutu terk etmeme adli kontrol tedbiri işlemlerinden doğan maddi ve manevi zararın tazmini istemiyle açılan davada yeterli tazminata hükmedilmemesi nedeniyle kişi hürriyeti ve güvenliği hakkının ihlal edildiği iddiasına ilişkindir.",
+   "sonuc": "Esas (İhlal)",
+   "etiket": "B. No: 2025/11427",
+   "tarih": "2026-11-24",
+   "kararTarihi": "2026-10-14",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjc3ZTcwMTczLTliZTktNDdmYi04YzAxLWVlYmI1NzA0MmMwMw&type=BireyselBasvuru",
+   "alanlar": [
+    "Borçlar",
+    "Anayasa"
+   ],
+   "onem": 3,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2025/11427"
+  },
+  {
+   "id": "aym-6e5c15ce-17cb-4c09-af2d-72b08fb754cc",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "T.D. başvurusu",
+   "ozet": "Başvuru, ceza davasında bağlantılı suçlardan birine ilişkin temyiz incelemesi devam ederken diğer suçtan kurulan hükmün istinaf aşamasında kesinleşmesi ve kesinleşen hüküm yönünden infaz aşamasına geçilmesi nedeniyle hakkaniyete uygun yargılanma hakkının ihlal edildiği iddiasına ilişkindir.",
+   "sonuc": "Esas (İhlal)",
+   "etiket": "B. No: 2023/4201",
+   "tarih": "2026-11-24",
+   "kararTarihi": "2026-10-14",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjZlNWMxNWNlLTE3Y2ItNGMwOS1hZjJkLTcyYjA4ZmI3NTRjYw&type=BireyselBasvuru",
+   "alanlar": [
+    "Ceza",
+    "Anayasa"
+   ],
+   "onem": 3,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2023/4201"
+  },
+  {
+   "id": "aym-0c7a2433-899e-44c1-ba47-412eda145e5e",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Halime Koçak başvurusu",
+   "ozet": "Başvuru, pasaport üzerindeki tahdit kaydının kaldırılması talebiyle yapılan başvurunun reddedilmesi işleminin iptali davasında uyuşmazlığın esasına etkili iddiaların karşılanmaması nedeniyle gerekçeli karar hakkının ihlal edildiği iddiasına ilişkindir.",
+   "sonuc": "Esas (İhlal)",
+   "etiket": "B. No: 2021/57198",
+   "tarih": "2026-11-24",
+   "kararTarihi": "2026-07-01",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjBjN2EyNDMzLTg5OWUtNDRjMS1iYTQ3LTQxMmVkYTE0NWU1ZQ&type=BireyselBasvuru",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2021/57198"
+  },
+  {
+   "id": "aym-9bdb857b-3e3d-4fbd-a2fc-75cc4d88d9f4",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "ALİ AK VE DİĞERLERİ başvurusu",
+   "ozet": "Başvuru, kişisel verilerin güvenlik soruşturması ve arşiv araştırmasına esas alınması nedeniyle kişisel verilerin korunmasını isteme hakkının ihlal edildiği iddiasına ilişkindir.",
+   "sonuc": "Esas (İhlal)",
+   "etiket": "B. No: 2021/51233",
+   "tarih": "2026-11-24",
+   "kararTarihi": "2026-09-16",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjliZGI4NTdiLTNlM2QtNGZiZC1hMmZjLTc1Y2M0ZDg4ZDlmNA&type=BireyselBasvuru",
+   "alanlar": [
+    "Ceza",
+    "Bilişim"
+   ],
+   "onem": 3,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2021/51233"
+  },
+  {
+   "id": "aym-95ca7c25-755a-4f0f-9cf5-0256c5ec5220",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Uğur Bölükbaşı başvurusu",
+   "ozet": "Başvuru, kamu davasının açılmasının ertelenmesi kararına bağlı olarak el konulan silahın iade edilmemesi nedeniyle mülkiyet hakkının ihlal edildiği iddiasına ilişkindir.",
+   "sonuc": "Esas (İhlal)",
+   "etiket": "B. No: 2020/32002",
+   "tarih": "2026-11-24",
+   "kararTarihi": "2026-07-21",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjk1Y2E3YzI1LTc1NWEtNGYwZi05Y2Y1LTAyNTZjNWVjNTIyMA&type=BireyselBasvuru",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2020/32002"
   },
   {
    "id": "rg-20261124-20261124-2htm",
@@ -4101,6 +4196,25 @@
    "rgSayi": "33409"
   },
   {
+   "id": "aym-88269f56-4634-4b49-be30-9ac0ce105739",
+   "kaynak": "aym",
+   "tur": "AYM Norm Denetimi",
+   "baslik": "663 sayılı Sağlık Alanında Bazı Düzenlemeler Hakkında Kanun",
+   "ozet": "11/10/2011 tarihli ve 663 sayılı Sağlık Alanında Bazı Düzenlemeler Hakkında Kanun Hükmünde Kararname’ye 1/2/2018 tarihli ve 7070 sayılı Kanun’un 62. maddesiyle eklenen 45/A maddesinin (3) numaralı fıkrasının üçüncü cümlesinde yer alan “ …kadrolu statüde … ” ibaresinin Anayasa’nın 13., 20. ve 41. maddelerine aykırılığı ileri sürülerek iptaline karar verilmesi talebidir.",
+   "sonuc": "Esas - Ret",
+   "etiket": "E. 2026/46, K. 2026/145",
+   "tarih": "2026-10-22",
+   "kararTarihi": "2026-06-25",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjg4MjY5ZjU2LTQ2MzQtNGI0OS1iZTMwLTlhYzBjZTEwNTczOQ&type=NormDenetimi",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "esasNo": "2026/46",
+   "kararNo": "2026/145",
+   "basvuruNo": null
+  },
+  {
    "id": "aym-21e4c6e6-173a-4d9c-92bf-a3b15ed4e332",
    "kaynak": "aym",
    "tur": "AYM Bireysel Başvuru",
@@ -4158,25 +4272,6 @@
    "esasNo": null,
    "kararNo": null,
    "basvuruNo": "2021/40650"
-  },
-  {
-   "id": "aym-88269f56-4634-4b49-be30-9ac0ce105739",
-   "kaynak": "aym",
-   "tur": "AYM Norm Denetimi",
-   "baslik": "663 sayılı Sağlık Alanında Bazı Düzenlemeler Hakkında Kanun",
-   "ozet": "11/10/2011 tarihli ve 663 sayılı Sağlık Alanında Bazı Düzenlemeler Hakkında Kanun Hükmünde Kararname’ye 1/2/2018 tarihli ve 7070 sayılı Kanun’un 62. maddesiyle eklenen 45/A maddesinin (3) numaralı fıkrasının üçüncü cümlesinde yer alan “ …kadrolu statüde … ” ibaresinin Anayasa’nın 13., 20. ve 41. maddelerine aykırılığı ileri sürülerek iptaline karar verilmesi talebidir.",
-   "sonuc": "Esas - Ret",
-   "etiket": "E. 2026/46, K. 2026/145",
-   "tarih": "2026-10-22",
-   "kararTarihi": "2026-06-25",
-   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjg4MjY5ZjU2LTQ2MzQtNGI0OS1iZTMwLTlhYzBjZTEwNTczOQ&type=NormDenetimi",
-   "alanlar": [
-    "Anayasa"
-   ],
-   "onem": 3,
-   "esasNo": "2026/46",
-   "kararNo": "2026/145",
-   "basvuruNo": null
   },
   {
    "id": "aym-1c020199-293a-46bb-8eb5-6a8cbeef86e3",
