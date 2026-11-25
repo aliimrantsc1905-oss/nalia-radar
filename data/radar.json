@@ -1,11 +1,13 @@
 {
  "surum": 1,
- "guncelleme": "2026-11-24T23:23+03:00",
+ "guncelleme": "2026-11-25T16:30+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
-   "gun": 14,
-   "hata": null
+   "gun": 13,
+   "hata": [
+    "2026-11-20: <urlopen error timed out>"
+   ]
   },
   "aym": {
    "ok": true,
@@ -17,6 +19,46 @@
   }
  },
  "kayitlar": [
+  {
+   "id": "rg-20261125-20261125-3pdf",
+   "kaynak": "rg",
+   "tur": "Atama Kararı",
+   "baslik": "Cumhurbaşkanlığı Tarafından Yapılan Atamalar Hakkında Kararlar (Karar: 2026/398, 399)",
+   "ozet": "",
+   "tarih": "2026-11-25",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261125-3.pdf",
+   "alanlar": [],
+   "onem": 1,
+   "rgSayi": "33441"
+  },
+  {
+   "id": "rg-20261125-20261125-1htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Atılım Üniversitesi Sürekli Eğitim Uygulama ve Araştırma Merkezi Yönetmeliği",
+   "ozet": "",
+   "tarih": "2026-11-25",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261125-1.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33441"
+  },
+  {
+   "id": "rg-20261125-20261125-2htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Harran Üniversitesi Ortadoğu Araştırmaları Uygulama ve Araştırma Merkezi Yönetmeliği",
+   "ozet": "",
+   "tarih": "2026-11-25",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261125-2.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33441"
+  },
   {
    "id": "rg-20261124-20261124-5pdf",
    "kaynak": "rg",
