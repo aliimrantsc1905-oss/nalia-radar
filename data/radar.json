@@ -1,13 +1,11 @@
 {
  "surum": 1,
- "guncelleme": "2026-11-25T22:38+03:00",
+ "guncelleme": "2026-11-26T16:06+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
-   "gun": 13,
-   "hata": [
-    "2026-11-16: <urlopen error timed out>"
-   ]
+   "gun": 14,
+   "hata": null
   },
   "aym": {
    "ok": true,
@@ -19,6 +17,210 @@
   }
  },
  "kayitlar": [
+  {
+   "id": "rg-20261126-20261126-9pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 12/5/2026 Tarihli ve 2024/32475 Başvuru Numaralı Kararı",
+   "ozet": "",
+   "tarih": "2026-11-26",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261126-9.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33442",
+   "basvuruNo": "2024/32475"
+  },
+  {
+   "id": "rg-20261126-20261126-10pdf",
+   "kaynak": "rg",
+   "tur": "AYM Kararı",
+   "baslik": "Anayasa Mahkemesinin 18/5/2026 Tarihli ve 2020/28239 Başvuru Numaralı Kararı",
+   "ozet": "",
+   "tarih": "2026-11-26",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261126-10.pdf",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "rgSayi": "33442",
+   "basvuruNo": "2020/28239"
+  },
+  {
+   "id": "rg-20261126-20261126-12pdf",
+   "kaynak": "rg",
+   "tur": "Yargıtay Kararı",
+   "baslik": "Yargıtay 2 ve 3. Hukuk Dairelerine Ait Kararlar",
+   "ozet": "",
+   "tarih": "2026-11-26",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261126-12.pdf",
+   "alanlar": [],
+   "onem": 3,
+   "rgSayi": "33442"
+  },
+  {
+   "id": "aym-0adb96d9-7cc2-4481-9a58-ea27409091f2",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Özlem Şahin başvurusu",
+   "ozet": "Başvuru, vazife malulü sayılmama işlemine karşı açılan davada usule ilişkin imkânlar bakımından zayıf duruma düşürülme nedeniyle silahların eşitliği ilkesinin ihlal edildiği iddiasına ilişkindir.",
+   "sonuc": "Esas (İhlal)",
+   "etiket": "B. No: 2021/22990",
+   "tarih": "2026-11-26",
+   "kararTarihi": "2026-06-30",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjBhZGI5NmQ5LTdjYzItNDQ4MS05YTU4LWVhMjc0MDkwOTFmMg&type=BireyselBasvuru",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2021/22990",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261126-11.pdf",
+   "rgSayi": "33442"
+  },
+  {
+   "id": "aym-95f5be1b-a385-4915-959d-0ac3a3f0d518",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Yünus Kıyar başvurusu",
+   "ozet": "Başvuru, mahsup talebinin reddedilmesi nedeniyle kişi hürriyeti ve güvenliği hakkının ihlal edildiği iddiasına ilişkindir.",
+   "sonuc": "Esas (İhlal)",
+   "etiket": "B. No: 2022/101643",
+   "tarih": "2026-11-26",
+   "kararTarihi": "2026-04-02",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjk1ZjViZTFiLWEzODUtNDkxNS05NTlkLTBhYzNhM2YwZDUxOA&type=BireyselBasvuru",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2022/101643",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261126-7.pdf",
+   "rgSayi": "33442"
+  },
+  {
+   "id": "aym-b5738784-9a92-4bca-befd-3c3807345e99",
+   "kaynak": "aym",
+   "tur": "AYM Norm Denetimi",
+   "baslik": "6222 sayılı Sporda Şiddet ve Düzensizliğin Önlenmesine Dair Kanun m.18",
+   "ozet": "İTİRAZLARIN KONUSU: 31/3/2011 tarihli ve 6222 sayılı Sporda Şiddet ve Düzensizliğin Önlenmesine Dair Kanun’un 18. maddesinin (3) ve (8) numaralı fıkralarının Anayasa’nın 23. ve 38. maddelerine aykırılığı ileri sürülerek iptallerine karar verilmesi tale pleri dir.",
+   "sonuc": "Esas - İptal (yürürlüğü ertelendi)",
+   "etiket": "E. 2025/211, K. 2026/146",
+   "tarih": "2026-11-26",
+   "kararTarihi": "2026-06-25",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmI1NzM4Nzg0LTlhOTItNGJjYS1iZWZkLTNjMzgwNzM0NWU5OQ&type=NormDenetimi",
+   "alanlar": [
+    "Anayasa"
+   ],
+   "onem": 3,
+   "esasNo": "2025/211",
+   "kararNo": "2026/146",
+   "basvuruNo": null,
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261126-5.pdf",
+   "rgSayi": "33442"
+  },
+  {
+   "id": "aym-739ac0b0-9f83-4ab6-8bdc-f325f41e03a2",
+   "kaynak": "aym",
+   "tur": "AYM Norm Denetimi",
+   "baslik": "657 sayılı Devlet Memurları Kanunu",
+   "ozet": "14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanunu’nun 21/1/2010 tarihli ve 5947 sayılı Kanun’un 10. maddesiyle değiştirilen ek 33. maddesinin birinci fıkrasının birinci cümlesinde yer alan “ …( nöbet süresi kesintisiz 6 saatten az olmamak üzere)… ” ibaresinin Anayasa’nın 18 . madde s ine aykırılığı ileri sürülerek iptaline karar verilmesi talebidir.",
+   "sonuc": "Esas - İptal",
+   "etiket": "E. 2026/129, K. 2026/191",
+   "tarih": "2026-11-26",
+   "kararTarihi": "2026-09-08",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjczOWFjMGIwLTlmODMtNGFiNi04YmRjLWYzMjVmNDFlMDNhMg&type=NormDenetimi",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 3,
+   "esasNo": "2026/129",
+   "kararNo": "2026/191",
+   "basvuruNo": null,
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261126-6.pdf",
+   "rgSayi": "33442"
+  },
+  {
+   "id": "rg-20261126-20261126-4htm",
+   "kaynak": "rg",
+   "tur": "Tebliğ",
+   "baslik": "İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (No: 2026/33)",
+   "ozet": "",
+   "tarih": "2026-11-26",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261126-4.htm",
+   "alanlar": [
+    "Ticaret"
+   ],
+   "onem": 2,
+   "rgSayi": "33442"
+  },
+  {
+   "id": "aym-2664db9f-491e-423b-b39f-e1808d30d133",
+   "kaynak": "aym",
+   "tur": "AYM Bireysel Başvuru",
+   "baslik": "Orhan İskenderoğlu ve Sophia İrem İskenderoğlu başvurusu",
+   "ozet": "Başvuru; kesinlik sınırının altında kaldığı gerekçesiyle istinaf başvurusunun incelenmeksizin reddine karar verilmesi nedeniyle mahkemeye erişim hakkının, davanın reddedilmesi sonucu talep edilen alacakların elde edilememesi nedeniyle de mülkiyet hakkının ihlal edildiği iddialarına ilişkindir.",
+   "sonuc": "Esas (İhlal Olmadığı)",
+   "etiket": "B. No: 2021/63186",
+   "tarih": "2026-11-26",
+   "kararTarihi": "2026-04-30",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjI2NjRkYjlmLTQ5MWUtNDIzYi1iMzlmLWUxODA4ZDMwZDEzMw&type=BireyselBasvuru",
+   "alanlar": [
+    "Borçlar",
+    "Anayasa"
+   ],
+   "onem": 2,
+   "esasNo": null,
+   "kararNo": null,
+   "basvuruNo": "2021/63186",
+   "rgUrl": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261126-8.pdf",
+   "rgSayi": "33442"
+  },
+  {
+   "id": "rg-20261126-20261126-1htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Hatay Mustafa Kemal Üniversitesi Alternatif Enerji Kaynakları ve Teknoloji Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-11-26",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261126-1.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33442"
+  },
+  {
+   "id": "rg-20261126-20261126-2htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Mustafa Kemal Üniversitesi Tekstil Sanatları Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-11-26",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261126-2.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33442"
+  },
+  {
+   "id": "rg-20261126-20261126-3htm",
+   "kaynak": "rg",
+   "tur": "Yönetmelik",
+   "baslik": "Mustafa Kemal Üniversitesi Yabancı Diller Eğitim-Öğretimi Araştırma ve Uygulama Merkezi (YADİM) Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+   "ozet": "",
+   "tarih": "2026-11-26",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261126-3.htm",
+   "alanlar": [
+    "İdare"
+   ],
+   "onem": 1,
+   "rgSayi": "33442"
+  },
   {
    "id": "rg-20261125-20261125-3pdf",
    "kaynak": "rg",
