@@ -1,12 +1,12 @@
 {
  "surum": 1,
- "guncelleme": "2026-11-27T16:07+03:00",
+ "guncelleme": "2026-11-27T22:13+03:00",
  "kaynaklar": {
   "rg": {
    "ok": true,
    "gun": 13,
    "hata": [
-    "2026-11-23: <urlopen error timed out>"
+    "2026-11-19: <urlopen error timed out>"
    ]
   },
   "aym": {
